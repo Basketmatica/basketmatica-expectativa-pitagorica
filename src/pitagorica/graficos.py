@@ -44,9 +44,11 @@ def fig_curva_k(ks, errores, k_acb: float, ic: tuple[float, float]) -> Figure:
     ax.plot(ks, errores, color=INK, lw=1.8)
     ax.axvline(K_NBA, color=GRIS, ls="--", lw=1.2)
     ax.axvline(k_acb, color=TEJA, lw=1.8)
-    y0 = errores.max()
-    ax.text(K_NBA, y0, f" NBA k = {K_NBA:.0f}", color=GRIS, va="top", ha="right")
-    ax.text(k_acb, y0, f" ACB k = {k_acb:.1f}", color=TEJA_TXT, va="top", ha="left")
+    y0 = errores[ks <= 30].max()
+    ax.text(K_NBA + 0.4, y0 * 0.8, f"NBA k = {K_NBA:.0f}", color=GRIS, va="top", ha="left")
+    ax.text(k_acb - 0.4, y0, f"ACB k = {k_acb:.1f}", color=TEJA_TXT, va="top", ha="right")
+    ax.set_xlim(0, 30)
+    ax.set_ylim(top=y0 * 1.02)
     ax.set_xlabel("Exponente k")
     ax.set_ylabel("Error medio (victorias por equipo)")
     ax.set_title("¿Qué exponente describe mejor la ACB 25/26?")
@@ -64,7 +66,7 @@ def fig_desvios(t: pd.DataFrame) -> Figure:
             color=RULE, height=0.8, label="Banda del azar (90%)")  # fmt: skip
     colores = np.where(t["desvio"] >= 0, POS, NEG)
     ax.barh(y, t["desvio"], color=colores, height=0.45)
-    for yi, (eq, f) in enumerate(t.iterrows()):
+    for yi, (_, f) in enumerate(t.iterrows()):
         ax.text(f["desvio"] + (0.15 if f["desvio"] >= 0 else -0.15), yi,
                 f"{f['desvio']:+.1f}", va="center", fontsize=8,
                 ha="left" if f["desvio"] >= 0 else "right")  # fmt: skip
@@ -73,7 +75,7 @@ def fig_desvios(t: pd.DataFrame) -> Figure:
     ax.set_xlabel("Victorias reales − victorias esperadas")
     ax.grid(axis="y", visible=False)
     ax.set_title("Quién ganó más (y menos) de lo que decían sus puntos")
-    ax.legend(loc="lower right")
+    ax.legend(loc="upper center", bbox_to_anchor=(0.5, -0.1))
     return fig
 
 
