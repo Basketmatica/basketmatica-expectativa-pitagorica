@@ -121,3 +121,77 @@ def fig_prediccion(res: dict) -> Figure:
     ax.grid(axis="x", visible=False)
     ax.set_title("¿Qué de la 1ª vuelta predice mejor la 2ª?")
     return fig
+
+
+def fig_curva_k_multi(
+    ks: np.ndarray, errores: np.ndarray, k_acb: float, ic: tuple[float, float], k_por_temp: dict
+) -> Figure:
+    """Error medio frente a k con todas las temporadas, y el k propio de cada una al pie."""
+    estilo()
+    fig, ax = plt.subplots(figsize=(7, 4))
+    ax.axvspan(*ic, color=TEJA, alpha=0.15, lw=0, label="IC90% de k (bootstrap de partidos)")
+    ax.plot(ks, errores, color=INK, lw=1.8)
+    ax.axvline(K_NBA, color=GRIS, ls="--", lw=1.2)
+    ax.axvline(k_acb, color=TEJA, lw=1.8)
+    y0 = errores[ks <= 30].max()
+    ax.text(K_NBA + 0.4, y0 * 0.8, f"NBA k = {K_NBA:.0f}", color=GRIS, va="top", ha="left")
+    ax.text(k_acb - 0.4, y0, f"ACB k = {k_acb:.1f}", color=TEJA_TXT, va="top", ha="right")
+    base = errores.min() * 0.97
+    ax.scatter(list(k_por_temp.values()), [base] * len(k_por_temp), marker="|", s=160,
+               color=TEJA_TXT, zorder=4, label="k propio de cada temporada")  # fmt: skip
+    ax.set_xlim(0, 30)
+    ax.set_ylim(base * 0.9, y0 * 1.02)
+    ax.set_xlabel("Exponente k")
+    ax.set_ylabel("Error medio (victorias por 34 partidos)")
+    ax.set_title("¿Qué exponente describe mejor la ACB? (8 temporadas)")
+    ax.legend(loc="upper center", bbox_to_anchor=(0.5, -0.18), ncol=2)
+    return fig
+
+
+def fig_pares(p: pd.DataFrame, r: float, ic: tuple[float, float], n_pares: int) -> Figure:
+    """Desvío de un equipo en t frente al de la temporada siguiente (todos los pares)."""
+    estilo()
+    fig, ax = plt.subplots(figsize=(6.4, 6.4))
+    ax.axhline(0, color=INK, lw=0.8)
+    ax.axvline(0, color=INK, lw=0.8)
+    ax.scatter(p["desvio34_t"], p["desvio34_t1"], color=TEJA, s=28, alpha=0.75, zorder=3,
+               edgecolor=PAPER, linewidth=0.5)  # fmt: skip
+    destacados = p.assign(m=p["desvio34_t"].abs() + p["desvio34_t1"].abs()).nlargest(6, "m")
+    for _, f in destacados.iterrows():
+        et = f"{f['club']} {f['temporada_t'][2:4]}/{f['temporada_t'][5:]}"
+        ax.annotate(et, (f["desvio34_t"], f["desvio34_t1"]), xytext=(4, 4),
+                    textcoords="offset points", fontsize=7.5)  # fmt: skip
+    lim = float(max(p["desvio34_t"].abs().max(), p["desvio34_t1"].abs().max())) + 0.8
+    ax.set_xlim(-lim, lim)
+    ax.set_ylim(-lim, lim)
+    kw = {"fontsize": 8, "color": GRIS}
+    ax.text(lim * 0.97, lim * 0.95, "Lo repite", ha="right", va="top", **kw)
+    ax.text(-lim * 0.97, -lim * 0.95, "Lo repite", ha="left", va="bottom", **kw)
+    ax.text(-lim * 0.97, lim * 0.95, "Se corrige al alza", ha="left", va="top", **kw)
+    ax.text(lim * 0.97, -lim * 0.95, "Se corrige a la baja", ha="right", va="bottom", **kw)
+    ax.set_xlabel("Desvío en la temporada t (victorias por 34 partidos)")
+    ax.set_ylabel("Desvío en la temporada t+1")
+    ax.set_title(f"¿Se repite? r = {r:.2f} (IC90% {ic[0]:.2f} a {ic[1]:.2f}), {n_pares} pares")
+    return fig
+
+
+def fig_prediccion_multi(res: dict) -> Figure:
+    estilo()
+    nombres = {
+        "r_pct_victorias": "% victorias",
+        "r_pct_pitagorico": "% pitagórico",
+        "r_net_rtg": "NetRtg",
+    }
+    fig, ax = plt.subplots(figsize=(6, 3.8))
+    for i, c in enumerate(nombres):
+        e = res[c]
+        ax.bar(i, e["estimacion"], color=[GRIS, TEJA, INK][i], width=0.55)
+        ax.errorbar(i, e["estimacion"], yerr=[[e["estimacion"] - e["ic90_bajo"]],
+                    [e["ic90_alto"] - e["estimacion"]]], color=INK, capsize=4, lw=1.2)  # fmt: skip
+        ax.text(i + 0.32, e["estimacion"], f"{e['estimacion']:.2f}", va="center", fontsize=9)
+    ax.set_xticks(range(3), list(nombres.values()))
+    ax.set_ylim(0, 1)
+    ax.set_ylabel("r con el % de victorias de la temporada siguiente")
+    ax.grid(axis="x", visible=False)
+    ax.set_title("¿Qué de una temporada predice mejor la siguiente?")
+    return fig

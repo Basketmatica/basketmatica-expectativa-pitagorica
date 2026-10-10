@@ -1,91 +1,208 @@
 {
-  "partidos": 306,
-  "equipos": 18,
-  "partidos_igualados": 91,
-  "partidos_con_prorroga": 11,
+  "temporadas_usadas": [
+    "2017_18",
+    "2018_19",
+    "2020_21",
+    "2021_22",
+    "2022_23",
+    "2023_24",
+    "2024_25",
+    "2025_26"
+  ],
+  "temporada_excluida": "2019_20",
+  "equipos_temporada": 145,
+  "clubes": 24,
   "n_sim": 10000,
   "n_boot": 10000,
   "k": {
-    "k_acb": 11.269183839556518,
+    "k_conjunto": 10.663870588027326,
     "ic90": [
-      9.838373197263575,
-      13.264073831137509
+      10.309547035878948,
+      11.420469891185697
     ],
-    "error_medio_acb": 1.5059617857615726,
-    "error_medio_k14": 1.5507042920976446,
-    "validacion_mitades": {
-      "k_vuelta1": 11.515056454555157,
-      "k_vuelta2": 12.132198432139344,
-      "error_acb": 1.0293439723913496,
-      "error_k14": 1.1272470732835762
+    "error_medio_k_sin_temporada": 1.5273227146334614,
+    "error_medio_k14": 1.812612161353421,
+    "error_medio_k_propio": 1.4713911225977194,
+    "temporadas_donde_gana_k_sin_temporada": 6,
+    "ic_excluye_14": true,
+    "difiere_de_14": true,
+    "k_actual_sin_temporada": 10.57400318408752
+  },
+  "persistencia": {
+    "r": {
+      "estimacion": 0.05397865551476154,
+      "ic90_bajo": -0.10959157585026658,
+      "ic90_alto": 0.19691474827414102
     },
-    "validacion_loo": {
-      "error_acb": 1.5997281288093965,
-      "error_k14": 1.5507042920976446,
-      "k_min": 10.841869729958708,
-      "k_max": 11.79402199612047
+    "pendiente": {
+      "estimacion": 0.05100197266009265,
+      "ic90_bajo": -0.11195350545939127,
+      "ic90_alto": 0.17205815371939034
+    },
+    "n_pares": 99,
+    "r_por_transicion": {
+      "2017_18->2018_19": 0.18646264898093587,
+      "2020_21->2021_22": 0.2615505899261599,
+      "2021_22->2022_23": -0.08560726556079316,
+      "2022_23->2023_24": -0.2717478398077826,
+      "2023_24->2024_25": 0.2739590947466731,
+      "2024_25->2025_26": -0.12652301378412764
+    },
+    "conclusion": "compatible_con_azar"
+  },
+  "decision": "compatible_con_azar",
+  "finales": {
+    "r": {
+      "estimacion": 0.13421869672820883,
+      "ic90_bajo": -0.07467144681682747,
+      "ic90_alto": 0.296475694715381
+    },
+    "n_pares": 99
+  },
+  "prediccion": {
+    "r_pct_victorias": {
+      "estimacion": 0.735292952303116,
+      "ic90_bajo": 0.5803405297693475,
+      "ic90_alto": 0.8170516574350899
+    },
+    "r_pct_pitagorico": {
+      "estimacion": 0.7256071997325522,
+      "ic90_bajo": 0.5609032895153387,
+      "ic90_alto": 0.811012169280164
+    },
+    "r_net_rtg": {
+      "estimacion": 0.7259368948139646,
+      "ic90_bajo": 0.5646500686128942,
+      "ic90_alto": 0.8082908254100919
+    },
+    "dif_pitagorico_menos_victorias": {
+      "estimacion": -0.00968575257056381,
+      "ic90_bajo": -0.052801860734914,
+      "ic90_alto": 0.03185134717887803
+    },
+    "dif_netrtg_menos_victorias": {
+      "estimacion": -0.00935605748915136,
+      "ic90_bajo": -0.048989160055285065,
+      "ic90_alto": 0.030769865234639527
+    },
+    "dif_netrtg_menos_pitagorico": {
+      "estimacion": 0.0003296950814124511,
+      "ic90_bajo": -0.006631424869516394,
+      "ic90_alto": 0.008151181003340521
     }
   },
-  "simulacion": {
-    "h": 1.568059703362649,
-    "pct_local_observado": 0.5882352941176471,
-    "dif_max_esperadas_log5_vs_pitagorico": 0.6089306370459031,
+  "bandas": {
+    "equipos_temporada": 145,
+    "fuera_banda": 2,
+    "proporcion_fuera": 0.013793103448275862,
+    "nominal": 0.1,
+    "por_temporada": {
+      "2017_18": 1,
+      "2018_19": 0,
+      "2020_21": 1,
+      "2021_22": 0,
+      "2022_23": 0,
+      "2023_24": 0,
+      "2024_25": 0,
+      "2025_26": 0
+    },
+    "advertencia": "sesgo conservador: la fuerza simulada sale de los mismos puntos"
+  },
+  "varianza_v1_por_temporada": [
+    {
+      "temporada": "2017_18",
+      "rms_observado": 2.0118,
+      "rms_azar_mediana": 2.5145,
+      "rms_azar_p95": 3.2913,
+      "p_valor": 0.8807
+    },
+    {
+      "temporada": "2018_19",
+      "rms_observado": 1.6688,
+      "rms_azar_mediana": 2.5476,
+      "rms_azar_p95": 3.3308,
+      "p_valor": 0.9843
+    },
+    {
+      "temporada": "2020_21",
+      "rms_observado": 1.9671,
+      "rms_azar_mediana": 2.6042,
+      "rms_azar_p95": 3.3558,
+      "p_valor": 0.9367
+    },
+    {
+      "temporada": "2021_22",
+      "rms_observado": 1.828,
+      "rms_azar_mediana": 2.611,
+      "rms_azar_p95": 3.3863,
+      "p_valor": 0.9651
+    },
+    {
+      "temporada": "2022_23",
+      "rms_observado": 1.7157,
+      "rms_azar_mediana": 2.5538,
+      "rms_azar_p95": 3.3112,
+      "p_valor": 0.9741
+    },
+    {
+      "temporada": "2023_24",
+      "rms_observado": 1.9133,
+      "rms_azar_mediana": 2.5797,
+      "rms_azar_p95": 3.3443,
+      "p_valor": 0.9425
+    },
+    {
+      "temporada": "2024_25",
+      "rms_observado": 2.104,
+      "rms_azar_mediana": 2.5601,
+      "rms_azar_p95": 3.3316,
+      "p_valor": 0.8602
+    },
+    {
+      "temporada": "2025_26",
+      "rms_observado": 1.8326,
+      "rms_azar_mediana": 2.5647,
+      "rms_azar_p95": 3.3357,
+      "p_valor": 0.9576
+    }
+  ],
+  "temporada_actual": {
+    "k": 10.57400318408752,
     "equipos_fuera_banda": [],
     "mayor_desvio_positivo": {
-      "equipo": "BAXI Manresa",
-      "desvio": 3.599621936058721,
+      "equipo": "Manresa",
+      "desvio": 3.3287065108944525,
       "fuera_banda": false
     },
     "mayor_desvio_negativo": {
-      "equipo": "Valencia Basket",
-      "desvio": -2.5498049835722263,
+      "equipo": "Granada",
+      "desvio": -2.6464401569875715,
       "fuera_banda": false
-    }
-  },
-  "igualados": {
-    "partidos": 91,
-    "corr_desvio_vs_balance_igualados": 0.5821678281126712,
-    "victorias_local_en_igualados": 0.4175824175824176
-  },
-  "test_a_mitades": {
-    "r": -0.015564258535496922,
-    "ic90_bajo": -0.37205892253729167,
-    "ic90_alto": 0.3489464905152604
-  },
-  "test_b_varianza": {
-    "rms_observado": 1.8049587666653708,
-    "rms_azar_mediana": 2.5522311526514505,
-    "rms_azar_p95": 3.300444975035736,
-    "p_valor": 0.9617
-  },
-  "decision": {
-    "cond_a": false,
-    "cond_b": false,
-    "conclusion": "compatible_con_azar"
-  },
-  "comparacion_predictiva": {
-    "k_vuelta1": 11.515056454555157,
-    "r": {
-      "pct_victorias": 0.6432539862643942,
-      "pct_pitagorico": 0.7430047721923877,
-      "net_rtg": 0.7324085716529625
     },
-    "diferencias": {
-      "pct_pitagorico_menos_pct_victorias": {
-        "dif": 0.09975078592799347,
-        "ic90_bajo": -0.00730989426818947,
-        "ic90_alto": 0.1995987537588597
-      },
-      "net_rtg_menos_pct_victorias": {
-        "dif": 0.08915458538856824,
-        "ic90_bajo": -0.015303418970164906,
-        "ic90_alto": 0.19031740366551367
-      },
-      "net_rtg_menos_pct_pitagorico": {
-        "dif": -0.010596200539425227,
-        "ic90_bajo": -0.02289714347437912,
-        "ic90_alto": 0.006064507905929034
-      }
-    }
+    "corr_desvio_vs_balance_igualados": 0.6893603681846909
+  },
+  "mitades_25_26": {
+    "r": -0.01042857571195144,
+    "ic90_bajo": -0.31111192461394455,
+    "ic90_alto": 0.32373844095581417
+  },
+  "prediccion_26_27": {
+    "beta_usada": 0.05100197266009265
+  },
+  "sensibilidad_sin_2020_21": {
+    "k_conjunto": 10.480491394647363,
+    "r": {
+      "estimacion": 0.020743398559152016,
+      "ic90_bajo": -0.17584186190846415,
+      "ic90_alto": 0.197521458421756
+    },
+    "pendiente": {
+      "estimacion": 0.01939587902195491,
+      "ic90_bajo": -0.17113132865351544,
+      "ic90_alto": 0.17833808879157234
+    },
+    "n_pares": 82,
+    "conclusion": "compatible_con_azar",
+    "temporadas_donde_gana_k_sin_temporada": 5
   }
 }

@@ -11,7 +11,20 @@ RUTA_CSV = Path(__file__).resolve().parents[2] / "data" / "acb_partidos_2025_26.
 JORNADA_CORTE = 17  # 1ª vuelta: jornadas 1-17; 2ª vuelta: 18-34
 MARGEN_IGUALADO = 5
 
+# Nombre de patrocinador -> franquicia (nombre corto). Varios nombres pueden ser el mismo club.
 NOMBRE_CORTO = {
+    "Acunsa GBC": "GBC",
+    "Baloncesto Fuenlabrada": "Fuenlabrada",
+    "Barça Lassa": "Barça",
+    "Carplus Fuenlabrada": "Fuenlabrada",
+    "Coosur Real Betis": "Betis",
+    "Delteco GBC": "GBC",
+    "Leyma Basquet Coruña": "Obradoiro",
+    "Monbus Obradoiro": "Obradoiro",
+    "Montakit Fuenlabrada": "Fuenlabrada",
+    "Movistar Estudiantes": "Estudiantes",
+    "Urbas Fuenlabrada": "Fuenlabrada",
+    "Zunder Palencia": "Palencia",
     "BAXI Manresa": "Manresa",
     "Baskonia": "Baskonia",
     "Bàsquet Girona": "Girona",
@@ -31,6 +44,47 @@ NOMBRE_CORTO = {
     "Unicaja": "Unicaja",
     "Valencia Basket": "Valencia",
 }
+
+
+DIRECTORIO_DATOS = RUTA_CSV.parent
+TEMPORADA_EXCLUIDA = "2019_20"  # suspendida por la pandemia: 229 partidos, equipos con 22-27
+TEMPORADA_ACTUAL = "2025_26"
+TEMPORADA_DESIGUAL = "2020_21"  # 19 equipos y 36 partidos: se usa con tasas
+
+# Pasos t -> t+1 con ambas temporadas completas (2019/20 rompe la cadena)
+TRANSICIONES = [
+    ("2017_18", "2018_19"),
+    ("2020_21", "2021_22"),
+    ("2021_22", "2022_23"),
+    ("2022_23", "2023_24"),
+    ("2023_24", "2024_25"),
+    ("2024_25", "2025_26"),
+]
+
+
+def cargar_todas(directorio: Path | str = DIRECTORIO_DATOS) -> pd.DataFrame:
+    """Lee todas las temporadas de `acb_partidos_*.csv`, con la columna `club` (franquicia)."""
+    partes = [cargar(f) for f in sorted(Path(directorio).glob("acb_partidos_*.csv"))]
+    df = pd.concat(partes, ignore_index=True)
+    df["club"] = df["team"].map(lambda e: NOMBRE_CORTO.get(e, e))
+    return df
+
+
+def temporadas_usables(df: pd.DataFrame) -> list[str]:
+    return sorted(set(df["season"]) - {TEMPORADA_EXCLUIDA})
+
+
+def tabla_temporadas(df: pd.DataFrame) -> pd.DataFrame:
+    """Un registro por equipo-temporada (club): G, V, PF, PC, NetRtg y balance en igualados."""
+    df = df.assign(v_ig=df["victoria"].where(df["igualado"], 0), g_ig=df["igualado"].astype(int))
+    t = df.groupby(["season", "club"]).agg(
+        G=("victoria", "size"), V=("victoria", "sum"), PF=("pts", "sum"), PC=("opp_pts", "sum"),
+        pos=("posesiones", "sum"), G_ig=("g_ig", "sum"), V_ig=("v_ig", "sum"),
+    )  # fmt: skip
+    t["pct_v"] = t["V"] / t["G"]
+    t["net_rtg"] = 100 * (t["PF"] - t["PC"]) / t["pos"]
+    t["pct_ig"] = t["V_ig"] / t["G_ig"].where(t["G_ig"] > 0)
+    return t.reset_index()
 
 
 def cargar(ruta: Path | str = RUTA_CSV) -> pd.DataFrame:
