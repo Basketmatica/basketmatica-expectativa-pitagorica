@@ -1,6 +1,6 @@
 # Datos
 
-`acb_partidos_2025_26.csv` — Liga regular ACB 2025/26. Un registro por equipo y partido (612 filas = 306 partidos × 2). Solo totales de equipo; no contiene datos individuales.
+`acb_partidos_<temporada>.csv` — Liga regular ACB, una temporada por fichero: 2017/18 a 2025/26. Un registro por equipo y partido (612 filas = 306 partidos × 2 en una temporada de 18 equipos). Solo totales de equipo; no contiene datos individuales.
 
 | Columna | Descripción |
 |---|---|
@@ -19,9 +19,21 @@
 
 Derivado de los boxscores públicos de acb.com, agregados a totales de equipo con `scripts/extraer_partidos.py`. Los marcadores y estadísticas de partido son datos públicos; la procedencia exacta del parquet de origen es un repositorio privado de Basketmática que no es necesario para reproducir nada de este proyecto.
 
+## Particularidades por temporada
+
+| Temporada | Partidos | Equipos | Partidos por equipo | Nota |
+|---|---:|---:|---|---|
+| 2017/18, 2018/19, 2021/22 a 2025/26 | 306 | 18 | 34 | Normales |
+| 2019/20 | 229 | 18 | 22 a 27 | **Suspendida por la pandemia, incompleta y desigual**: no se usa en el análisis |
+| 2020/21 | 342 | 19 | 36 | Liga de 19 equipos; se usa con tasas (por partido) |
+
+## Franquicias
+
+El nombre del equipo cambia con el patrocinador. Para emparejar temporadas se usa esta equivalencia (`src/pitagorica/datos.py`): Montakit / Urbas / Baloncesto / Carplus Fuenlabrada → Fuenlabrada; Barça Lassa → FC Barcelona; Delteco / Acunsa GBC → GBC; Monbus Obradoiro / Leyma Basquet Coruña → Obradoiro.
+
 ## Comprobaciones
 
-612 filas, 306 partidos, 34 partidos por equipo, sin empates, 11 partidos con prórroga (10 con una, 1 con dos).
+Cada partido tiene exactamente dos filas coherentes (marcadores y rivales cruzados), sin valores nulos y sin empates. Prórrogas: columna `overtimes`.
 
 ## Licencia
 

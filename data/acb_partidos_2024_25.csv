@@ -1,0 +1,613 @@
+game_id,season,jornada,date,team,opponent,home_away,pts,opp_pts,overtimes,fg_att,ft_att,oreb,tov,opp_fg_att,opp_ft_att,opp_oreb,opp_tov
+104052,2024_25,1,2024-09-28,UCAM Murcia,Joventut,away,76,91,0,63,18,8,8,59,21,8,14
+104052,2024_25,1,2024-09-28,Joventut,UCAM Murcia,home,91,76,0,59,21,8,14,63,18,8,8
+104053,2024_25,1,2024-09-28,Bàsquet Girona,Unicaja,away,73,90,0,59,17,4,17,65,21,8,10
+104053,2024_25,1,2024-09-28,Unicaja,Bàsquet Girona,home,90,73,0,65,21,8,10,59,17,4,17
+104054,2024_25,1,2024-09-28,Gran Canaria,MoraBanc Andorra,away,91,71,0,67,22,9,9,58,25,8,18
+104054,2024_25,1,2024-09-28,MoraBanc Andorra,Gran Canaria,home,71,91,0,58,25,8,18,67,22,9,9
+104055,2024_25,1,2024-09-28,Valencia Basket,BAXI Manresa,away,73,77,0,72,24,16,11,74,16,13,12
+104055,2024_25,1,2024-09-28,BAXI Manresa,Valencia Basket,home,77,73,0,74,16,13,12,72,24,16,11
+104056,2024_25,1,2024-09-29,Coviran Granada,FC Barcelona,away,65,91,0,63,8,9,20,63,16,5,14
+104056,2024_25,1,2024-09-29,FC Barcelona,Coviran Granada,home,91,65,0,63,16,5,14,63,8,9,20
+104057,2024_25,1,2024-09-29,Baskonia,La Laguna Tenerife,away,80,88,0,62,15,11,15,58,26,10,10
+104057,2024_25,1,2024-09-29,La Laguna Tenerife,Baskonia,home,88,80,0,58,26,10,10,62,15,11,15
+104058,2024_25,1,2024-09-29,Hiopos Lleida,Casademont Zaragoza,away,91,101,1,75,26,13,15,78,27,14,13
+104058,2024_25,1,2024-09-29,Casademont Zaragoza,Hiopos Lleida,home,101,91,1,78,27,14,13,75,26,13,15
+104059,2024_25,1,2024-09-29,Río Breogán,Surne Bilbao Basket,away,72,90,0,66,17,5,15,61,34,7,14
+104059,2024_25,1,2024-09-29,Surne Bilbao Basket,Río Breogán,home,90,72,0,61,34,7,14,66,17,5,15
+104060,2024_25,1,2024-09-29,Real Madrid,Leyma Basquet Coruña,away,85,86,0,55,29,6,10,66,13,11,15
+104060,2024_25,1,2024-09-29,Leyma Basquet Coruña,Real Madrid,home,86,85,0,66,13,11,15,55,29,6,10
+104061,2024_25,2,2024-10-05,MoraBanc Andorra,Baskonia,away,95,91,0,75,18,11,8,67,20,10,13
+104061,2024_25,2,2024-10-05,Baskonia,MoraBanc Andorra,home,91,95,0,67,20,10,13,75,18,11,8
+104062,2024_25,2,2024-11-07,La Laguna Tenerife,Río Breogán,away,79,78,0,52,20,5,17,54,23,8,15
+104062,2024_25,2,2024-11-07,Río Breogán,La Laguna Tenerife,home,78,79,0,54,23,8,15,52,20,5,17
+104063,2024_25,2,2024-10-05,Surne Bilbao Basket,UCAM Murcia,away,83,89,1,59,31,6,16,81,29,17,13
+104063,2024_25,2,2024-10-05,UCAM Murcia,Surne Bilbao Basket,home,89,83,1,81,29,17,13,59,31,6,16
+104064,2024_25,2,2024-10-05,Joventut,Valencia Basket,away,60,84,0,55,8,8,21,84,17,22,9
+104064,2024_25,2,2024-10-05,Valencia Basket,Joventut,home,84,60,0,84,17,22,9,55,8,8,21
+104065,2024_25,2,2024-10-06,Casademont Zaragoza,Real Madrid,away,95,101,0,74,11,11,10,63,29,13,13
+104065,2024_25,2,2024-10-06,Real Madrid,Casademont Zaragoza,home,101,95,0,63,29,13,13,74,11,11,10
+104066,2024_25,2,2024-10-06,Leyma Basquet Coruña,Gran Canaria,away,72,80,0,67,20,10,10,60,22,3,6
+104066,2024_25,2,2024-10-06,Gran Canaria,Leyma Basquet Coruña,home,80,72,0,60,22,3,6,67,20,10,10
+104067,2024_25,2,2024-10-06,BAXI Manresa,Bàsquet Girona,away,80,84,0,66,28,10,13,62,37,11,11
+104067,2024_25,2,2024-10-06,Bàsquet Girona,BAXI Manresa,home,84,80,0,62,37,11,11,66,28,10,13
+104068,2024_25,2,2024-10-06,Unicaja,Coviran Granada,away,84,68,0,59,14,7,17,60,29,5,8
+104068,2024_25,2,2024-10-06,Coviran Granada,Unicaja,home,68,84,0,60,29,5,8,59,14,7,17
+104069,2024_25,2,2024-10-06,FC Barcelona,Hiopos Lleida,away,78,74,0,59,22,9,24,71,25,12,13
+104069,2024_25,2,2024-10-06,Hiopos Lleida,FC Barcelona,home,74,78,0,71,25,12,13,59,22,9,24
+104070,2024_25,3,2024-10-12,UCAM Murcia,Baskonia,away,92,95,1,66,23,7,12,59,31,6,13
+104070,2024_25,3,2024-10-12,Baskonia,UCAM Murcia,home,95,92,1,59,31,6,13,66,23,7,12
+104071,2024_25,3,2024-10-12,Hiopos Lleida,Unicaja,away,63,101,0,59,11,7,22,70,16,10,9
+104071,2024_25,3,2024-10-12,Unicaja,Hiopos Lleida,home,101,63,0,70,16,10,9,59,11,7,22
+104072,2024_25,3,2024-10-12,Leyma Basquet Coruña,MoraBanc Andorra,away,87,112,0,72,26,16,17,67,17,7,15
+104072,2024_25,3,2024-10-12,MoraBanc Andorra,Leyma Basquet Coruña,home,112,87,0,67,17,7,15,72,26,16,17
+104073,2024_25,3,2024-10-12,Coviran Granada,Bàsquet Girona,away,82,52,0,69,16,12,12,58,18,5,16
+104073,2024_25,3,2024-10-12,Bàsquet Girona,Coviran Granada,home,52,82,0,58,18,5,16,69,16,12,12
+104074,2024_25,3,2024-10-13,Real Madrid,Surne Bilbao Basket,away,79,83,0,63,23,10,12,62,28,8,7
+104074,2024_25,3,2024-10-13,Surne Bilbao Basket,Real Madrid,home,83,79,0,62,28,8,7,63,23,10,12
+104075,2024_25,3,2024-10-13,Gran Canaria,BAXI Manresa,away,58,79,0,61,17,12,18,68,21,12,10
+104075,2024_25,3,2024-10-13,BAXI Manresa,Gran Canaria,home,79,58,0,68,21,12,10,61,17,12,18
+104076,2024_25,3,2024-10-13,Valencia Basket,Río Breogán,away,87,75,0,75,7,15,16,66,23,7,12
+104076,2024_25,3,2024-10-13,Río Breogán,Valencia Basket,home,75,87,0,66,23,7,12,75,7,15,16
+104077,2024_25,3,2024-10-13,Joventut,Casademont Zaragoza,away,95,96,1,62,26,4,17,69,29,12,21
+104077,2024_25,3,2024-10-13,Casademont Zaragoza,Joventut,home,96,95,1,69,29,12,21,62,26,4,17
+104078,2024_25,3,2024-10-13,FC Barcelona,La Laguna Tenerife,away,95,91,0,55,19,1,10,65,24,7,4
+104078,2024_25,3,2024-10-13,La Laguna Tenerife,FC Barcelona,home,91,95,0,65,24,7,4,55,19,1,10
+104079,2024_25,4,2024-10-19,Río Breogán,Joventut,away,76,70,0,69,15,12,10,58,23,7,11
+104079,2024_25,4,2024-10-19,Joventut,Río Breogán,home,70,76,0,58,23,7,11,69,15,12,10
+104080,2024_25,4,2024-10-19,Unicaja,Leyma Basquet Coruña,away,90,83,0,68,18,7,8,62,24,7,13
+104080,2024_25,4,2024-10-19,Leyma Basquet Coruña,Unicaja,home,83,90,0,62,24,7,13,68,18,7,8
+104081,2024_25,4,2024-10-19,Surne Bilbao Basket,Gran Canaria,away,67,80,0,61,9,8,12,54,29,10,11
+104081,2024_25,4,2024-10-19,Gran Canaria,Surne Bilbao Basket,home,80,67,0,54,29,10,11,61,9,8,12
+104082,2024_25,4,2024-10-19,Casademont Zaragoza,UCAM Murcia,away,74,88,0,59,20,7,14,70,17,12,11
+104082,2024_25,4,2024-10-19,UCAM Murcia,Casademont Zaragoza,home,88,74,0,70,17,12,11,59,20,7,14
+104083,2024_25,4,2024-10-20,Bàsquet Girona,Real Madrid,away,67,95,0,66,11,11,12,54,30,7,11
+104083,2024_25,4,2024-10-20,Real Madrid,Bàsquet Girona,home,95,67,0,54,30,7,11,66,11,11,12
+104084,2024_25,4,2024-10-20,BAXI Manresa,Hiopos Lleida,away,81,83,0,61,33,14,17,63,24,10,16
+104084,2024_25,4,2024-10-20,Hiopos Lleida,BAXI Manresa,home,83,81,0,63,24,10,16,61,33,14,17
+104085,2024_25,4,2024-10-20,La Laguna Tenerife,Coviran Granada,away,86,75,0,52,26,8,15,58,15,5,11
+104085,2024_25,4,2024-10-20,Coviran Granada,La Laguna Tenerife,home,75,86,0,58,15,5,11,52,26,8,15
+104086,2024_25,4,2024-10-20,MoraBanc Andorra,Valencia Basket,away,88,89,0,62,22,8,9,74,21,18,9
+104086,2024_25,4,2024-10-20,Valencia Basket,MoraBanc Andorra,home,89,88,0,74,21,18,9,62,22,8,9
+104087,2024_25,4,2024-10-20,Baskonia,FC Barcelona,away,93,89,0,55,31,9,14,61,17,6,13
+104087,2024_25,4,2024-10-20,FC Barcelona,Baskonia,home,89,93,0,61,17,6,13,55,31,9,14
+104088,2024_25,5,2024-10-26,UCAM Murcia,Bàsquet Girona,away,82,75,0,59,27,8,15,55,33,6,14
+104088,2024_25,5,2024-10-26,Bàsquet Girona,UCAM Murcia,home,75,82,0,55,33,6,14,59,27,8,15
+104089,2024_25,5,2024-10-26,Joventut,Baskonia,away,82,79,0,57,15,5,11,72,9,12,7
+104089,2024_25,5,2024-10-26,Baskonia,Joventut,home,79,82,0,72,9,12,7,57,15,5,11
+104090,2024_25,5,2024-10-26,Coviran Granada,MoraBanc Andorra,away,71,87,0,66,17,13,18,63,15,6,12
+104090,2024_25,5,2024-10-26,MoraBanc Andorra,Coviran Granada,home,87,71,0,63,15,6,12,66,17,13,18
+104091,2024_25,5,2024-10-26,Casademont Zaragoza,Leyma Basquet Coruña,away,86,110,0,70,12,8,17,68,22,11,15
+104091,2024_25,5,2024-10-26,Leyma Basquet Coruña,Casademont Zaragoza,home,110,86,0,68,22,11,15,70,12,8,17
+104092,2024_25,5,2024-10-27,BAXI Manresa,Real Madrid,away,61,86,0,73,11,17,20,63,23,9,14
+104092,2024_25,5,2024-10-27,Real Madrid,BAXI Manresa,home,86,61,0,63,23,9,14,73,11,17,20
+104093,2024_25,5,2024-10-27,Gran Canaria,La Laguna Tenerife,away,74,84,0,56,16,6,11,57,23,3,5
+104093,2024_25,5,2024-10-27,La Laguna Tenerife,Gran Canaria,home,84,74,0,57,23,3,5,56,16,6,11
+104094,2024_25,5,2024-10-27,Valencia Basket,Surne Bilbao Basket,away,103,98,0,78,30,17,9,65,24,6,9
+104094,2024_25,5,2024-10-27,Surne Bilbao Basket,Valencia Basket,home,98,103,0,65,24,6,9,78,30,17,9
+104095,2024_25,5,2024-10-27,Hiopos Lleida,Río Breogán,away,81,77,0,62,16,5,15,63,13,9,17
+104095,2024_25,5,2024-10-27,Río Breogán,Hiopos Lleida,home,77,81,0,63,13,9,17,62,16,5,15
+104096,2024_25,5,2024-10-27,FC Barcelona,Unicaja,away,96,103,0,68,15,6,12,67,34,8,8
+104096,2024_25,5,2024-10-27,Unicaja,FC Barcelona,home,103,96,0,67,34,8,8,68,15,6,12
+104097,2024_25,6,2024-11-02,Bàsquet Girona,Joventut,away,68,83,0,57,19,7,11,61,17,11,14
+104097,2024_25,6,2024-11-02,Joventut,Bàsquet Girona,home,83,68,0,61,17,11,14,57,19,7,11
+104098,2024_25,6,2024-11-02,Río Breogán,Casademont Zaragoza,away,53,111,0,63,11,13,21,59,22,7,13
+104098,2024_25,6,2024-11-02,Casademont Zaragoza,Río Breogán,home,111,53,0,59,22,7,13,63,11,13,21
+104099,2024_25,6,2024-11-02,Unicaja,BAXI Manresa,away,69,109,0,67,13,8,20,62,28,9,17
+104099,2024_25,6,2024-11-02,BAXI Manresa,Unicaja,home,109,69,0,62,28,9,17,67,13,8,20
+104100,2024_25,6,2024-11-02,Surne Bilbao Basket,Coviran Granada,away,84,72,0,56,30,9,15,57,23,7,13
+104100,2024_25,6,2024-11-02,Coviran Granada,Surne Bilbao Basket,home,72,84,0,57,23,7,13,56,30,9,15
+104101,2024_25,6,2024-12-13,La Laguna Tenerife,Valencia Basket,away,81,96,0,51,17,3,18,72,8,10,10
+104101,2024_25,6,2024-12-13,Valencia Basket,La Laguna Tenerife,home,96,81,0,72,8,10,10,51,17,3,18
+104102,2024_25,6,2024-11-03,MoraBanc Andorra,Hiopos Lleida,away,70,80,0,65,19,16,19,68,18,8,16
+104102,2024_25,6,2024-11-03,Hiopos Lleida,MoraBanc Andorra,home,80,70,0,68,18,8,16,65,19,16,19
+104103,2024_25,6,2024-11-03,Leyma Basquet Coruña,FC Barcelona,away,80,106,0,67,9,9,19,61,41,8,8
+104103,2024_25,6,2024-11-03,FC Barcelona,Leyma Basquet Coruña,home,106,80,0,61,41,8,8,67,9,9,19
+104104,2024_25,6,2024-11-03,Baskonia,Gran Canaria,away,86,92,0,62,24,9,11,77,11,13,7
+104104,2024_25,6,2024-11-03,Gran Canaria,Baskonia,home,92,86,0,77,11,13,7,62,24,9,11
+104105,2024_25,6,2024-11-03,Real Madrid,UCAM Murcia,away,85,64,0,57,19,6,14,67,10,6,11
+104105,2024_25,6,2024-11-03,UCAM Murcia,Real Madrid,home,64,85,0,67,10,6,11,57,19,6,14
+104106,2024_25,7,2024-11-09,Coviran Granada,BAXI Manresa,away,86,93,0,74,28,12,11,55,41,11,19
+104106,2024_25,7,2024-11-09,BAXI Manresa,Coviran Granada,home,93,86,0,55,41,11,19,74,28,12,11
+104107,2024_25,7,2024-11-09,UCAM Murcia,MoraBanc Andorra,away,83,71,0,63,19,5,11,58,16,6,16
+104107,2024_25,7,2024-11-09,MoraBanc Andorra,UCAM Murcia,home,71,83,0,58,16,6,16,63,19,5,11
+104108,2024_25,7,2024-11-15,Casademont Zaragoza,Valencia Basket,away,82,111,0,73,16,14,18,75,14,16,16
+104108,2024_25,7,2024-11-15,Valencia Basket,Casademont Zaragoza,home,111,82,0,75,14,16,16,73,16,14,18
+104109,2024_25,7,2024-11-09,Unicaja,Joventut,away,79,75,0,71,14,11,7,55,34,12,13
+104109,2024_25,7,2024-11-09,Joventut,Unicaja,home,75,79,0,55,34,12,13,71,14,11,7
+104110,2024_25,7,2024-11-10,Surne Bilbao Basket,Bàsquet Girona,away,94,100,1,75,28,13,12,68,37,11,15
+104110,2024_25,7,2024-11-10,Bàsquet Girona,Surne Bilbao Basket,home,100,94,1,68,37,11,15,75,28,13,12
+104111,2024_25,7,2024-11-10,Gran Canaria,Real Madrid,away,77,83,0,57,20,11,13,62,14,6,8
+104111,2024_25,7,2024-11-10,Real Madrid,Gran Canaria,home,83,77,0,62,14,6,8,57,20,11,13
+104112,2024_25,7,2024-11-10,Hiopos Lleida,Baskonia,away,99,100,0,62,33,9,16,68,35,13,12
+104112,2024_25,7,2024-11-10,Baskonia,Hiopos Lleida,home,100,99,0,68,35,13,12,62,33,9,16
+104113,2024_25,7,2024-11-10,La Laguna Tenerife,Leyma Basquet Coruña,away,87,62,0,63,15,13,12,59,14,6,8
+104113,2024_25,7,2024-11-10,Leyma Basquet Coruña,La Laguna Tenerife,home,62,87,0,59,14,6,8,63,15,13,12
+104114,2024_25,7,2024-11-10,FC Barcelona,Río Breogán,away,70,77,0,61,12,10,16,62,14,5,10
+104114,2024_25,7,2024-11-10,Río Breogán,FC Barcelona,home,77,70,0,62,14,5,10,61,12,10,16
+104115,2024_25,8,2024-11-16,Río Breogán,UCAM Murcia,away,63,79,0,64,18,9,14,71,15,9,8
+104115,2024_25,8,2024-11-16,UCAM Murcia,Río Breogán,home,79,63,0,71,15,9,8,64,18,9,14
+104116,2024_25,8,2024-11-16,Leyma Basquet Coruña,Coviran Granada,away,77,80,0,59,26,7,11,62,14,4,9
+104116,2024_25,8,2024-11-16,Coviran Granada,Leyma Basquet Coruña,home,80,77,0,62,14,4,9,59,26,7,11
+104117,2024_25,8,2024-11-16,BAXI Manresa,La Laguna Tenerife,away,86,94,0,65,19,12,14,58,34,9,14
+104117,2024_25,8,2024-11-16,La Laguna Tenerife,BAXI Manresa,home,94,86,0,58,34,9,14,65,19,12,14
+104118,2024_25,8,2024-11-17,Baskonia,Casademont Zaragoza,away,85,86,0,56,22,11,17,64,24,7,9
+104118,2024_25,8,2024-11-17,Casademont Zaragoza,Baskonia,home,86,85,0,64,24,7,9,56,22,11,17
+104119,2024_25,8,2024-11-17,Hiopos Lleida,Real Madrid,away,78,85,0,67,12,9,13,60,16,8,20
+104119,2024_25,8,2024-11-17,Real Madrid,Hiopos Lleida,home,85,78,0,60,16,8,20,67,12,9,13
+104120,2024_25,8,2024-11-17,Bàsquet Girona,Gran Canaria,away,84,89,0,53,18,5,17,62,21,7,10
+104120,2024_25,8,2024-11-17,Gran Canaria,Bàsquet Girona,home,89,84,0,62,21,7,10,53,18,5,17
+104121,2024_25,8,2024-11-17,Unicaja,MoraBanc Andorra,away,106,89,0,64,19,0,12,66,27,12,17
+104121,2024_25,8,2024-11-17,MoraBanc Andorra,Unicaja,home,89,106,0,66,27,12,17,64,19,0,12
+104122,2024_25,8,2024-11-17,Joventut,Surne Bilbao Basket,away,95,79,0,68,11,8,7,68,15,10,8
+104122,2024_25,8,2024-11-17,Surne Bilbao Basket,Joventut,home,79,95,0,68,15,10,8,68,11,8,7
+104123,2024_25,8,2024-11-17,Valencia Basket,FC Barcelona,away,99,102,0,70,19,8,9,66,24,6,9
+104123,2024_25,8,2024-11-17,FC Barcelona,Valencia Basket,home,102,99,0,66,24,6,9,70,19,8,9
+104124,2024_25,9,2024-11-30,La Laguna Tenerife,Unicaja,away,81,84,0,56,23,1,13,63,27,3,6
+104124,2024_25,9,2024-11-30,Unicaja,La Laguna Tenerife,home,84,81,0,63,27,3,6,56,23,1,13
+104125,2024_25,9,2024-11-30,Coviran Granada,Río Breogán,away,92,74,0,64,22,9,13,61,22,5,14
+104125,2024_25,9,2024-11-30,Río Breogán,Coviran Granada,home,74,92,0,61,22,5,14,64,22,9,13
+104126,2024_25,9,2024-11-30,Surne Bilbao Basket,Casademont Zaragoza,away,71,82,0,67,14,11,8,69,15,17,12
+104126,2024_25,9,2024-11-30,Casademont Zaragoza,Surne Bilbao Basket,home,82,71,0,69,15,17,12,67,14,11,8
+104127,2024_25,9,2024-11-30,MoraBanc Andorra,Bàsquet Girona,away,98,85,0,68,21,13,13,69,29,15,14
+104127,2024_25,9,2024-11-30,Bàsquet Girona,MoraBanc Andorra,home,85,98,0,69,29,15,14,68,21,13,13
+104128,2024_25,9,2024-12-01,FC Barcelona,BAXI Manresa,away,72,85,0,57,36,9,14,66,18,7,18
+104128,2024_25,9,2024-12-01,BAXI Manresa,FC Barcelona,home,85,72,0,66,18,7,18,57,36,9,14
+104129,2024_25,9,2024-12-01,Gran Canaria,UCAM Murcia,away,83,63,0,64,6,13,15,53,18,8,13
+104129,2024_25,9,2024-12-01,UCAM Murcia,Gran Canaria,home,63,83,0,53,18,8,13,64,6,13,15
+104130,2024_25,9,2024-12-01,Leyma Basquet Coruña,Hiopos Lleida,away,106,101,1,62,31,11,19,72,24,10,11
+104130,2024_25,9,2024-12-01,Hiopos Lleida,Leyma Basquet Coruña,home,101,106,1,72,24,10,11,62,31,11,19
+104131,2024_25,9,2024-12-01,Valencia Basket,Baskonia,away,116,91,0,81,8,12,6,80,5,11,7
+104131,2024_25,9,2024-12-01,Baskonia,Valencia Basket,home,91,116,0,80,5,11,7,81,8,12,6
+104132,2024_25,9,2024-12-01,Real Madrid,Joventut,away,76,80,0,64,17,8,12,72,23,11,5
+104132,2024_25,9,2024-12-01,Joventut,Real Madrid,home,80,76,0,72,23,11,5,64,17,8,12
+104133,2024_25,10,2024-12-07,Casademont Zaragoza,MoraBanc Andorra,away,86,79,0,70,15,11,11,56,13,4,13
+104133,2024_25,10,2024-12-07,MoraBanc Andorra,Casademont Zaragoza,home,79,86,0,56,13,4,13,70,15,11,11
+104134,2024_25,10,2024-12-07,BAXI Manresa,Leyma Basquet Coruña,away,89,74,0,68,31,18,10,52,30,8,16
+104134,2024_25,10,2024-12-07,Leyma Basquet Coruña,BAXI Manresa,home,74,89,0,52,30,8,16,68,31,18,10
+104135,2024_25,10,2024-12-07,Hiopos Lleida,La Laguna Tenerife,away,88,91,0,64,17,10,13,58,20,5,10
+104135,2024_25,10,2024-12-07,La Laguna Tenerife,Hiopos Lleida,home,91,88,0,58,20,5,10,64,17,10,13
+104136,2024_25,10,2024-12-07,Bàsquet Girona,Valencia Basket,away,78,98,0,68,12,9,8,75,12,8,7
+104136,2024_25,10,2024-12-07,Valencia Basket,Bàsquet Girona,home,98,78,0,75,12,8,7,68,12,9,8
+104137,2024_25,10,2024-12-08,Baskonia,Surne Bilbao Basket,away,69,67,0,58,18,9,14,61,18,9,11
+104137,2024_25,10,2024-12-08,Surne Bilbao Basket,Baskonia,home,67,69,0,61,18,9,11,58,18,9,14
+104138,2024_25,10,2024-12-08,Río Breogán,Gran Canaria,away,82,73,0,64,11,11,12,58,22,10,11
+104138,2024_25,10,2024-12-08,Gran Canaria,Río Breogán,home,73,82,0,58,22,10,11,64,11,11,12
+104139,2024_25,10,2024-12-08,Joventut,Coviran Granada,away,77,87,0,65,19,10,10,66,18,11,9
+104139,2024_25,10,2024-12-08,Coviran Granada,Joventut,home,87,77,0,66,18,11,9,65,19,10,10
+104140,2024_25,10,2024-12-08,UCAM Murcia,FC Barcelona,away,79,86,0,61,25,4,8,67,17,9,10
+104140,2024_25,10,2024-12-08,FC Barcelona,UCAM Murcia,home,86,79,0,67,17,9,10,61,25,4,8
+104141,2024_25,10,2024-12-08,Unicaja,Real Madrid,away,77,90,0,66,28,14,11,60,26,5,10
+104141,2024_25,10,2024-12-08,Real Madrid,Unicaja,home,90,77,0,60,26,5,10,66,28,14,11
+104142,2024_25,11,2024-12-14,MoraBanc Andorra,BAXI Manresa,away,111,107,0,62,30,7,15,68,35,8,9
+104142,2024_25,11,2024-12-14,BAXI Manresa,MoraBanc Andorra,home,107,111,0,68,35,8,9,62,30,7,15
+104143,2024_25,11,2024-12-15,Valencia Basket,UCAM Murcia,away,96,88,0,62,17,10,16,73,21,12,10
+104143,2024_25,11,2024-12-15,UCAM Murcia,Valencia Basket,home,88,96,0,73,21,12,10,62,17,10,16
+104144,2024_25,11,2024-12-14,Leyma Basquet Coruña,Bàsquet Girona,away,98,81,0,61,18,8,16,66,23,6,7
+104144,2024_25,11,2024-12-14,Bàsquet Girona,Leyma Basquet Coruña,home,81,98,0,66,23,6,7,61,18,8,16
+104145,2024_25,11,2024-12-14,Gran Canaria,Unicaja,away,94,88,0,58,34,8,14,64,30,11,18
+104145,2024_25,11,2024-12-14,Unicaja,Gran Canaria,home,88,94,0,64,30,11,18,58,34,8,14
+104146,2024_25,11,2024-12-15,La Laguna Tenerife,Joventut,away,86,93,0,62,14,11,10,67,19,8,2
+104146,2024_25,11,2024-12-15,Joventut,La Laguna Tenerife,home,93,86,0,67,19,8,2,62,14,11,10
+104147,2024_25,11,2024-12-15,Río Breogán,Real Madrid,away,69,106,0,70,22,15,13,58,26,6,11
+104147,2024_25,11,2024-12-15,Real Madrid,Río Breogán,home,106,69,0,58,26,6,11,70,22,15,13
+104148,2024_25,11,2024-12-15,Baskonia,Coviran Granada,away,75,73,0,65,16,7,14,60,14,4,13
+104148,2024_25,11,2024-12-15,Coviran Granada,Baskonia,home,73,75,0,60,14,4,13,65,16,7,14
+104149,2024_25,11,2024-12-15,Surne Bilbao Basket,Hiopos Lleida,away,66,84,0,67,15,10,13,62,17,5,10
+104149,2024_25,11,2024-12-15,Hiopos Lleida,Surne Bilbao Basket,home,84,66,0,62,17,5,10,67,15,10,13
+104150,2024_25,11,2024-12-15,FC Barcelona,Casademont Zaragoza,away,95,108,0,68,20,7,14,68,34,12,13
+104150,2024_25,11,2024-12-15,Casademont Zaragoza,FC Barcelona,home,108,95,0,68,34,12,13,68,20,7,14
+104151,2024_25,12,2024-12-21,Bàsquet Girona,Río Breogán,away,74,77,0,61,23,11,14,60,20,5,10
+104151,2024_25,12,2024-12-21,Río Breogán,Bàsquet Girona,home,77,74,0,60,20,5,10,61,23,11,14
+104152,2024_25,12,2024-12-21,Coviran Granada,Hiopos Lleida,away,74,87,0,62,25,10,10,62,27,12,10
+104152,2024_25,12,2024-12-21,Hiopos Lleida,Coviran Granada,home,87,74,0,62,27,12,10,62,25,10,10
+104153,2024_25,12,2024-12-21,UCAM Murcia,La Laguna Tenerife,away,74,82,0,58,15,7,8,60,26,10,6
+104153,2024_25,12,2024-12-21,La Laguna Tenerife,UCAM Murcia,home,82,74,0,60,26,10,6,58,15,7,8
+104154,2024_25,12,2024-12-22,Unicaja,Baskonia,away,90,88,0,67,13,6,13,63,16,6,16
+104154,2024_25,12,2024-12-22,Baskonia,Unicaja,home,88,90,0,63,16,6,16,67,13,6,13
+104155,2024_25,12,2024-12-22,Joventut,Leyma Basquet Coruña,away,94,85,0,65,16,7,11,72,15,9,4
+104155,2024_25,12,2024-12-22,Leyma Basquet Coruña,Joventut,home,85,94,0,72,15,9,4,65,16,7,11
+104156,2024_25,12,2024-12-22,Casademont Zaragoza,Gran Canaria,away,94,96,0,64,23,10,15,57,16,5,16
+104156,2024_25,12,2024-12-22,Gran Canaria,Casademont Zaragoza,home,96,94,0,57,16,5,16,64,23,10,15
+104157,2024_25,12,2024-12-22,MoraBanc Andorra,FC Barcelona,away,79,105,0,57,15,8,21,75,20,9,4
+104157,2024_25,12,2024-12-22,FC Barcelona,MoraBanc Andorra,home,105,79,0,75,20,9,4,57,15,8,21
+104158,2024_25,12,2024-12-22,BAXI Manresa,Surne Bilbao Basket,away,73,88,0,65,26,10,16,57,21,3,18
+104158,2024_25,12,2024-12-22,Surne Bilbao Basket,BAXI Manresa,home,88,73,0,57,21,3,18,65,26,10,16
+104159,2024_25,12,2024-12-22,Real Madrid,Valencia Basket,away,84,85,0,72,17,17,9,73,6,14,9
+104159,2024_25,12,2024-12-22,Valencia Basket,Real Madrid,home,85,84,0,73,6,14,9,72,17,17,9
+104160,2024_25,13,2024-12-27,Hiopos Lleida,Joventut,away,72,92,0,68,24,8,12,61,24,6,13
+104160,2024_25,13,2024-12-27,Joventut,Hiopos Lleida,home,92,72,0,61,24,6,13,68,24,8,12
+104161,2024_25,13,2024-12-27,Valencia Basket,Gran Canaria,away,94,97,0,72,20,11,11,66,29,6,8
+104161,2024_25,13,2024-12-27,Gran Canaria,Valencia Basket,home,97,94,0,66,29,6,8,72,20,11,11
+104162,2024_25,13,2024-12-28,Surne Bilbao Basket,Leyma Basquet Coruña,away,100,79,0,72,20,11,6,60,18,10,15
+104162,2024_25,13,2024-12-28,Leyma Basquet Coruña,Surne Bilbao Basket,home,79,100,0,60,18,10,15,72,20,11,6
+104163,2024_25,13,2024-12-28,Río Breogán,Unicaja,away,77,86,0,65,15,7,12,73,17,14,12
+104163,2024_25,13,2024-12-28,Unicaja,Río Breogán,home,86,77,0,73,17,14,12,65,15,7,12
+104164,2024_25,13,2024-12-28,La Laguna Tenerife,MoraBanc Andorra,away,92,83,0,65,15,11,10,64,10,7,10
+104164,2024_25,13,2024-12-28,MoraBanc Andorra,La Laguna Tenerife,home,83,92,0,64,10,7,10,65,15,11,10
+104165,2024_25,13,2024-12-28,Coviran Granada,UCAM Murcia,away,81,84,0,53,21,1,14,55,40,8,11
+104165,2024_25,13,2024-12-28,UCAM Murcia,Coviran Granada,home,84,81,0,55,40,8,11,53,21,1,14
+104166,2024_25,13,2024-12-29,Bàsquet Girona,Casademont Zaragoza,away,68,96,0,65,18,10,15,75,20,14,9
+104166,2024_25,13,2024-12-29,Casademont Zaragoza,Bàsquet Girona,home,96,68,0,75,20,14,9,65,18,10,15
+104167,2024_25,13,2024-12-29,Baskonia,BAXI Manresa,away,82,80,0,58,21,8,13,79,21,20,10
+104167,2024_25,13,2024-12-29,BAXI Manresa,Baskonia,home,80,82,0,79,21,20,10,58,21,8,13
+104168,2024_25,13,2024-12-29,FC Barcelona,Real Madrid,away,71,73,0,69,11,15,8,68,23,11,4
+104168,2024_25,13,2024-12-29,Real Madrid,FC Barcelona,home,73,71,0,68,23,11,4,69,11,15,8
+104169,2024_25,14,2024-12-30,Hiopos Lleida,Valencia Basket,away,92,107,0,71,18,11,14,75,26,14,13
+104169,2024_25,14,2024-12-30,Valencia Basket,Hiopos Lleida,home,107,92,0,75,26,14,13,71,18,11,14
+104170,2024_25,14,2024-12-30,Gran Canaria,Joventut,away,78,89,0,66,17,7,6,70,16,12,11
+104170,2024_25,14,2024-12-30,Joventut,Gran Canaria,home,89,78,0,70,16,12,11,66,17,7,6
+104171,2024_25,14,2025-01-02,MoraBanc Andorra,Surne Bilbao Basket,away,74,82,0,62,28,8,10,68,26,9,10
+104171,2024_25,14,2025-01-02,Surne Bilbao Basket,MoraBanc Andorra,home,82,74,0,68,26,9,10,62,28,8,10
+104172,2024_25,14,2025-01-02,BAXI Manresa,Río Breogán,away,88,79,0,63,23,12,12,62,19,10,15
+104172,2024_25,14,2025-01-02,Río Breogán,BAXI Manresa,home,79,88,0,62,19,10,15,63,23,12,12
+104173,2024_25,14,2025-01-02,Unicaja,UCAM Murcia,away,89,77,0,74,14,12,13,63,22,9,17
+104173,2024_25,14,2025-01-02,UCAM Murcia,Unicaja,home,77,89,0,63,22,9,17,74,14,12,13
+104174,2024_25,14,2025-01-02,Casademont Zaragoza,La Laguna Tenerife,away,97,106,0,65,13,8,11,53,31,4,9
+104174,2024_25,14,2025-01-02,La Laguna Tenerife,Casademont Zaragoza,home,106,97,0,53,31,4,9,65,13,8,11
+104175,2024_25,14,2025-01-07,FC Barcelona,Bàsquet Girona,away,90,91,0,67,19,11,12,65,14,6,12
+104175,2024_25,14,2025-01-07,Bàsquet Girona,FC Barcelona,home,91,90,0,65,14,6,12,67,19,11,12
+104176,2024_25,14,2025-01-08,Leyma Basquet Coruña,Baskonia,away,66,114,0,68,16,6,5,66,27,9,10
+104176,2024_25,14,2025-01-08,Baskonia,Leyma Basquet Coruña,home,114,66,0,66,27,9,10,68,16,6,5
+104177,2024_25,14,2025-01-08,Real Madrid,Coviran Granada,away,84,79,0,75,24,17,11,61,16,7,15
+104177,2024_25,14,2025-01-08,Coviran Granada,Real Madrid,home,79,84,0,61,16,7,15,75,24,17,11
+104178,2024_25,15,2025-01-04,UCAM Murcia,BAXI Manresa,away,74,80,0,60,19,6,17,66,23,14,19
+104178,2024_25,15,2025-01-04,BAXI Manresa,UCAM Murcia,home,80,74,0,66,23,14,19,60,19,6,17
+104179,2024_25,15,2025-01-04,Bàsquet Girona,Hiopos Lleida,away,90,85,0,54,44,5,11,66,27,11,14
+104179,2024_25,15,2025-01-04,Hiopos Lleida,Bàsquet Girona,home,85,90,0,66,27,11,14,54,44,5,11
+104180,2024_25,15,2025-01-04,Río Breogán,MoraBanc Andorra,away,101,93,0,58,20,5,14,66,23,10,10
+104180,2024_25,15,2025-01-04,MoraBanc Andorra,Río Breogán,home,93,101,0,66,23,10,10,58,20,5,14
+104181,2024_25,15,2025-01-04,Casademont Zaragoza,Unicaja,away,71,85,0,67,10,8,13,68,14,10,11
+104181,2024_25,15,2025-01-04,Unicaja,Casademont Zaragoza,home,85,71,0,68,14,10,11,67,10,8,13
+104182,2024_25,15,2025-01-04,Surne Bilbao Basket,La Laguna Tenerife,away,75,86,0,63,13,8,10,62,13,6,7
+104182,2024_25,15,2025-01-04,La Laguna Tenerife,Surne Bilbao Basket,home,86,75,0,62,13,6,7,63,13,8,10
+104183,2024_25,15,2025-01-05,Joventut,FC Barcelona,away,91,90,1,73,16,9,9,68,19,5,9
+104183,2024_25,15,2025-01-05,FC Barcelona,Joventut,home,90,91,1,68,19,5,9,73,16,9,9
+104184,2024_25,15,2025-01-05,Valencia Basket,Leyma Basquet Coruña,away,99,91,0,79,24,10,9,69,27,8,13
+104184,2024_25,15,2025-01-05,Leyma Basquet Coruña,Valencia Basket,home,91,99,0,69,27,8,13,79,24,10,9
+104185,2024_25,15,2025-01-05,Gran Canaria,Coviran Granada,away,97,82,0,60,14,5,12,65,19,8,4
+104185,2024_25,15,2025-01-05,Coviran Granada,Gran Canaria,home,82,97,0,65,19,8,4,60,14,5,12
+104186,2024_25,15,2025-01-06,Real Madrid,Baskonia,away,89,82,0,60,16,9,14,66,24,13,8
+104186,2024_25,15,2025-01-06,Baskonia,Real Madrid,home,82,89,0,66,24,13,8,60,16,9,14
+104187,2024_25,16,2025-01-11,Unicaja,Surne Bilbao Basket,away,86,81,0,58,19,8,12,55,35,15,17
+104187,2024_25,16,2025-01-11,Surne Bilbao Basket,Unicaja,home,81,86,0,55,35,15,17,58,19,8,12
+104188,2024_25,16,2025-01-11,Coviran Granada,Valencia Basket,away,94,120,0,68,20,11,12,72,23,15,15
+104188,2024_25,16,2025-01-11,Valencia Basket,Coviran Granada,home,120,94,0,72,23,15,15,68,20,11,12
+104189,2024_25,16,2025-01-11,BAXI Manresa,Casademont Zaragoza,away,93,92,0,63,29,13,16,73,29,16,12
+104189,2024_25,16,2025-01-11,Casademont Zaragoza,BAXI Manresa,home,92,93,0,73,29,16,12,63,29,13,16
+104190,2024_25,16,2025-01-11,MoraBanc Andorra,Joventut,away,86,93,0,70,22,15,11,70,17,10,8
+104190,2024_25,16,2025-01-11,Joventut,MoraBanc Andorra,home,93,86,0,70,17,10,8,70,22,15,11
+104191,2024_25,16,2025-01-12,Hiopos Lleida,UCAM Murcia,away,81,88,0,64,29,8,14,61,20,6,15
+104191,2024_25,16,2025-01-12,UCAM Murcia,Hiopos Lleida,home,88,81,0,61,20,6,15,64,29,8,14
+104192,2024_25,16,2025-01-12,Leyma Basquet Coruña,Río Breogán,away,80,83,0,60,23,13,13,60,22,8,8
+104192,2024_25,16,2025-01-12,Río Breogán,Leyma Basquet Coruña,home,83,80,0,60,22,8,8,60,23,13,13
+104193,2024_25,16,2025-01-12,FC Barcelona,Gran Canaria,away,77,74,0,57,19,7,11,63,7,10,8
+104193,2024_25,16,2025-01-12,Gran Canaria,FC Barcelona,home,74,77,0,63,7,10,8,57,19,7,11
+104194,2024_25,16,2025-01-12,Baskonia,Bàsquet Girona,away,67,96,0,65,20,8,9,67,24,13,11
+104194,2024_25,16,2025-01-12,Bàsquet Girona,Baskonia,home,96,67,0,67,24,13,11,65,20,8,9
+104195,2024_25,16,2025-01-12,La Laguna Tenerife,Real Madrid,away,86,96,0,69,13,11,8,65,25,11,8
+104195,2024_25,16,2025-01-12,Real Madrid,La Laguna Tenerife,home,96,86,0,65,25,11,8,69,13,11,8
+104196,2024_25,17,2025-01-18,UCAM Murcia,Leyma Basquet Coruña,away,86,78,0,75,22,13,8,71,16,10,9
+104196,2024_25,17,2025-01-18,Leyma Basquet Coruña,UCAM Murcia,home,78,86,0,71,16,10,9,75,22,13,8
+104197,2024_25,17,2025-01-18,Joventut,BAXI Manresa,away,72,87,0,60,17,8,13,56,23,3,10
+104197,2024_25,17,2025-01-18,BAXI Manresa,Joventut,home,87,72,0,56,23,3,10,60,17,8,13
+104198,2024_25,17,2025-01-18,Bàsquet Girona,La Laguna Tenerife,away,80,100,0,65,17,14,15,61,30,9,9
+104198,2024_25,17,2025-01-18,La Laguna Tenerife,Bàsquet Girona,home,100,80,0,61,30,9,9,65,17,14,15
+104199,2024_25,17,2025-01-18,Valencia Basket,Unicaja,away,86,94,0,68,12,9,15,86,19,15,7
+104199,2024_25,17,2025-01-18,Unicaja,Valencia Basket,home,94,86,0,86,19,15,7,68,12,9,15
+104200,2024_25,17,2025-01-19,Gran Canaria,Hiopos Lleida,away,78,88,0,59,26,10,11,67,20,10,10
+104200,2024_25,17,2025-01-19,Hiopos Lleida,Gran Canaria,home,88,78,0,67,20,10,10,59,26,10,11
+104201,2024_25,17,2025-01-19,Casademont Zaragoza,Coviran Granada,away,91,97,0,62,27,9,19,63,21,9,16
+104201,2024_25,17,2025-01-19,Coviran Granada,Casademont Zaragoza,home,97,91,0,63,21,9,16,62,27,9,19
+104202,2024_25,17,2025-01-19,Surne Bilbao Basket,FC Barcelona,away,84,97,0,65,12,7,7,68,18,14,8
+104202,2024_25,17,2025-01-19,FC Barcelona,Surne Bilbao Basket,home,97,84,0,68,18,14,8,65,12,7,7
+104203,2024_25,17,2025-01-19,Río Breogán,Baskonia,away,91,97,0,67,18,10,12,70,24,12,9
+104203,2024_25,17,2025-01-19,Baskonia,Río Breogán,home,97,91,0,70,24,12,9,67,18,10,12
+104204,2024_25,17,2025-01-19,Real Madrid,MoraBanc Andorra,away,100,84,0,60,31,7,12,75,12,14,10
+104204,2024_25,17,2025-01-19,MoraBanc Andorra,Real Madrid,home,84,100,0,75,12,14,10,60,31,7,12
+104205,2024_25,18,2025-01-25,BAXI Manresa,Valencia Basket,away,96,112,0,73,12,9,14,69,28,14,16
+104205,2024_25,18,2025-01-25,Valencia Basket,BAXI Manresa,home,112,96,0,69,28,14,16,73,12,9,14
+104206,2024_25,18,2025-01-25,Surne Bilbao Basket,Río Breogán,away,71,76,0,62,25,11,11,56,24,5,10
+104206,2024_25,18,2025-01-25,Río Breogán,Surne Bilbao Basket,home,76,71,0,56,24,5,10,62,25,11,11
+104207,2024_25,18,2025-01-25,Unicaja,Bàsquet Girona,away,85,91,0,64,28,12,10,61,34,9,8
+104207,2024_25,18,2025-01-25,Bàsquet Girona,Unicaja,home,91,85,0,61,34,9,8,64,28,12,10
+104208,2024_25,18,2025-01-25,Coviran Granada,Joventut,away,82,96,0,61,27,7,17,65,39,9,9
+104208,2024_25,18,2025-01-25,Joventut,Coviran Granada,home,96,82,0,65,39,9,9,61,27,7,17
+104209,2024_25,18,2025-01-26,MoraBanc Andorra,Casademont Zaragoza,away,75,86,0,67,14,8,16,67,26,14,18
+104209,2024_25,18,2025-01-26,Casademont Zaragoza,MoraBanc Andorra,home,86,75,0,67,26,14,18,67,14,8,16
+104210,2024_25,18,2025-01-26,La Laguna Tenerife,Gran Canaria,away,70,67,0,54,14,6,9,64,11,11,10
+104210,2024_25,18,2025-01-26,Gran Canaria,La Laguna Tenerife,home,67,70,0,64,11,11,10,54,14,6,9
+104211,2024_25,18,2025-01-26,Baskonia,Hiopos Lleida,away,78,74,0,72,20,15,7,54,21,3,10
+104211,2024_25,18,2025-01-26,Hiopos Lleida,Baskonia,home,74,78,0,54,21,3,10,72,20,15,7
+104212,2024_25,18,2025-01-26,Leyma Basquet Coruña,Real Madrid,away,74,90,0,73,9,8,11,58,24,3,13
+104212,2024_25,18,2025-01-26,Real Madrid,Leyma Basquet Coruña,home,90,74,0,58,24,3,13,73,9,8,11
+104213,2024_25,18,2025-01-26,FC Barcelona,UCAM Murcia,away,95,90,1,70,26,11,14,79,13,12,12
+104213,2024_25,18,2025-01-26,UCAM Murcia,FC Barcelona,home,90,95,1,79,13,12,12,70,26,11,14
+104214,2024_25,19,2025-02-01,UCAM Murcia,Casademont Zaragoza,away,88,79,0,65,25,9,13,68,31,17,17
+104214,2024_25,19,2025-02-01,Casademont Zaragoza,UCAM Murcia,home,79,88,0,68,31,17,17,65,25,9,13
+104215,2024_25,19,2025-02-01,Bàsquet Girona,Coviran Granada,away,74,78,0,63,18,11,18,52,44,9,11
+104215,2024_25,19,2025-02-01,Coviran Granada,Bàsquet Girona,home,78,74,0,52,44,9,11,63,18,11,18
+104216,2024_25,19,2025-02-01,Valencia Basket,MoraBanc Andorra,away,84,86,0,59,28,9,16,77,20,16,10
+104216,2024_25,19,2025-02-01,MoraBanc Andorra,Valencia Basket,home,86,84,0,77,20,16,10,59,28,9,16
+104217,2024_25,19,2025-02-01,Gran Canaria,Leyma Basquet Coruña,away,98,90,0,63,27,7,15,70,22,9,10
+104217,2024_25,19,2025-02-01,Leyma Basquet Coruña,Gran Canaria,home,90,98,0,70,22,9,10,63,27,7,15
+104218,2024_25,19,2025-02-02,Baskonia,Unicaja,away,73,94,0,62,21,7,15,76,18,15,12
+104218,2024_25,19,2025-02-02,Unicaja,Baskonia,home,94,73,0,76,18,15,12,62,21,7,15
+104219,2024_25,19,2025-02-02,Río Breogán,La Laguna Tenerife,away,83,96,0,57,12,9,15,64,10,10,9
+104219,2024_25,19,2025-02-02,La Laguna Tenerife,Río Breogán,home,96,83,0,64,10,10,9,57,12,9,15
+104220,2024_25,19,2025-02-02,Hiopos Lleida,Surne Bilbao Basket,away,75,91,0,48,31,12,21,74,16,17,8
+104220,2024_25,19,2025-02-02,Surne Bilbao Basket,Hiopos Lleida,home,91,75,0,74,16,17,8,48,31,12,21
+104221,2024_25,19,2025-02-02,BAXI Manresa,FC Barcelona,away,103,92,0,71,20,5,7,58,29,8,14
+104221,2024_25,19,2025-02-02,FC Barcelona,BAXI Manresa,home,92,103,0,58,29,8,14,71,20,5,7
+104222,2024_25,19,2025-02-02,Joventut,Real Madrid,away,73,86,0,67,16,10,14,64,26,9,12
+104222,2024_25,19,2025-02-02,Real Madrid,Joventut,home,86,73,0,64,26,9,12,67,16,10,14
+104223,2024_25,20,2025-02-08,Surne Bilbao Basket,BAXI Manresa,away,74,89,0,55,23,3,17,67,25,10,9
+104223,2024_25,20,2025-02-08,BAXI Manresa,Surne Bilbao Basket,home,89,74,0,67,25,10,9,55,23,3,17
+104224,2024_25,20,2025-02-08,Unicaja,Río Breogán,away,79,81,0,64,11,6,16,60,20,6,15
+104224,2024_25,20,2025-02-08,Río Breogán,Unicaja,home,81,79,0,60,20,6,15,64,11,6,16
+104225,2024_25,20,2025-02-08,La Laguna Tenerife,UCAM Murcia,away,78,77,0,51,21,2,14,57,23,8,12
+104225,2024_25,20,2025-02-08,UCAM Murcia,La Laguna Tenerife,home,77,78,0,57,23,8,12,51,21,2,14
+104226,2024_25,20,2025-02-08,Leyma Basquet Coruña,Joventut,away,104,107,1,73,16,9,14,66,47,8,7
+104226,2024_25,20,2025-02-08,Joventut,Leyma Basquet Coruña,home,107,104,1,66,47,8,7,73,16,9,14
+104227,2024_25,20,2025-02-09,Real Madrid,Hiopos Lleida,away,95,84,0,65,28,10,6,57,24,4,7
+104227,2024_25,20,2025-02-09,Hiopos Lleida,Real Madrid,home,84,95,0,57,24,4,7,65,28,10,6
+104228,2024_25,20,2025-02-09,MoraBanc Andorra,Gran Canaria,away,106,94,0,71,22,16,12,58,23,6,16
+104228,2024_25,20,2025-02-09,Gran Canaria,MoraBanc Andorra,home,94,106,0,58,23,6,16,71,22,16,12
+104229,2024_25,20,2025-02-09,Casademont Zaragoza,Bàsquet Girona,away,101,89,0,62,24,9,17,68,21,12,16
+104229,2024_25,20,2025-02-09,Bàsquet Girona,Casademont Zaragoza,home,89,101,0,68,21,12,16,62,24,9,17
+104230,2024_25,20,2025-02-09,Coviran Granada,Baskonia,away,82,103,0,69,13,10,9,61,28,8,7
+104230,2024_25,20,2025-02-09,Baskonia,Coviran Granada,home,103,82,0,61,28,8,7,69,13,10,9
+104231,2024_25,20,2025-02-09,FC Barcelona,Valencia Basket,away,100,86,0,68,21,10,11,70,12,12,11
+104231,2024_25,20,2025-02-09,Valencia Basket,FC Barcelona,home,86,100,0,70,12,12,11,68,21,10,11
+104232,2024_25,21,2025-03-01,Valencia Basket,Casademont Zaragoza,away,115,71,0,67,16,8,18,78,13,13,16
+104232,2024_25,21,2025-03-01,Casademont Zaragoza,Valencia Basket,home,71,115,0,78,13,13,16,67,16,8,18
+104233,2024_25,21,2025-03-01,Hiopos Lleida,Leyma Basquet Coruña,away,84,97,0,69,22,10,12,68,19,9,12
+104233,2024_25,21,2025-03-01,Leyma Basquet Coruña,Hiopos Lleida,home,97,84,0,68,19,9,12,69,22,10,12
+104234,2024_25,21,2025-03-01,UCAM Murcia,Coviran Granada,away,88,82,0,62,30,10,9,62,28,16,14
+104234,2024_25,21,2025-03-01,Coviran Granada,UCAM Murcia,home,82,88,0,62,28,16,14,62,30,10,9
+104235,2024_25,21,2025-03-01,Joventut,La Laguna Tenerife,away,81,82,0,64,16,10,7,55,22,3,7
+104235,2024_25,21,2025-03-01,La Laguna Tenerife,Joventut,home,82,81,0,55,22,3,7,64,16,10,7
+104236,2024_25,21,2025-03-02,Bàsquet Girona,Surne Bilbao Basket,away,83,96,0,72,18,14,11,63,38,11,3
+104236,2024_25,21,2025-03-02,Surne Bilbao Basket,Bàsquet Girona,home,96,83,0,63,38,11,3,72,18,14,11
+104237,2024_25,21,2025-03-02,BAXI Manresa,Unicaja,away,97,105,0,67,27,9,17,73,24,16,19
+104237,2024_25,21,2025-03-02,Unicaja,BAXI Manresa,home,105,97,0,73,24,16,19,67,27,9,17
+104238,2024_25,21,2025-03-02,Río Breogán,FC Barcelona,away,79,102,0,60,14,7,18,70,21,8,9
+104238,2024_25,21,2025-03-02,FC Barcelona,Río Breogán,home,102,79,0,70,21,8,9,60,14,7,18
+104239,2024_25,21,2025-03-02,Baskonia,MoraBanc Andorra,away,88,93,0,63,23,5,12,69,24,12,9
+104239,2024_25,21,2025-03-02,MoraBanc Andorra,Baskonia,home,93,88,0,69,24,12,9,63,23,5,12
+104240,2024_25,21,2025-03-02,Real Madrid,Gran Canaria,away,69,54,0,65,17,13,14,59,14,8,14
+104240,2024_25,21,2025-03-02,Gran Canaria,Real Madrid,home,54,69,0,59,14,8,14,65,17,13,14
+104241,2024_25,22,2025-03-08,Surne Bilbao Basket,Valencia Basket,away,70,89,0,70,9,7,7,67,12,11,17
+104241,2024_25,22,2025-03-08,Valencia Basket,Surne Bilbao Basket,home,89,70,0,67,12,11,17,70,9,7,7
+104242,2024_25,22,2025-03-08,Coviran Granada,Unicaja,away,78,95,0,61,26,10,18,72,19,9,6
+104242,2024_25,22,2025-03-08,Unicaja,Coviran Granada,home,95,78,0,72,19,9,6,61,26,10,18
+104243,2024_25,22,2025-03-08,MoraBanc Andorra,Río Breogán,away,74,94,0,60,30,12,18,64,14,9,19
+104243,2024_25,22,2025-03-08,Río Breogán,MoraBanc Andorra,home,94,74,0,64,14,9,19,60,30,12,18
+104244,2024_25,22,2025-03-08,Joventut,Bàsquet Girona,away,76,83,0,57,11,5,15,62,21,13,12
+104244,2024_25,22,2025-03-08,Bàsquet Girona,Joventut,home,83,76,0,62,21,13,12,57,11,5,15
+104245,2024_25,22,2025-03-09,UCAM Murcia,Real Madrid,away,75,80,0,61,15,4,19,70,37,14,10
+104245,2024_25,22,2025-03-09,Real Madrid,UCAM Murcia,home,80,75,0,70,37,14,10,61,15,4,19
+104246,2024_25,22,2025-03-09,Leyma Basquet Coruña,BAXI Manresa,away,89,104,0,64,28,8,20,78,20,9,13
+104246,2024_25,22,2025-03-09,BAXI Manresa,Leyma Basquet Coruña,home,104,89,0,78,20,9,13,64,28,8,20
+104247,2024_25,22,2025-03-09,Gran Canaria,Baskonia,away,80,84,0,56,19,4,13,62,20,11,9
+104247,2024_25,22,2025-03-09,Baskonia,Gran Canaria,home,84,80,0,62,20,11,9,56,19,4,13
+104248,2024_25,22,2025-03-09,Casademont Zaragoza,Hiopos Lleida,away,91,97,0,65,17,7,12,61,30,10,14
+104248,2024_25,22,2025-03-09,Hiopos Lleida,Casademont Zaragoza,home,97,91,0,61,30,10,14,65,17,7,12
+104249,2024_25,22,2025-03-09,La Laguna Tenerife,FC Barcelona,away,95,92,0,60,23,2,7,62,23,8,14
+104249,2024_25,22,2025-03-09,FC Barcelona,La Laguna Tenerife,home,92,95,0,62,23,8,14,60,23,2,7
+104250,2024_25,23,2025-03-15,Bàsquet Girona,UCAM Murcia,away,76,64,0,68,28,10,8,70,20,10,12
+104250,2024_25,23,2025-03-15,UCAM Murcia,Bàsquet Girona,home,64,76,0,70,20,10,12,68,28,10,8
+104251,2024_25,23,2025-03-15,Valencia Basket,Joventut,away,104,89,0,66,16,13,13,65,13,7,12
+104251,2024_25,23,2025-03-15,Joventut,Valencia Basket,home,89,104,0,65,13,7,12,66,16,13,13
+104252,2024_25,23,2025-03-15,Unicaja,Casademont Zaragoza,away,69,84,0,63,23,10,19,67,16,8,16
+104252,2024_25,23,2025-03-15,Casademont Zaragoza,Unicaja,home,84,69,0,67,16,8,16,63,23,10,19
+104253,2024_25,23,2025-03-15,BAXI Manresa,Gran Canaria,away,89,94,0,72,14,12,9,57,22,7,12
+104253,2024_25,23,2025-03-15,Gran Canaria,BAXI Manresa,home,94,89,0,57,22,7,12,72,14,12,9
+104254,2024_25,23,2025-03-16,Hiopos Lleida,Coviran Granada,away,85,82,1,58,51,12,14,74,24,20,15
+104254,2024_25,23,2025-03-16,Coviran Granada,Hiopos Lleida,home,82,85,1,74,24,20,15,58,51,12,14
+104255,2024_25,23,2025-03-16,Río Breogán,Leyma Basquet Coruña,away,106,98,0,62,28,7,10,79,21,10,8
+104255,2024_25,23,2025-03-16,Leyma Basquet Coruña,Río Breogán,home,98,106,0,79,21,10,8,62,28,7,10
+104256,2024_25,23,2025-03-16,FC Barcelona,MoraBanc Andorra,away,113,91,0,72,15,5,11,66,22,6,14
+104256,2024_25,23,2025-03-16,MoraBanc Andorra,FC Barcelona,home,91,113,0,66,22,6,14,72,15,5,11
+104257,2024_25,23,2025-03-16,La Laguna Tenerife,Surne Bilbao Basket,away,75,65,0,62,17,8,9,63,15,8,8
+104257,2024_25,23,2025-03-16,Surne Bilbao Basket,La Laguna Tenerife,home,65,75,0,63,15,8,8,62,17,8,9
+104258,2024_25,23,2025-03-16,Baskonia,Real Madrid,away,78,83,0,67,20,10,13,67,19,8,12
+104258,2024_25,23,2025-03-16,Real Madrid,Baskonia,home,83,78,0,67,19,8,12,67,20,10,13
+104259,2024_25,24,2025-03-22,Gran Canaria,Bàsquet Girona,away,95,86,0,68,15,7,15,63,14,5,19
+104259,2024_25,24,2025-03-22,Bàsquet Girona,Gran Canaria,home,86,95,0,63,14,5,19,68,15,7,15
+104260,2024_25,24,2025-03-22,Leyma Basquet Coruña,Valencia Basket,away,81,127,0,70,15,8,10,67,26,10,9
+104260,2024_25,24,2025-03-22,Valencia Basket,Leyma Basquet Coruña,home,127,81,0,67,26,10,9,70,15,8,10
+104261,2024_25,24,2025-03-22,BAXI Manresa,Baskonia,away,84,90,0,69,17,9,13,56,38,5,11
+104261,2024_25,24,2025-03-22,Baskonia,BAXI Manresa,home,90,84,0,56,38,5,11,69,17,9,13
+104262,2024_25,24,2025-03-22,UCAM Murcia,Río Breogán,away,86,70,0,64,28,12,11,67,26,14,10
+104262,2024_25,24,2025-03-22,Río Breogán,UCAM Murcia,home,70,86,0,67,26,14,10,64,28,12,11
+104263,2024_25,24,2025-03-23,Joventut,Hiopos Lleida,away,86,81,0,65,20,11,13,67,16,11,12
+104263,2024_25,24,2025-03-23,Hiopos Lleida,Joventut,home,81,86,0,67,16,11,12,65,20,11,13
+104264,2024_25,24,2025-03-23,MoraBanc Andorra,La Laguna Tenerife,away,84,96,0,55,18,6,8,64,16,10,6
+104264,2024_25,24,2025-03-23,La Laguna Tenerife,MoraBanc Andorra,home,96,84,0,64,16,10,6,55,18,6,8
+104265,2024_25,24,2025-03-23,Casademont Zaragoza,FC Barcelona,away,95,97,0,67,18,10,11,68,15,10,11
+104265,2024_25,24,2025-03-23,FC Barcelona,Casademont Zaragoza,home,97,95,0,68,15,10,11,67,18,10,11
+104266,2024_25,24,2025-03-23,Coviran Granada,Surne Bilbao Basket,away,88,91,0,74,18,12,8,67,29,8,9
+104266,2024_25,24,2025-03-23,Surne Bilbao Basket,Coviran Granada,home,91,88,0,67,29,8,9,74,18,12,8
+104267,2024_25,24,2025-03-23,Real Madrid,Unicaja,away,107,105,0,68,27,11,10,71,12,6,9
+104267,2024_25,24,2025-03-23,Unicaja,Real Madrid,home,105,107,0,71,12,6,9,68,27,11,10
+104268,2024_25,25,2025-03-29,MoraBanc Andorra,UCAM Murcia,away,85,79,0,60,18,5,10,68,16,15,10
+104268,2024_25,25,2025-03-29,UCAM Murcia,MoraBanc Andorra,home,79,85,0,68,16,15,10,60,18,5,10
+104269,2024_25,25,2025-03-29,Hiopos Lleida,BAXI Manresa,away,95,89,0,59,28,9,15,69,17,14,17
+104269,2024_25,25,2025-03-29,BAXI Manresa,Hiopos Lleida,home,89,95,0,69,17,14,17,59,28,9,15
+104270,2024_25,25,2025-03-29,Bàsquet Girona,Leyma Basquet Coruña,away,99,89,0,68,20,9,11,63,17,6,16
+104270,2024_25,25,2025-03-29,Leyma Basquet Coruña,Bàsquet Girona,home,89,99,0,63,17,6,16,68,20,9,11
+104271,2024_25,25,2025-03-29,La Laguna Tenerife,Casademont Zaragoza,away,93,89,0,67,15,10,6,65,22,15,10
+104271,2024_25,25,2025-03-29,Casademont Zaragoza,La Laguna Tenerife,home,89,93,0,65,22,15,10,67,15,10,6
+104272,2024_25,25,2025-03-30,Valencia Basket,Coviran Granada,away,97,69,0,61,26,8,16,70,17,14,12
+104272,2024_25,25,2025-03-30,Coviran Granada,Valencia Basket,home,69,97,0,70,17,14,12,61,26,8,16
+104273,2024_25,25,2025-03-30,Unicaja,Gran Canaria,away,89,91,0,62,17,5,10,65,12,8,9
+104273,2024_25,25,2025-03-30,Gran Canaria,Unicaja,home,91,89,0,65,12,8,9,62,17,5,10
+104274,2024_25,25,2025-03-30,Surne Bilbao Basket,Real Madrid,away,70,88,0,72,11,13,11,60,17,6,12
+104274,2024_25,25,2025-03-30,Real Madrid,Surne Bilbao Basket,home,88,70,0,60,17,6,12,72,11,13,11
+104275,2024_25,25,2025-03-30,Baskonia,Río Breogán,away,82,88,0,64,20,5,13,63,16,6,13
+104275,2024_25,25,2025-03-30,Río Breogán,Baskonia,home,88,82,0,63,16,6,13,64,20,5,13
+104276,2024_25,25,2025-03-30,FC Barcelona,Joventut,away,93,86,0,67,22,10,12,75,17,10,5
+104276,2024_25,25,2025-03-30,Joventut,FC Barcelona,home,86,93,0,75,17,10,5,67,22,10,12
+104277,2024_25,26,2025-04-05,Joventut,MoraBanc Andorra,away,99,86,0,66,17,12,12,68,12,7,7
+104277,2024_25,26,2025-04-05,MoraBanc Andorra,Joventut,home,86,99,0,68,12,7,7,66,17,12,12
+104278,2024_25,26,2025-04-05,Río Breogán,Hiopos Lleida,away,81,94,0,65,13,10,15,66,34,15,8
+104278,2024_25,26,2025-04-05,Hiopos Lleida,Río Breogán,home,94,81,0,66,34,15,8,65,13,10,15
+104279,2024_25,26,2025-04-05,Gran Canaria,Surne Bilbao Basket,away,78,96,0,69,12,13,11,62,19,8,10
+104279,2024_25,26,2025-04-05,Surne Bilbao Basket,Gran Canaria,home,96,78,0,62,19,8,10,69,12,13,11
+104280,2024_25,26,2025-04-05,UCAM Murcia,Valencia Basket,away,86,71,0,65,18,10,10,68,20,13,12
+104280,2024_25,26,2025-04-05,Valencia Basket,UCAM Murcia,home,71,86,0,68,20,13,12,65,18,10,10
+104281,2024_25,26,2025-04-06,Casademont Zaragoza,BAXI Manresa,away,83,95,0,63,15,8,21,71,18,10,9
+104281,2024_25,26,2025-04-06,BAXI Manresa,Casademont Zaragoza,home,95,83,0,71,18,10,9,63,15,8,21
+104282,2024_25,26,2025-04-06,Coviran Granada,La Laguna Tenerife,away,87,95,0,59,17,6,16,71,16,12,7
+104282,2024_25,26,2025-04-06,La Laguna Tenerife,Coviran Granada,home,95,87,0,71,16,12,7,59,17,6,16
+104283,2024_25,26,2025-04-06,Leyma Basquet Coruña,Unicaja,away,105,114,0,67,27,9,11,69,33,11,5
+104283,2024_25,26,2025-04-06,Unicaja,Leyma Basquet Coruña,home,114,105,0,69,33,11,5,67,27,9,11
+104284,2024_25,26,2025-04-06,Bàsquet Girona,Baskonia,away,76,92,0,78,11,16,11,56,20,8,20
+104284,2024_25,26,2025-04-06,Baskonia,Bàsquet Girona,home,92,76,0,56,20,8,20,78,11,16,11
+104285,2024_25,26,2025-04-06,Real Madrid,FC Barcelona,away,91,89,0,64,28,9,14,74,13,8,7
+104285,2024_25,26,2025-04-06,FC Barcelona,Real Madrid,home,89,91,0,74,13,8,7,64,28,9,14
+104286,2024_25,27,2025-04-12,Río Breogán,Bàsquet Girona,away,85,91,0,66,16,12,11,65,29,7,5
+104286,2024_25,27,2025-04-12,Bàsquet Girona,Río Breogán,home,91,85,0,65,29,7,5,66,16,12,11
+104287,2024_25,27,2025-04-30,Leyma Basquet Coruña,Casademont Zaragoza,away,76,84,0,64,18,10,13,68,22,11,8
+104287,2024_25,27,2025-04-30,Casademont Zaragoza,Leyma Basquet Coruña,home,84,76,0,68,22,11,8,64,18,10,13
+104288,2024_25,27,2025-04-12,Baskonia,UCAM Murcia,away,91,82,0,68,25,16,9,72,13,11,6
+104288,2024_25,27,2025-04-12,UCAM Murcia,Baskonia,home,82,91,0,72,13,11,6,68,25,16,9
+104289,2024_25,27,2025-05-14,Hiopos Lleida,Gran Canaria,away,90,94,0,60,21,6,15,62,23,7,13
+104289,2024_25,27,2025-05-14,Gran Canaria,Hiopos Lleida,home,94,90,0,62,23,7,13,60,21,6,15
+104290,2024_25,27,2025-04-13,BAXI Manresa,Joventut,away,92,85,0,66,27,11,9,59,36,9,11
+104290,2024_25,27,2025-04-13,Joventut,BAXI Manresa,home,85,92,0,59,36,9,11,66,27,11,9
+104291,2024_25,27,2025-04-13,Real Madrid,La Laguna Tenerife,away,79,68,0,67,18,11,10,61,12,7,10
+104291,2024_25,27,2025-04-13,La Laguna Tenerife,Real Madrid,home,68,79,0,61,12,7,10,67,18,11,10
+104292,2024_25,27,2025-04-13,FC Barcelona,Coviran Granada,away,93,86,0,60,29,11,12,68,27,13,10
+104292,2024_25,27,2025-04-13,Coviran Granada,FC Barcelona,home,86,93,0,68,27,13,10,60,29,11,12
+104293,2024_25,27,2025-04-12,Surne Bilbao Basket,MoraBanc Andorra,away,81,84,0,61,13,6,11,59,19,9,12
+104293,2024_25,27,2025-04-12,MoraBanc Andorra,Surne Bilbao Basket,home,84,81,0,59,19,9,12,61,13,6,11
+104294,2024_25,27,2025-04-13,Unicaja,Valencia Basket,away,75,84,0,74,14,11,10,62,24,8,17
+104294,2024_25,27,2025-04-13,Valencia Basket,Unicaja,home,84,75,0,62,24,8,17,74,14,11,10
+104295,2024_25,28,2025-04-19,Bàsquet Girona,BAXI Manresa,away,84,95,0,62,20,4,14,65,25,12,13
+104295,2024_25,28,2025-04-19,BAXI Manresa,Bàsquet Girona,home,95,84,0,65,25,12,13,62,20,4,14
+104296,2024_25,28,2025-04-19,Surne Bilbao Basket,Unicaja,away,79,96,0,58,17,6,14,60,21,5,12
+104296,2024_25,28,2025-04-19,Unicaja,Surne Bilbao Basket,home,96,79,0,60,21,5,12,58,17,6,14
+104297,2024_25,28,2025-04-19,Coviran Granada,Leyma Basquet Coruña,away,89,93,0,66,31,10,10,60,24,3,11
+104297,2024_25,28,2025-04-19,Leyma Basquet Coruña,Coviran Granada,home,93,89,0,60,24,3,11,66,31,10,10
+104298,2024_25,28,2025-04-19,Joventut,UCAM Murcia,away,83,100,0,57,24,3,12,61,25,8,12
+104298,2024_25,28,2025-04-19,UCAM Murcia,Joventut,home,100,83,0,61,25,8,12,57,24,3,12
+104299,2024_25,28,2025-04-20,MoraBanc Andorra,Real Madrid,away,97,98,0,76,17,17,10,59,27,7,12
+104299,2024_25,28,2025-04-20,Real Madrid,MoraBanc Andorra,home,98,97,0,59,27,7,12,76,17,17,10
+104300,2024_25,28,2025-04-20,Valencia Basket,Hiopos Lleida,away,76,67,0,70,15,13,13,77,21,17,9
+104300,2024_25,28,2025-04-20,Hiopos Lleida,Valencia Basket,home,67,76,0,77,21,17,9,70,15,13,13
+104301,2024_25,28,2025-04-20,La Laguna Tenerife,Baskonia,away,93,89,0,62,13,5,10,58,20,5,10
+104301,2024_25,28,2025-04-20,Baskonia,La Laguna Tenerife,home,89,93,0,58,20,5,10,62,13,5,10
+104302,2024_25,28,2025-04-20,Casademont Zaragoza,Río Breogán,away,85,90,0,67,13,12,16,62,15,7,15
+104302,2024_25,28,2025-04-20,Río Breogán,Casademont Zaragoza,home,90,85,0,62,15,7,15,67,13,12,16
+104303,2024_25,28,2025-04-20,Gran Canaria,FC Barcelona,away,90,104,0,68,14,8,11,67,21,11,10
+104303,2024_25,28,2025-04-20,FC Barcelona,Gran Canaria,home,104,90,0,67,21,11,10,68,14,8,11
+104304,2024_25,29,2025-04-26,Gran Canaria,Casademont Zaragoza,away,97,87,0,64,21,10,10,62,18,10,16
+104304,2024_25,29,2025-04-26,Casademont Zaragoza,Gran Canaria,home,87,97,0,62,18,10,16,64,21,10,10
+104305,2024_25,29,2025-04-26,BAXI Manresa,Coviran Granada,away,80,86,0,60,24,7,17,64,24,13,18
+104305,2024_25,29,2025-04-26,Coviran Granada,BAXI Manresa,home,86,80,0,64,24,13,18,60,24,7,17
+104306,2024_25,29,2025-04-26,Joventut,Río Breogán,away,82,65,0,59,21,8,12,66,17,11,10
+104306,2024_25,29,2025-04-26,Río Breogán,Joventut,home,65,82,0,66,17,11,10,59,21,8,12
+104307,2024_25,29,2025-04-26,Leyma Basquet Coruña,La Laguna Tenerife,away,83,92,0,61,17,7,10,64,18,12,8
+104307,2024_25,29,2025-04-26,La Laguna Tenerife,Leyma Basquet Coruña,home,92,83,0,64,18,12,8,61,17,7,10
+104308,2024_25,29,2025-04-27,Real Madrid,Bàsquet Girona,away,79,71,0,62,10,8,12,68,25,17,10
+104308,2024_25,29,2025-04-27,Bàsquet Girona,Real Madrid,home,71,79,0,68,25,17,10,62,10,8,12
+104309,2024_25,29,2025-04-27,Baskonia,Valencia Basket,away,128,125,2,82,29,11,14,90,26,13,11
+104309,2024_25,29,2025-04-27,Valencia Basket,Baskonia,home,125,128,2,90,26,13,11,82,29,11,14
+104310,2024_25,29,2025-04-27,Hiopos Lleida,MoraBanc Andorra,away,79,96,0,55,23,6,24,70,19,9,14
+104310,2024_25,29,2025-04-27,MoraBanc Andorra,Hiopos Lleida,home,96,79,0,70,19,9,14,55,23,6,24
+104311,2024_25,29,2025-04-27,UCAM Murcia,Surne Bilbao Basket,away,83,80,1,70,19,8,13,70,29,9,10
+104311,2024_25,29,2025-04-27,Surne Bilbao Basket,UCAM Murcia,home,80,83,1,70,29,9,10,70,19,8,13
+104312,2024_25,29,2025-04-27,Unicaja,FC Barcelona,away,81,83,0,70,14,9,11,52,28,5,16
+104312,2024_25,29,2025-04-27,FC Barcelona,Unicaja,home,83,81,0,52,28,5,16,70,14,9,11
+104313,2024_25,30,2025-05-03,Surne Bilbao Basket,Joventut,away,79,87,0,63,22,7,6,65,14,9,9
+104313,2024_25,30,2025-05-03,Joventut,Surne Bilbao Basket,home,87,79,0,65,14,9,9,63,22,7,6
+104314,2024_25,30,2025-05-03,Casademont Zaragoza,Baskonia,away,84,90,0,67,14,9,11,65,28,13,8
+104314,2024_25,30,2025-05-03,Baskonia,Casademont Zaragoza,home,90,84,0,65,28,13,8,67,14,9,11
+104315,2024_25,30,2025-05-03,Río Breogán,BAXI Manresa,away,104,93,0,61,34,6,11,69,27,16,19
+104315,2024_25,30,2025-05-03,BAXI Manresa,Río Breogán,home,93,104,0,69,27,16,19,61,34,6,11
+104316,2024_25,30,2025-05-03,Coviran Granada,Gran Canaria,away,83,98,0,58,20,7,13,62,24,11,9
+104316,2024_25,30,2025-05-03,Gran Canaria,Coviran Granada,home,98,83,0,62,24,11,9,58,20,7,13
+104317,2024_25,30,2025-05-04,La Laguna Tenerife,Bàsquet Girona,away,93,84,0,51,24,1,12,72,16,14,10
+104317,2024_25,30,2025-05-04,Bàsquet Girona,La Laguna Tenerife,home,84,93,0,72,16,14,10,51,24,1,12
+104318,2024_25,30,2025-05-04,MoraBanc Andorra,Unicaja,away,80,98,0,56,35,10,14,66,15,7,10
+104318,2024_25,30,2025-05-04,Unicaja,MoraBanc Andorra,home,98,80,0,66,15,7,10,56,35,10,14
+104319,2024_25,30,2025-05-04,UCAM Murcia,Hiopos Lleida,away,77,79,0,59,33,10,14,64,21,5,9
+104319,2024_25,30,2025-05-04,Hiopos Lleida,UCAM Murcia,home,79,77,0,64,21,5,9,59,33,10,14
+104320,2024_25,30,2025-05-08,FC Barcelona,Leyma Basquet Coruña,away,92,93,0,65,16,10,14,62,21,4,7
+104320,2024_25,30,2025-05-08,Leyma Basquet Coruña,FC Barcelona,home,93,92,0,62,21,4,7,65,16,10,14
+104321,2024_25,30,2025-05-04,Valencia Basket,Real Madrid,away,89,96,0,67,16,10,10,67,13,11,13
+104321,2024_25,30,2025-05-04,Real Madrid,Valencia Basket,home,96,89,0,67,13,11,13,67,16,10,10
+104322,2024_25,31,2025-05-11,Leyma Basquet Coruña,Surne Bilbao Basket,away,67,79,0,71,21,19,11,69,13,4,3
+104322,2024_25,31,2025-05-11,Surne Bilbao Basket,Leyma Basquet Coruña,home,79,67,0,69,13,4,3,71,21,19,11
+104323,2024_25,31,2025-05-10,Bàsquet Girona,MoraBanc Andorra,away,106,97,0,66,29,14,8,72,22,19,7
+104323,2024_25,31,2025-05-10,MoraBanc Andorra,Bàsquet Girona,home,97,106,0,72,22,19,7,66,29,14,8
+104324,2024_25,31,2025-05-10,Gran Canaria,Valencia Basket,away,79,86,0,60,21,5,7,75,15,16,8
+104324,2024_25,31,2025-05-10,Valencia Basket,Gran Canaria,home,86,79,0,75,15,16,8,60,21,5,7
+104325,2024_25,31,2025-05-10,Baskonia,Joventut,away,71,90,0,58,22,5,9,63,13,4,8
+104325,2024_25,31,2025-05-10,Joventut,Baskonia,home,90,71,0,63,13,4,8,58,22,5,9
+104326,2024_25,31,2025-05-11,Coviran Granada,Casademont Zaragoza,away,95,88,0,63,36,11,14,66,24,12,11
+104326,2024_25,31,2025-05-11,Casademont Zaragoza,Coviran Granada,home,88,95,0,66,24,12,11,63,36,11,14
+104327,2024_25,31,2025-05-01,Unicaja,La Laguna Tenerife,away,91,78,0,66,13,9,10,59,24,8,11
+104327,2024_25,31,2025-05-01,La Laguna Tenerife,Unicaja,home,78,91,0,59,24,8,11,66,13,9,10
+104328,2024_25,31,2025-05-11,Hiopos Lleida,FC Barcelona,away,72,98,0,74,6,14,15,60,20,8,16
+104328,2024_25,31,2025-05-11,FC Barcelona,Hiopos Lleida,home,98,72,0,60,20,8,16,74,6,14,15
+104329,2024_25,31,2025-05-11,BAXI Manresa,UCAM Murcia,away,71,81,0,56,31,9,16,62,14,7,13
+104329,2024_25,31,2025-05-11,UCAM Murcia,BAXI Manresa,home,81,71,0,62,14,7,13,56,31,9,16
+104330,2024_25,31,2025-05-11,Real Madrid,Río Breogán,away,79,69,0,66,28,16,11,62,19,8,14
+104330,2024_25,31,2025-05-11,Río Breogán,Real Madrid,home,69,79,0,62,19,8,14,66,28,16,11
+104331,2024_25,32,2025-05-17,MoraBanc Andorra,Leyma Basquet Coruña,away,104,91,0,68,19,8,9,62,32,9,8
+104331,2024_25,32,2025-05-17,Leyma Basquet Coruña,MoraBanc Andorra,home,91,104,0,62,32,9,8,68,19,8,9
+104332,2024_25,32,2025-05-17,Río Breogán,Coviran Granada,away,82,91,0,61,23,11,12,63,27,13,10
+104332,2024_25,32,2025-05-17,Coviran Granada,Río Breogán,home,91,82,0,63,27,13,10,61,23,11,12
+104333,2024_25,32,2025-05-17,Joventut,Gran Canaria,away,68,79,0,55,13,4,15,63,12,3,5
+104333,2024_25,32,2025-05-17,Gran Canaria,Joventut,home,79,68,0,63,12,3,5,55,13,4,15
+104334,2024_25,32,2025-05-17,Valencia Basket,Bàsquet Girona,away,91,85,0,79,13,16,12,74,8,11,16
+104334,2024_25,32,2025-05-17,Bàsquet Girona,Valencia Basket,home,85,91,0,74,8,11,16,79,13,16,12
+104335,2024_25,32,2025-05-18,Real Madrid,BAXI Manresa,away,67,65,0,61,27,7,15,65,29,12,14
+104335,2024_25,32,2025-05-18,BAXI Manresa,Real Madrid,home,65,67,0,65,29,12,14,61,27,7,15
+104336,2024_25,32,2025-05-18,UCAM Murcia,Unicaja,away,93,104,1,72,18,7,15,76,23,7,14
+104336,2024_25,32,2025-05-18,Unicaja,UCAM Murcia,home,104,93,1,76,23,7,14,72,18,7,15
+104337,2024_25,32,2025-05-18,Casademont Zaragoza,Surne Bilbao Basket,away,111,104,2,73,23,11,24,78,27,9,12
+104337,2024_25,32,2025-05-18,Surne Bilbao Basket,Casademont Zaragoza,home,104,111,2,78,27,9,12,73,23,11,24
+104338,2024_25,32,2025-05-18,La Laguna Tenerife,Hiopos Lleida,away,84,72,0,55,17,5,9,54,20,7,14
+104338,2024_25,32,2025-05-18,Hiopos Lleida,La Laguna Tenerife,home,72,84,0,54,20,7,14,55,17,5,9
+104339,2024_25,32,2025-05-18,FC Barcelona,Baskonia,away,98,110,0,60,27,6,10,71,24,9,7
+104339,2024_25,32,2025-05-18,Baskonia,FC Barcelona,home,110,98,0,71,24,9,7,60,27,6,10
+104340,2024_25,33,2025-05-24,Casademont Zaragoza,Joventut,away,79,89,0,71,10,15,11,62,19,10,13
+104340,2024_25,33,2025-05-24,Joventut,Casademont Zaragoza,home,89,79,0,62,19,10,13,71,10,15,11
+104341,2024_25,33,2025-05-24,BAXI Manresa,MoraBanc Andorra,away,81,83,0,68,24,14,14,61,28,10,13
+104341,2024_25,33,2025-05-24,MoraBanc Andorra,BAXI Manresa,home,83,81,0,61,28,10,13,68,24,14,14
+104342,2024_25,33,2025-05-24,Surne Bilbao Basket,Baskonia,away,97,100,0,64,17,8,9,61,23,12,12
+104342,2024_25,33,2025-05-24,Baskonia,Surne Bilbao Basket,home,100,97,0,61,23,12,12,64,17,8,9
+104343,2024_25,33,2025-05-24,Leyma Basquet Coruña,UCAM Murcia,away,93,105,0,62,27,8,16,77,24,13,6
+104343,2024_25,33,2025-05-24,UCAM Murcia,Leyma Basquet Coruña,home,105,93,0,77,24,13,6,62,27,8,16
+104344,2024_25,33,2025-05-25,Unicaja,Hiopos Lleida,away,98,69,0,60,25,9,12,63,28,13,17
+104344,2024_25,33,2025-05-25,Hiopos Lleida,Unicaja,home,69,98,0,63,28,13,17,60,25,9,12
+104345,2024_25,33,2025-05-25,Valencia Basket,La Laguna Tenerife,away,102,99,0,74,18,11,7,61,24,4,9
+104345,2024_25,33,2025-05-25,La Laguna Tenerife,Valencia Basket,home,99,102,0,61,24,4,9,74,18,11,7
+104346,2024_25,33,2025-05-25,Gran Canaria,Río Breogán,away,82,74,0,54,26,7,19,68,12,8,11
+104346,2024_25,33,2025-05-25,Río Breogán,Gran Canaria,home,74,82,0,68,12,8,11,54,26,7,19
+104347,2024_25,33,2025-05-25,Bàsquet Girona,FC Barcelona,away,74,97,0,74,16,11,10,66,9,7,14
+104347,2024_25,33,2025-05-25,FC Barcelona,Bàsquet Girona,home,97,74,0,66,9,7,14,74,16,11,10
+104348,2024_25,33,2025-05-25,Coviran Granada,Real Madrid,away,67,79,0,70,10,11,12,58,22,5,14
+104348,2024_25,33,2025-05-25,Real Madrid,Coviran Granada,home,79,67,0,58,22,5,14,70,10,11,12
+104349,2024_25,34,2025-05-30,UCAM Murcia,Gran Canaria,away,76,69,0,67,9,18,16,57,16,7,11
+104349,2024_25,34,2025-05-30,Gran Canaria,UCAM Murcia,home,69,76,0,57,16,7,11,67,9,18,16
+104350,2024_25,34,2025-05-29,Hiopos Lleida,Bàsquet Girona,away,83,95,0,63,31,14,14,73,20,14,14
+104350,2024_25,34,2025-05-29,Bàsquet Girona,Hiopos Lleida,home,95,83,0,73,20,14,14,63,31,14,14
+104351,2024_25,34,2025-05-30,Real Madrid,Casademont Zaragoza,away,104,89,0,63,25,10,15,64,26,10,16
+104351,2024_25,34,2025-05-30,Casademont Zaragoza,Real Madrid,home,89,104,0,64,26,10,16,63,25,10,15
+104352,2024_25,34,2025-05-30,FC Barcelona,Surne Bilbao Basket,away,85,68,0,63,9,11,16,69,14,10,12
+104352,2024_25,34,2025-05-30,Surne Bilbao Basket,FC Barcelona,home,68,85,0,69,14,10,12,63,9,11,16
+104353,2024_25,34,2025-05-30,La Laguna Tenerife,BAXI Manresa,away,83,86,0,67,20,9,9,58,23,9,13
+104353,2024_25,34,2025-05-30,BAXI Manresa,La Laguna Tenerife,home,86,83,0,58,23,9,13,67,20,9,9
+104354,2024_25,34,2025-05-30,Baskonia,Leyma Basquet Coruña,away,105,101,0,68,33,10,15,70,24,8,13
+104354,2024_25,34,2025-05-30,Leyma Basquet Coruña,Baskonia,home,101,105,0,70,24,8,13,68,33,10,15
+104355,2024_25,34,2025-05-30,Joventut,Unicaja,away,83,78,0,61,29,9,11,66,18,9,12
+104355,2024_25,34,2025-05-30,Unicaja,Joventut,home,78,83,0,66,18,9,12,61,29,9,11
+104356,2024_25,34,2025-05-30,MoraBanc Andorra,Coviran Granada,away,89,77,0,54,26,7,16,68,21,11,12
+104356,2024_25,34,2025-05-30,Coviran Granada,MoraBanc Andorra,home,77,89,0,68,21,11,12,54,26,7,16
+104357,2024_25,34,2025-05-30,Río Breogán,Valencia Basket,away,61,108,0,71,12,7,13,65,15,10,19
+104357,2024_25,34,2025-05-30,Valencia Basket,Río Breogán,home,108,61,0,65,15,10,19,71,12,7,13

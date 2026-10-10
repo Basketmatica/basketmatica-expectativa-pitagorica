@@ -1,0 +1,613 @@
+game_id,season,jornada,date,team,opponent,home_away,pts,opp_pts,overtimes,fg_att,ft_att,oreb,tov,opp_fg_att,opp_ft_att,opp_oreb,opp_tov
+103350,2022_23,1,2022-09-28,Real Madrid,Bàsquet Girona,away,94,88,0,63,10,6,17,66,27,10,11
+103350,2022_23,1,2022-09-28,Bàsquet Girona,Real Madrid,home,88,94,0,66,27,10,11,63,10,6,17
+103351,2022_23,1,2022-09-29,Coviran Granada,Carplus Fuenlabrada,away,83,81,0,58,15,5,11,68,10,8,11
+103351,2022_23,1,2022-09-29,Carplus Fuenlabrada,Coviran Granada,home,81,83,0,68,10,8,11,58,15,5,11
+103352,2022_23,1,2022-09-29,Casademont Zaragoza,Monbus Obradoiro,away,73,76,0,72,27,14,7,57,26,7,16
+103352,2022_23,1,2022-09-29,Monbus Obradoiro,Casademont Zaragoza,home,76,73,0,57,26,7,16,72,27,14,7
+103353,2022_23,1,2022-09-29,La Laguna Tenerife,BAXI Manresa,away,89,70,0,56,28,7,15,64,6,8,15
+103353,2022_23,1,2022-09-29,BAXI Manresa,La Laguna Tenerife,home,70,89,0,64,6,8,15,56,28,7,15
+103354,2022_23,1,2022-09-29,Río Breogán,UCAM Murcia,away,84,70,0,62,24,13,14,62,13,9,14
+103354,2022_23,1,2022-09-29,UCAM Murcia,Río Breogán,home,70,84,0,62,13,9,14,62,24,13,14
+103355,2022_23,1,2022-09-30,Unicaja,Baskonia,away,89,103,0,62,15,10,17,60,12,7,18
+103355,2022_23,1,2022-09-30,Baskonia,Unicaja,home,103,89,0,60,12,7,18,62,15,10,17
+103356,2022_23,1,2022-09-30,Valencia Basket,Coosur Real Betis,away,83,78,0,60,22,11,18,64,20,9,13
+103356,2022_23,1,2022-09-30,Coosur Real Betis,Valencia Basket,home,78,83,0,64,20,9,13,60,22,11,18
+103358,2022_23,1,2022-09-30,FC Barcelona,Gran Canaria,away,85,88,0,66,16,14,16,63,27,10,11
+103358,2022_23,1,2022-09-30,Gran Canaria,FC Barcelona,home,88,85,0,63,27,10,11,66,16,14,16
+103366,2022_23,1,2022-09-30,Surne Bilbao Basket,Joventut,away,81,76,0,60,27,7,5,64,16,9,14
+103366,2022_23,1,2022-09-30,Joventut,Surne Bilbao Basket,home,76,81,0,64,16,9,14,60,27,7,5
+103348,2022_23,2,2022-10-02,Baskonia,FC Barcelona,away,74,89,0,63,13,9,14,61,35,15,13
+103348,2022_23,2,2022-10-02,FC Barcelona,Baskonia,home,89,74,0,61,35,15,13,63,13,9,14
+103349,2022_23,2,2022-10-02,Joventut,Valencia Basket,away,97,101,1,58,17,3,16,74,32,17,11
+103349,2022_23,2,2022-10-02,Valencia Basket,Joventut,home,101,97,1,74,32,17,11,58,17,3,16
+103359,2022_23,2,2022-10-01,UCAM Murcia,Casademont Zaragoza,away,81,64,0,72,20,14,15,62,18,8,17
+103359,2022_23,2,2022-10-01,Casademont Zaragoza,UCAM Murcia,home,64,81,0,62,18,8,17,72,20,14,15
+103360,2022_23,2,2022-10-01,BAXI Manresa,Coviran Granada,away,87,84,0,69,26,10,12,60,21,7,18
+103360,2022_23,2,2022-10-01,Coviran Granada,BAXI Manresa,home,84,87,0,60,21,7,18,69,26,10,12
+103361,2022_23,2,2022-10-01,Bàsquet Girona,La Laguna Tenerife,away,67,76,0,59,12,10,19,59,9,6,12
+103361,2022_23,2,2022-10-01,La Laguna Tenerife,Bàsquet Girona,home,76,67,0,59,9,6,12,59,12,10,19
+103362,2022_23,2,2022-10-02,Carplus Fuenlabrada,Río Breogán,away,70,78,0,60,18,8,12,65,17,15,16
+103362,2022_23,2,2022-10-02,Río Breogán,Carplus Fuenlabrada,home,78,70,0,65,17,15,16,60,18,8,12
+103363,2022_23,2,2022-10-02,Monbus Obradoiro,Real Madrid,away,79,93,0,62,18,7,12,66,22,9,12
+103363,2022_23,2,2022-10-02,Real Madrid,Monbus Obradoiro,home,93,79,0,66,22,9,12,62,18,7,12
+103364,2022_23,2,2022-10-02,Gran Canaria,Unicaja,away,63,70,0,46,29,8,24,58,22,12,20
+103364,2022_23,2,2022-10-02,Unicaja,Gran Canaria,home,70,63,0,58,22,12,20,46,29,8,24
+103365,2022_23,2,2022-10-02,Coosur Real Betis,Surne Bilbao Basket,away,70,85,0,62,21,11,15,67,22,12,10
+103365,2022_23,2,2022-10-02,Surne Bilbao Basket,Coosur Real Betis,home,85,70,0,67,22,12,10,62,21,11,15
+103331,2022_23,3,2022-10-08,Río Breogán,Joventut,away,66,85,0,61,18,11,13,76,19,18,6
+103331,2022_23,3,2022-10-08,Joventut,Río Breogán,home,85,66,0,76,19,18,6,61,18,11,13
+103332,2022_23,3,2022-10-08,Casademont Zaragoza,Gran Canaria,away,72,88,0,52,28,9,19,56,25,8,14
+103332,2022_23,3,2022-10-08,Gran Canaria,Casademont Zaragoza,home,88,72,0,56,25,8,14,52,28,9,19
+103333,2022_23,3,2022-10-09,Coviran Granada,UCAM Murcia,away,89,82,0,68,30,12,12,79,18,15,8
+103333,2022_23,3,2022-10-09,UCAM Murcia,Coviran Granada,home,82,89,0,79,18,15,8,68,30,12,12
+103334,2022_23,3,2022-10-09,Real Madrid,Unicaja,away,76,71,0,57,32,11,17,70,11,9,9
+103334,2022_23,3,2022-10-09,Unicaja,Real Madrid,home,71,76,0,70,11,9,9,57,32,11,17
+103335,2022_23,3,2022-10-09,Valencia Basket,Surne Bilbao Basket,away,65,71,0,60,20,7,12,59,22,7,11
+103335,2022_23,3,2022-10-09,Surne Bilbao Basket,Valencia Basket,home,71,65,0,59,22,7,11,60,20,7,12
+103336,2022_23,3,2022-10-09,La Laguna Tenerife,Baskonia,away,85,79,0,56,29,6,8,60,11,6,9
+103336,2022_23,3,2022-10-09,Baskonia,La Laguna Tenerife,home,79,85,0,60,11,6,9,56,29,6,8
+103337,2022_23,3,2022-10-09,FC Barcelona,Carplus Fuenlabrada,away,84,56,0,67,27,16,9,59,10,6,18
+103337,2022_23,3,2022-10-09,Carplus Fuenlabrada,FC Barcelona,home,56,84,0,59,10,6,18,67,27,16,9
+103346,2022_23,3,2022-10-08,BAXI Manresa,Coosur Real Betis,away,83,87,0,65,19,10,15,70,21,8,11
+103346,2022_23,3,2022-10-08,Coosur Real Betis,BAXI Manresa,home,87,83,0,70,21,8,11,65,19,10,15
+103347,2022_23,3,2022-10-08,Bàsquet Girona,Monbus Obradoiro,away,63,89,0,70,10,8,12,67,6,13,18
+103347,2022_23,3,2022-10-08,Monbus Obradoiro,Bàsquet Girona,home,89,63,0,67,6,13,18,70,10,8,12
+103139,2022_23,4,2022-10-15,Coosur Real Betis,Carplus Fuenlabrada,away,77,83,0,70,18,12,17,60,19,3,17
+103139,2022_23,4,2022-10-15,Carplus Fuenlabrada,Coosur Real Betis,home,83,77,0,60,19,3,17,70,18,12,17
+103338,2022_23,4,2022-10-16,Baskonia,Casademont Zaragoza,away,97,83,0,63,18,9,17,65,26,5,10
+103338,2022_23,4,2022-10-16,Casademont Zaragoza,Baskonia,home,83,97,0,65,26,5,10,63,18,9,17
+103339,2022_23,4,2022-10-16,Joventut,Real Madrid,away,79,96,0,66,16,8,7,66,27,9,3
+103339,2022_23,4,2022-10-16,Real Madrid,Joventut,home,96,79,0,66,27,9,3,66,16,8,7
+103340,2022_23,4,2022-10-16,UCAM Murcia,Valencia Basket,away,75,74,0,66,16,12,10,64,10,7,12
+103340,2022_23,4,2022-10-16,Valencia Basket,UCAM Murcia,home,74,75,0,64,10,7,12,66,16,12,10
+103341,2022_23,4,2022-10-16,Gran Canaria,Río Breogán,away,71,53,0,56,26,10,12,66,14,12,14
+103341,2022_23,4,2022-10-16,Río Breogán,Gran Canaria,home,53,71,0,66,14,12,14,56,26,10,12
+103342,2022_23,4,2022-10-16,Unicaja,Bàsquet Girona,away,73,59,0,64,11,13,19,57,18,2,13
+103342,2022_23,4,2022-10-16,Bàsquet Girona,Unicaja,home,59,73,0,57,18,2,13,64,11,13,19
+103343,2022_23,4,2022-10-15,FC Barcelona,BAXI Manresa,away,101,78,0,61,25,3,10,71,16,15,16
+103343,2022_23,4,2022-10-15,BAXI Manresa,FC Barcelona,home,78,101,0,71,16,15,16,61,25,3,10
+103344,2022_23,4,2022-10-15,Monbus Obradoiro,La Laguna Tenerife,away,67,86,0,57,21,9,17,55,19,4,16
+103344,2022_23,4,2022-10-15,La Laguna Tenerife,Monbus Obradoiro,home,86,67,0,55,19,4,16,57,21,9,17
+103345,2022_23,4,2022-10-15,Surne Bilbao Basket,Coviran Granada,away,84,99,0,76,27,13,8,68,22,12,18
+103345,2022_23,4,2022-10-15,Coviran Granada,Surne Bilbao Basket,home,99,84,0,68,22,12,18,76,27,13,8
+103303,2022_23,5,2022-10-23,Real Madrid,Baskonia,away,82,88,0,70,13,10,12,63,17,3,8
+103303,2022_23,5,2022-10-23,Baskonia,Real Madrid,home,88,82,0,63,17,3,8,70,13,10,12
+103304,2022_23,5,2022-10-23,Unicaja,Joventut,away,65,74,0,69,12,9,5,55,18,7,11
+103304,2022_23,5,2022-10-23,Joventut,Unicaja,home,74,65,0,55,18,7,11,69,12,9,5
+103305,2022_23,5,2022-10-23,Valencia Basket,Monbus Obradoiro,away,103,98,1,73,23,10,11,62,29,9,18
+103305,2022_23,5,2022-10-23,Monbus Obradoiro,Valencia Basket,home,98,103,1,62,29,9,18,73,23,10,11
+103306,2022_23,5,2022-10-23,La Laguna Tenerife,FC Barcelona,away,65,67,0,65,14,7,10,59,18,10,16
+103306,2022_23,5,2022-10-23,FC Barcelona,La Laguna Tenerife,home,67,65,0,59,18,10,16,65,14,7,10
+103307,2022_23,5,2022-10-23,Bàsquet Girona,Coosur Real Betis,away,79,71,0,62,11,8,17,70,13,8,14
+103307,2022_23,5,2022-10-23,Coosur Real Betis,Bàsquet Girona,home,71,79,0,70,13,8,14,62,11,8,17
+103309,2022_23,5,2022-10-22,Coviran Granada,Gran Canaria,away,76,94,0,60,23,12,24,65,22,7,14
+103309,2022_23,5,2022-10-22,Gran Canaria,Coviran Granada,home,94,76,0,65,22,7,14,60,23,12,24
+103328,2022_23,5,2022-10-22,Carplus Fuenlabrada,Casademont Zaragoza,away,82,79,0,63,18,8,7,63,24,13,8
+103328,2022_23,5,2022-10-22,Casademont Zaragoza,Carplus Fuenlabrada,home,79,82,0,63,24,13,8,63,18,8,7
+103329,2022_23,5,2022-10-22,Surne Bilbao Basket,Río Breogán,away,70,86,0,66,26,13,9,68,14,10,9
+103329,2022_23,5,2022-10-22,Río Breogán,Surne Bilbao Basket,home,86,70,0,68,14,10,9,66,26,13,9
+103330,2022_23,5,2022-10-22,BAXI Manresa,UCAM Murcia,away,83,96,0,54,31,10,21,68,26,14,15
+103330,2022_23,5,2022-10-22,UCAM Murcia,BAXI Manresa,home,96,83,0,68,26,14,15,54,31,10,21
+103294,2022_23,6,2022-10-30,Baskonia,Surne Bilbao Basket,away,81,70,0,63,20,10,13,57,22,5,15
+103294,2022_23,6,2022-10-30,Surne Bilbao Basket,Baskonia,home,70,81,0,57,22,5,15,63,20,10,13
+103295,2022_23,6,2022-10-30,FC Barcelona,Valencia Basket,away,92,80,0,69,14,11,11,60,21,8,15
+103295,2022_23,6,2022-10-30,Valencia Basket,FC Barcelona,home,80,92,0,60,21,8,15,69,14,11,11
+103296,2022_23,6,2022-10-30,UCAM Murcia,Bàsquet Girona,away,89,100,0,67,23,9,13,61,38,11,15
+103296,2022_23,6,2022-10-30,Bàsquet Girona,UCAM Murcia,home,100,89,0,61,38,11,15,67,23,9,13
+103297,2022_23,6,2022-10-30,Coosur Real Betis,Unicaja,away,60,106,0,64,13,8,13,59,34,9,13
+103297,2022_23,6,2022-10-30,Unicaja,Coosur Real Betis,home,106,60,0,59,34,9,13,64,13,8,13
+103298,2022_23,6,2022-10-30,Carplus Fuenlabrada,Real Madrid,away,69,91,0,66,12,8,10,66,21,14,14
+103298,2022_23,6,2022-10-30,Real Madrid,Carplus Fuenlabrada,home,91,69,0,66,21,14,14,66,12,8,10
+103299,2022_23,6,2022-10-29,La Laguna Tenerife,Gran Canaria,away,86,70,0,53,29,8,11,58,20,5,10
+103299,2022_23,6,2022-10-29,Gran Canaria,La Laguna Tenerife,home,70,86,0,58,20,5,10,53,29,8,11
+103300,2022_23,6,2022-10-29,Casademont Zaragoza,Joventut,away,84,89,1,72,16,12,18,71,26,11,13
+103300,2022_23,6,2022-10-29,Joventut,Casademont Zaragoza,home,89,84,1,71,26,11,13,72,16,12,18
+103301,2022_23,6,2022-10-29,Río Breogán,BAXI Manresa,away,106,70,0,64,26,9,9,61,17,8,16
+103301,2022_23,6,2022-10-29,BAXI Manresa,Río Breogán,home,70,106,0,61,17,8,16,64,26,9,9
+103302,2022_23,6,2022-10-29,Monbus Obradoiro,Coviran Granada,away,89,93,0,60,12,8,18,60,23,10,11
+103302,2022_23,6,2022-10-29,Coviran Granada,Monbus Obradoiro,home,93,89,0,60,23,10,11,60,12,8,18
+103293,2022_23,7,2022-11-05,BAXI Manresa,Carplus Fuenlabrada,away,97,101,0,72,13,9,12,63,33,14,10
+103293,2022_23,7,2022-11-05,Carplus Fuenlabrada,BAXI Manresa,home,101,97,0,63,33,14,10,72,13,9,12
+103308,2022_23,7,2022-11-05,Gran Canaria,Monbus Obradoiro,away,85,58,0,62,20,8,8,60,21,6,10
+103308,2022_23,7,2022-11-05,Monbus Obradoiro,Gran Canaria,home,58,85,0,60,21,6,10,62,20,8,8
+103310,2022_23,7,2022-11-05,Joventut,UCAM Murcia,away,76,88,0,70,20,16,8,61,22,11,12
+103310,2022_23,7,2022-11-05,UCAM Murcia,Joventut,home,88,76,0,61,22,11,12,70,20,16,8
+103311,2022_23,7,2022-11-06,Surne Bilbao Basket,La Laguna Tenerife,away,57,73,0,71,13,13,11,66,13,8,10
+103311,2022_23,7,2022-11-06,La Laguna Tenerife,Surne Bilbao Basket,home,73,57,0,66,13,8,10,71,13,13,11
+103323,2022_23,7,2022-11-06,Coosur Real Betis,Baskonia,away,103,107,1,73,22,9,11,65,37,9,11
+103323,2022_23,7,2022-11-06,Baskonia,Coosur Real Betis,home,107,103,1,65,37,9,11,73,22,9,11
+103324,2022_23,7,2022-11-06,Real Madrid,Casademont Zaragoza,away,89,94,0,65,31,12,17,67,27,11,14
+103324,2022_23,7,2022-11-06,Casademont Zaragoza,Real Madrid,home,94,89,0,67,27,11,14,65,31,12,17
+103325,2022_23,7,2022-11-06,Valencia Basket,Río Breogán,away,88,83,0,67,12,13,13,57,16,6,11
+103325,2022_23,7,2022-11-06,Río Breogán,Valencia Basket,home,83,88,0,57,16,6,11,67,12,13,13
+103326,2022_23,7,2022-11-06,Bàsquet Girona,FC Barcelona,away,69,72,0,59,15,9,17,64,15,14,16
+103326,2022_23,7,2022-11-06,FC Barcelona,Bàsquet Girona,home,72,69,0,64,15,14,16,59,15,9,17
+103327,2022_23,7,2022-11-06,Coviran Granada,Unicaja,away,68,94,0,64,10,8,20,71,21,8,10
+103327,2022_23,7,2022-11-06,Unicaja,Coviran Granada,home,94,68,0,71,21,8,10,64,10,8,20
+103314,2022_23,8,2022-11-20,Río Breogán,Coviran Granada,away,70,80,0,67,17,15,18,69,16,12,12
+103314,2022_23,8,2022-11-20,Coviran Granada,Río Breogán,home,80,70,0,69,16,12,12,67,17,15,18
+103315,2022_23,8,2022-11-20,FC Barcelona,Joventut,away,79,82,0,57,16,8,15,60,26,9,11
+103315,2022_23,8,2022-11-20,Joventut,FC Barcelona,home,82,79,0,60,26,9,11,57,16,8,15
+103316,2022_23,8,2022-11-20,Baskonia,BAXI Manresa,away,80,93,0,66,30,20,20,67,19,9,14
+103316,2022_23,8,2022-11-20,BAXI Manresa,Baskonia,home,93,80,0,67,19,9,14,66,30,20,20
+103317,2022_23,8,2022-11-20,Carplus Fuenlabrada,Surne Bilbao Basket,away,82,109,0,67,20,9,13,60,30,8,11
+103317,2022_23,8,2022-11-20,Surne Bilbao Basket,Carplus Fuenlabrada,home,109,82,0,60,30,8,11,67,20,9,13
+103318,2022_23,8,2022-11-20,UCAM Murcia,Real Madrid,away,57,93,0,65,11,8,14,70,13,6,8
+103318,2022_23,8,2022-11-20,Real Madrid,UCAM Murcia,home,93,57,0,70,13,6,8,65,11,8,14
+103319,2022_23,8,2022-11-19,Gran Canaria,Bàsquet Girona,away,78,69,1,65,22,7,13,72,17,10,14
+103319,2022_23,8,2022-11-19,Bàsquet Girona,Gran Canaria,home,69,78,1,72,17,10,14,65,22,7,13
+103320,2022_23,8,2022-11-19,Valencia Basket,La Laguna Tenerife,away,78,94,0,57,19,10,14,58,25,11,12
+103320,2022_23,8,2022-11-19,La Laguna Tenerife,Valencia Basket,home,94,78,0,58,25,11,12,57,19,10,14
+103321,2022_23,8,2022-11-19,Unicaja,Monbus Obradoiro,away,87,86,0,60,32,8,13,61,18,7,19
+103321,2022_23,8,2022-11-19,Monbus Obradoiro,Unicaja,home,86,87,0,61,18,7,19,60,32,8,13
+103322,2022_23,8,2022-11-19,Casademont Zaragoza,Coosur Real Betis,away,83,67,0,56,16,8,13,65,7,12,12
+103322,2022_23,8,2022-11-19,Coosur Real Betis,Casademont Zaragoza,home,67,83,0,65,7,12,12,56,16,8,13
+103312,2022_23,9,2022-11-26,La Laguna Tenerife,Río Breogán,away,86,61,0,59,14,11,13,63,15,12,11
+103312,2022_23,9,2022-11-26,Río Breogán,La Laguna Tenerife,home,61,86,0,63,15,12,11,59,14,11,13
+103313,2022_23,9,2022-11-26,Joventut,Carplus Fuenlabrada,away,85,81,0,61,12,5,12,60,13,4,11
+103313,2022_23,9,2022-11-26,Carplus Fuenlabrada,Joventut,home,81,85,0,60,13,4,11,61,12,5,12
+103357,2022_23,9,2022-11-26,Surne Bilbao Basket,Casademont Zaragoza,away,74,67,0,72,15,9,12,68,27,13,14
+103357,2022_23,9,2022-11-26,Casademont Zaragoza,Surne Bilbao Basket,home,67,74,0,68,27,13,14,72,15,9,12
+103368,2022_23,9,2022-11-26,BAXI Manresa,Gran Canaria,away,88,99,0,62,18,4,15,60,32,9,9
+103368,2022_23,9,2022-11-26,Gran Canaria,BAXI Manresa,home,99,88,0,60,32,9,9,62,18,4,15
+103369,2022_23,9,2022-11-27,Real Madrid,Coosur Real Betis,away,73,55,0,65,7,9,13,56,4,6,14
+103369,2022_23,9,2022-11-27,Coosur Real Betis,Real Madrid,home,55,73,0,56,4,6,14,65,7,9,13
+103420,2022_23,9,2022-11-27,Unicaja,Valencia Basket,away,83,67,0,70,11,11,8,58,28,11,13
+103420,2022_23,9,2022-11-27,Valencia Basket,Unicaja,home,67,83,0,58,28,11,13,70,11,11,8
+103421,2022_23,9,2022-11-27,Bàsquet Girona,Baskonia,away,68,95,0,65,12,8,16,64,10,4,16
+103421,2022_23,9,2022-11-27,Baskonia,Bàsquet Girona,home,95,68,0,64,10,4,16,65,12,8,16
+103422,2022_23,9,2022-11-27,Coviran Granada,FC Barcelona,away,82,100,0,58,15,8,13,67,10,10,10
+103422,2022_23,9,2022-11-27,FC Barcelona,Coviran Granada,home,100,82,0,67,10,10,10,58,15,8,13
+103434,2022_23,9,2022-11-27,Monbus Obradoiro,UCAM Murcia,away,84,80,0,66,34,14,14,69,22,11,16
+103434,2022_23,9,2022-11-27,UCAM Murcia,Monbus Obradoiro,home,80,84,0,69,22,11,16,66,34,14,14
+103411,2022_23,10,2022-12-04,Coosur Real Betis,Coviran Granada,away,76,66,1,74,25,15,14,73,23,15,18
+103411,2022_23,10,2022-12-04,Coviran Granada,Coosur Real Betis,home,66,76,1,73,23,15,18,74,25,15,14
+103412,2022_23,10,2022-12-04,Valencia Basket,Real Madrid,away,62,79,0,73,10,11,10,58,25,11,14
+103412,2022_23,10,2022-12-04,Real Madrid,Valencia Basket,home,79,62,0,58,25,11,14,73,10,11,10
+103413,2022_23,10,2022-12-04,UCAM Murcia,Baskonia,away,73,102,0,62,19,5,11,64,17,7,10
+103413,2022_23,10,2022-12-04,Baskonia,UCAM Murcia,home,102,73,0,64,17,7,10,62,19,5,11
+103414,2022_23,10,2022-12-04,Carplus Fuenlabrada,La Laguna Tenerife,away,72,97,0,64,10,10,14,65,12,8,12
+103414,2022_23,10,2022-12-04,La Laguna Tenerife,Carplus Fuenlabrada,home,97,72,0,65,12,8,12,64,10,10,14
+103415,2022_23,10,2022-12-04,Río Breogán,Bàsquet Girona,away,73,66,0,51,22,6,18,63,14,9,15
+103415,2022_23,10,2022-12-04,Bàsquet Girona,Río Breogán,home,66,73,0,63,14,9,15,51,22,6,18
+103416,2022_23,10,2022-12-03,FC Barcelona,Monbus Obradoiro,away,74,76,0,64,14,8,9,62,17,6,5
+103416,2022_23,10,2022-12-03,Monbus Obradoiro,FC Barcelona,home,76,74,0,62,17,6,5,64,14,8,9
+103417,2022_23,10,2022-12-03,Casademont Zaragoza,Unicaja,away,78,104,0,58,22,10,21,72,9,7,12
+103417,2022_23,10,2022-12-03,Unicaja,Casademont Zaragoza,home,104,78,0,72,9,7,12,58,22,10,21
+103418,2022_23,10,2022-12-03,Gran Canaria,Surne Bilbao Basket,away,72,76,0,69,11,12,12,56,18,5,12
+103418,2022_23,10,2022-12-03,Surne Bilbao Basket,Gran Canaria,home,76,72,0,56,18,5,12,69,11,12,12
+103419,2022_23,10,2022-12-03,Joventut,BAXI Manresa,away,90,68,0,64,18,11,13,69,10,9,13
+103419,2022_23,10,2022-12-03,BAXI Manresa,Joventut,home,68,90,0,69,10,9,13,64,18,11,13
+103408,2022_23,11,2022-12-10,La Laguna Tenerife,Joventut,away,69,78,0,64,22,15,8,59,13,7,10
+103408,2022_23,11,2022-12-10,Joventut,La Laguna Tenerife,home,78,69,0,59,13,7,10,64,22,15,8
+103409,2022_23,11,2022-12-10,Coosur Real Betis,UCAM Murcia,away,72,76,0,60,16,5,17,65,21,14,16
+103409,2022_23,11,2022-12-10,UCAM Murcia,Coosur Real Betis,home,76,72,0,65,21,14,16,60,16,5,17
+103410,2022_23,11,2022-12-10,Unicaja,Carplus Fuenlabrada,away,117,85,0,70,12,7,10,68,22,10,11
+103410,2022_23,11,2022-12-10,Carplus Fuenlabrada,Unicaja,home,85,117,0,68,22,10,11,70,12,7,10
+103423,2022_23,11,2022-12-10,Coviran Granada,Casademont Zaragoza,away,57,73,0,65,14,9,15,68,17,14,14
+103423,2022_23,11,2022-12-10,Casademont Zaragoza,Coviran Granada,home,73,57,0,68,17,14,14,65,14,9,15
+103424,2022_23,11,2022-12-11,BAXI Manresa,Real Madrid,away,89,103,0,73,16,9,18,65,35,8,14
+103424,2022_23,11,2022-12-11,Real Madrid,BAXI Manresa,home,103,89,0,65,35,8,14,73,16,9,18
+103425,2022_23,11,2022-12-11,Bàsquet Girona,Valencia Basket,away,69,104,0,65,21,8,18,63,19,6,14
+103425,2022_23,11,2022-12-11,Valencia Basket,Bàsquet Girona,home,104,69,0,63,19,6,14,65,21,8,18
+103426,2022_23,11,2022-12-11,FC Barcelona,Río Breogán,away,78,74,0,52,27,3,16,64,16,8,10
+103426,2022_23,11,2022-12-11,Río Breogán,FC Barcelona,home,74,78,0,64,16,8,10,52,27,3,16
+103441,2022_23,11,2022-12-11,Monbus Obradoiro,Surne Bilbao Basket,away,80,77,0,65,15,13,16,58,23,7,12
+103441,2022_23,11,2022-12-11,Surne Bilbao Basket,Monbus Obradoiro,home,77,80,0,58,23,7,12,65,15,13,16
+103442,2022_23,11,2022-12-11,Baskonia,Gran Canaria,away,96,68,0,64,12,9,13,61,20,7,11
+103442,2022_23,11,2022-12-11,Gran Canaria,Baskonia,home,68,96,0,61,20,7,11,64,12,9,13
+103432,2022_23,12,2022-12-18,Casademont Zaragoza,Bàsquet Girona,away,69,78,0,56,23,11,20,63,17,6,11
+103432,2022_23,12,2022-12-18,Bàsquet Girona,Casademont Zaragoza,home,78,69,0,63,17,6,11,56,23,11,20
+103433,2022_23,12,2022-12-18,Unicaja,FC Barcelona,away,60,75,0,65,3,8,9,61,26,13,10
+103433,2022_23,12,2022-12-18,FC Barcelona,Unicaja,home,75,60,0,61,26,13,10,65,3,8,9
+103435,2022_23,12,2022-12-18,Carplus Fuenlabrada,Baskonia,away,88,102,0,52,23,5,19,69,22,10,7
+103435,2022_23,12,2022-12-18,Baskonia,Carplus Fuenlabrada,home,102,88,0,69,22,10,7,52,23,5,19
+103436,2022_23,12,2022-12-18,Valencia Basket,Coviran Granada,away,110,81,0,66,25,10,12,58,30,10,16
+103436,2022_23,12,2022-12-18,Coviran Granada,Valencia Basket,home,81,110,0,58,30,10,16,66,25,10,12
+103437,2022_23,12,2022-12-17,Surne Bilbao Basket,BAXI Manresa,away,86,76,0,66,19,10,15,67,10,6,11
+103437,2022_23,12,2022-12-17,BAXI Manresa,Surne Bilbao Basket,home,76,86,0,67,10,6,11,66,19,10,15
+103438,2022_23,12,2022-12-17,Gran Canaria,UCAM Murcia,away,85,99,0,61,22,8,12,66,31,11,11
+103438,2022_23,12,2022-12-17,UCAM Murcia,Gran Canaria,home,99,85,0,66,31,11,11,61,22,8,12
+103439,2022_23,12,2022-12-17,Joventut,Monbus Obradoiro,away,91,74,0,64,16,6,7,60,32,8,8
+103439,2022_23,12,2022-12-17,Monbus Obradoiro,Joventut,home,74,91,0,60,32,8,8,64,16,6,7
+103440,2022_23,12,2022-12-17,Río Breogán,Coosur Real Betis,away,89,84,0,62,22,8,9,58,15,4,15
+103440,2022_23,12,2022-12-17,Coosur Real Betis,Río Breogán,home,84,89,0,58,15,4,15,62,22,8,9
+103443,2022_23,12,2022-12-18,Real Madrid,La Laguna Tenerife,away,80,67,0,65,17,9,12,66,5,9,11
+103443,2022_23,12,2022-12-18,La Laguna Tenerife,Real Madrid,home,67,80,0,66,5,9,11,65,17,9,12
+103386,2022_23,13,2022-12-30,Bàsquet Girona,BAXI Manresa,away,79,82,0,63,23,6,12,74,25,15,11
+103386,2022_23,13,2022-12-30,BAXI Manresa,Bàsquet Girona,home,82,79,0,74,25,15,11,63,23,6,12
+103405,2022_23,13,2022-12-30,Monbus Obradoiro,Carplus Fuenlabrada,away,82,79,0,63,16,6,12,52,33,5,11
+103405,2022_23,13,2022-12-30,Carplus Fuenlabrada,Monbus Obradoiro,home,79,82,0,52,33,5,11,63,16,6,12
+103406,2022_23,13,2022-12-29,Coviran Granada,La Laguna Tenerife,away,66,98,0,69,10,14,16,61,21,9,11
+103406,2022_23,13,2022-12-29,La Laguna Tenerife,Coviran Granada,home,98,66,0,61,21,9,11,69,10,14,16
+103407,2022_23,13,2022-12-29,Coosur Real Betis,Joventut,away,81,93,0,58,30,5,10,68,21,11,8
+103407,2022_23,13,2022-12-29,Joventut,Coosur Real Betis,home,93,81,0,68,21,11,8,58,30,5,10
+103427,2022_23,13,2022-12-28,UCAM Murcia,Unicaja,away,66,82,0,69,16,6,11,69,15,9,16
+103427,2022_23,13,2022-12-28,Unicaja,UCAM Murcia,home,82,66,0,69,15,9,16,69,16,6,11
+103428,2022_23,13,2022-12-28,Casademont Zaragoza,FC Barcelona,away,63,68,0,64,17,10,15,68,15,8,13
+103428,2022_23,13,2022-12-28,FC Barcelona,Casademont Zaragoza,home,68,63,0,68,15,8,13,64,17,10,15
+103429,2022_23,13,2022-12-27,Valencia Basket,Gran Canaria,away,89,95,0,54,17,4,13,63,15,5,8
+103429,2022_23,13,2022-12-27,Gran Canaria,Valencia Basket,home,95,89,0,63,15,5,8,54,17,4,13
+103430,2022_23,13,2022-12-27,Real Madrid,Surne Bilbao Basket,away,85,80,0,69,19,16,17,68,7,9,14
+103430,2022_23,13,2022-12-27,Surne Bilbao Basket,Real Madrid,home,80,85,0,68,7,9,14,69,19,16,17
+103431,2022_23,13,2022-12-27,Baskonia,Río Breogán,away,86,77,0,60,20,8,11,66,13,7,6
+103431,2022_23,13,2022-12-27,Río Breogán,Baskonia,home,77,86,0,66,13,7,6,60,20,8,11
+103376,2022_23,14,2023-01-04,Río Breogán,Casademont Zaragoza,away,90,88,1,81,20,16,13,66,23,7,20
+103376,2022_23,14,2023-01-04,Casademont Zaragoza,Río Breogán,home,88,90,1,66,23,7,20,81,20,16,13
+103377,2022_23,14,2023-01-04,Surne Bilbao Basket,Unicaja,away,79,92,0,57,19,11,17,61,26,10,9
+103377,2022_23,14,2023-01-04,Unicaja,Surne Bilbao Basket,home,92,79,0,61,26,10,9,57,19,11,17
+103378,2022_23,14,2023-01-04,BAXI Manresa,Monbus Obradoiro,away,99,104,1,71,28,7,11,65,46,10,14
+103378,2022_23,14,2023-01-04,Monbus Obradoiro,BAXI Manresa,home,104,99,1,65,46,10,14,71,28,7,11
+103379,2022_23,14,2023-01-06,La Laguna Tenerife,UCAM Murcia,away,64,85,0,57,25,6,15,76,27,19,9
+103379,2022_23,14,2023-01-06,UCAM Murcia,La Laguna Tenerife,home,85,64,0,76,27,19,9,57,25,6,15
+103380,2022_23,14,2023-01-03,Joventut,Bàsquet Girona,away,66,79,0,72,8,12,10,55,24,4,16
+103380,2022_23,14,2023-01-03,Bàsquet Girona,Joventut,home,79,66,0,55,24,4,16,72,8,12,10
+103381,2022_23,14,2023-01-03,Gran Canaria,Coosur Real Betis,away,82,88,0,57,21,6,8,63,17,9,11
+103381,2022_23,14,2023-01-03,Coosur Real Betis,Gran Canaria,home,88,82,0,63,17,9,11,57,21,6,8
+103382,2022_23,14,2023-01-03,Baskonia,Coviran Granada,away,95,84,0,71,16,13,11,67,24,15,11
+103382,2022_23,14,2023-01-03,Coviran Granada,Baskonia,home,84,95,0,67,24,15,11,71,16,13,11
+103383,2022_23,14,2023-01-03,Carplus Fuenlabrada,Valencia Basket,away,86,92,0,69,15,11,14,66,22,10,16
+103383,2022_23,14,2023-01-03,Valencia Basket,Carplus Fuenlabrada,home,92,86,0,66,22,10,16,69,15,11,14
+103384,2022_23,14,2023-01-02,FC Barcelona,Real Madrid,away,87,78,0,70,17,13,9,60,25,10,10
+103384,2022_23,14,2023-01-02,Real Madrid,FC Barcelona,home,78,87,0,60,25,10,10,70,17,13,9
+103370,2022_23,15,2023-01-07,Monbus Obradoiro,Río Breogán,away,59,64,0,64,9,8,16,59,18,9,14
+103370,2022_23,15,2023-01-07,Río Breogán,Monbus Obradoiro,home,64,59,0,59,18,9,14,64,9,8,16
+103371,2022_23,15,2023-01-08,Casademont Zaragoza,BAXI Manresa,away,72,65,0,63,14,14,21,62,12,11,19
+103371,2022_23,15,2023-01-08,BAXI Manresa,Casademont Zaragoza,home,65,72,0,62,12,11,19,63,14,14,21
+103372,2022_23,15,2023-01-08,Gran Canaria,Real Madrid,away,85,105,0,70,16,13,9,65,26,11,11
+103372,2022_23,15,2023-01-08,Real Madrid,Gran Canaria,home,105,85,0,65,26,11,11,70,16,13,9
+103373,2022_23,15,2023-01-07,Coosur Real Betis,FC Barcelona,away,70,104,0,53,24,8,11,64,16,8,7
+103373,2022_23,15,2023-01-07,FC Barcelona,Coosur Real Betis,home,104,70,0,64,16,8,7,53,24,8,11
+103374,2022_23,15,2023-01-07,Coviran Granada,Joventut,away,72,90,0,67,16,9,13,72,13,12,12
+103374,2022_23,15,2023-01-07,Joventut,Coviran Granada,home,90,72,0,72,13,12,12,67,16,9,13
+103375,2022_23,15,2023-01-07,Bàsquet Girona,Carplus Fuenlabrada,away,83,75,0,65,10,5,9,69,23,10,9
+103375,2022_23,15,2023-01-07,Carplus Fuenlabrada,Bàsquet Girona,home,75,83,0,69,23,10,9,65,10,5,9
+103385,2022_23,15,2023-01-08,Valencia Basket,Baskonia,away,79,85,0,65,18,10,17,66,25,10,13
+103385,2022_23,15,2023-01-08,Baskonia,Valencia Basket,home,85,79,0,66,25,10,13,65,18,10,17
+103387,2022_23,15,2023-01-08,Unicaja,La Laguna Tenerife,away,84,91,0,64,17,11,12,57,26,9,13
+103387,2022_23,15,2023-01-08,La Laguna Tenerife,Unicaja,home,91,84,0,57,26,9,13,64,17,11,12
+103404,2022_23,15,2023-01-08,UCAM Murcia,Surne Bilbao Basket,away,81,99,0,71,16,9,10,68,19,9,11
+103404,2022_23,15,2023-01-08,Surne Bilbao Basket,UCAM Murcia,home,99,81,0,68,19,9,11,71,16,9,10
+103388,2022_23,16,2023-01-14,Río Breogán,Unicaja,away,66,100,0,62,17,4,8,62,33,7,6
+103388,2022_23,16,2023-01-14,Unicaja,Río Breogán,home,100,66,0,62,33,7,6,62,17,4,8
+103396,2022_23,16,2023-01-15,Joventut,Baskonia,away,83,84,0,63,16,10,9,66,14,8,5
+103396,2022_23,16,2023-01-15,Baskonia,Joventut,home,84,83,0,66,14,8,5,63,16,10,9
+103397,2022_23,16,2023-01-15,FC Barcelona,UCAM Murcia,away,86,72,0,64,25,15,10,67,20,14,7
+103397,2022_23,16,2023-01-15,UCAM Murcia,FC Barcelona,home,72,86,0,67,20,14,7,64,25,15,10
+103398,2022_23,16,2023-01-15,BAXI Manresa,Valencia Basket,away,92,103,0,67,12,5,14,74,20,15,17
+103398,2022_23,16,2023-01-15,Valencia Basket,BAXI Manresa,home,103,92,0,74,20,15,17,67,12,5,14
+103399,2022_23,16,2023-01-15,Real Madrid,Coviran Granada,away,82,62,0,75,22,20,14,65,14,12,16
+103399,2022_23,16,2023-01-15,Coviran Granada,Real Madrid,home,62,82,0,65,14,12,16,75,22,20,14
+103400,2022_23,16,2023-01-15,Monbus Obradoiro,Coosur Real Betis,away,73,71,0,64,12,13,11,63,19,16,12
+103400,2022_23,16,2023-01-15,Coosur Real Betis,Monbus Obradoiro,home,71,73,0,63,19,16,12,64,12,13,11
+103401,2022_23,16,2023-01-14,Carplus Fuenlabrada,Gran Canaria,away,65,110,0,54,16,9,22,67,19,7,7
+103401,2022_23,16,2023-01-14,Gran Canaria,Carplus Fuenlabrada,home,110,65,0,67,19,7,7,54,16,9,22
+103402,2022_23,16,2023-01-14,La Laguna Tenerife,Casademont Zaragoza,away,87,83,1,63,20,10,19,72,16,9,12
+103402,2022_23,16,2023-01-14,Casademont Zaragoza,La Laguna Tenerife,home,83,87,1,72,16,9,12,63,20,10,19
+103403,2022_23,16,2023-01-14,Surne Bilbao Basket,Bàsquet Girona,away,59,84,0,61,8,10,14,61,16,7,11
+103403,2022_23,16,2023-01-14,Bàsquet Girona,Surne Bilbao Basket,home,84,59,0,61,16,7,11,61,8,10,14
+103291,2022_23,17,2023-01-22,Río Breogán,Real Madrid,away,73,91,0,71,8,12,15,61,22,8,15
+103291,2022_23,17,2023-01-22,Real Madrid,Río Breogán,home,91,73,0,61,22,8,15,71,8,12,15
+103292,2022_23,17,2023-01-22,Gran Canaria,Joventut,away,91,75,0,77,20,19,12,60,22,8,14
+103292,2022_23,17,2023-01-22,Joventut,Gran Canaria,home,75,91,0,60,22,8,14,77,20,19,12
+103389,2022_23,17,2023-01-22,Casademont Zaragoza,Valencia Basket,away,76,88,0,55,10,6,21,60,13,8,16
+103389,2022_23,17,2023-01-22,Valencia Basket,Casademont Zaragoza,home,88,76,0,60,13,8,16,55,10,6,21
+103390,2022_23,17,2023-01-22,Surne Bilbao Basket,FC Barcelona,away,78,88,0,59,14,10,18,61,17,7,12
+103390,2022_23,17,2023-01-22,FC Barcelona,Surne Bilbao Basket,home,88,78,0,61,17,7,12,59,14,10,18
+103391,2022_23,17,2023-01-22,Baskonia,Monbus Obradoiro,away,86,91,0,66,17,9,17,64,23,7,12
+103391,2022_23,17,2023-01-22,Monbus Obradoiro,Baskonia,home,91,86,0,64,23,7,12,66,17,9,17
+103392,2022_23,17,2023-01-21,Coosur Real Betis,La Laguna Tenerife,away,64,88,0,62,16,14,10,51,24,5,11
+103392,2022_23,17,2023-01-21,La Laguna Tenerife,Coosur Real Betis,home,88,64,0,51,24,5,11,62,16,14,10
+103393,2022_23,17,2023-01-21,Unicaja,BAXI Manresa,away,98,94,1,79,22,9,15,66,25,6,19
+103393,2022_23,17,2023-01-21,BAXI Manresa,Unicaja,home,94,98,1,66,25,6,19,79,22,9,15
+103394,2022_23,17,2023-01-22,Bàsquet Girona,Coviran Granada,away,92,78,0,68,21,11,14,60,20,7,21
+103394,2022_23,17,2023-01-22,Coviran Granada,Bàsquet Girona,home,78,92,0,60,20,7,21,68,21,11,14
+103395,2022_23,17,2023-01-21,UCAM Murcia,Carplus Fuenlabrada,away,88,72,0,79,15,13,8,65,22,13,21
+103395,2022_23,17,2023-01-21,Carplus Fuenlabrada,UCAM Murcia,home,72,88,0,65,22,13,21,79,15,13,8
+103186,2022_23,18,2023-01-29,Coosur Real Betis,Casademont Zaragoza,away,82,89,1,63,25,11,11,63,35,12,11
+103186,2022_23,18,2023-01-29,Casademont Zaragoza,Coosur Real Betis,home,89,82,1,63,35,12,11,63,25,11,11
+103187,2022_23,18,2023-01-29,Valencia Basket,Unicaja,away,86,102,0,60,23,2,5,66,20,12,7
+103187,2022_23,18,2023-01-29,Unicaja,Valencia Basket,home,102,86,0,66,20,12,7,60,23,2,5
+103188,2022_23,18,2023-01-29,Baskonia,UCAM Murcia,away,87,80,0,70,22,12,11,68,17,8,11
+103188,2022_23,18,2023-01-29,UCAM Murcia,Baskonia,home,80,87,0,68,17,8,11,70,22,12,11
+103189,2022_23,18,2023-01-29,Monbus Obradoiro,Gran Canaria,away,68,75,0,59,16,7,11,54,10,4,14
+103189,2022_23,18,2023-01-29,Gran Canaria,Monbus Obradoiro,home,75,68,0,54,10,4,14,59,16,7,11
+103190,2022_23,18,2023-01-29,Real Madrid,BAXI Manresa,away,94,69,0,62,17,6,15,67,19,12,13
+103190,2022_23,18,2023-01-29,BAXI Manresa,Real Madrid,home,69,94,0,67,19,12,13,62,17,6,15
+103191,2022_23,18,2023-01-28,FC Barcelona,Bàsquet Girona,away,84,73,0,64,20,7,14,64,16,4,16
+103191,2022_23,18,2023-01-28,Bàsquet Girona,FC Barcelona,home,73,84,0,64,16,4,16,64,20,7,14
+103192,2022_23,18,2023-01-28,Joventut,Surne Bilbao Basket,away,70,51,0,63,15,9,11,59,20,9,13
+103192,2022_23,18,2023-01-28,Surne Bilbao Basket,Joventut,home,51,70,0,59,20,9,13,63,15,9,11
+103280,2022_23,18,2023-01-28,La Laguna Tenerife,Carplus Fuenlabrada,away,95,67,0,69,16,10,5,59,18,8,13
+103280,2022_23,18,2023-01-28,Carplus Fuenlabrada,La Laguna Tenerife,home,67,95,0,59,18,8,13,69,16,10,5
+103290,2022_23,18,2023-01-28,Coviran Granada,Río Breogán,away,67,99,0,52,18,5,23,75,9,8,6
+103290,2022_23,18,2023-01-28,Río Breogán,Coviran Granada,home,99,67,0,75,9,8,6,52,18,5,23
+103178,2022_23,19,2023-02-05,La Laguna Tenerife,Real Madrid,away,77,88,0,64,16,8,11,60,21,6,10
+103178,2022_23,19,2023-02-05,Real Madrid,La Laguna Tenerife,home,88,77,0,60,21,6,10,64,16,8,11
+103179,2022_23,19,2023-02-05,Casademont Zaragoza,Baskonia,away,79,91,0,67,19,11,9,67,18,6,6
+103179,2022_23,19,2023-02-05,Baskonia,Casademont Zaragoza,home,91,79,0,67,18,6,6,67,19,11,9
+103180,2022_23,19,2023-02-05,Valencia Basket,FC Barcelona,away,75,81,0,55,26,5,10,62,25,9,9
+103180,2022_23,19,2023-02-05,FC Barcelona,Valencia Basket,home,81,75,0,62,25,9,9,55,26,5,10
+103181,2022_23,19,2023-02-05,Bàsquet Girona,Río Breogán,away,70,92,0,56,23,10,17,67,28,14,10
+103181,2022_23,19,2023-02-05,Río Breogán,Bàsquet Girona,home,92,70,0,67,28,14,10,56,23,10,17
+103182,2022_23,19,2023-02-04,UCAM Murcia,Coosur Real Betis,away,71,84,0,71,18,11,16,64,33,12,12
+103182,2022_23,19,2023-02-04,Coosur Real Betis,UCAM Murcia,home,84,71,0,64,33,12,12,71,18,11,16
+103183,2022_23,19,2023-02-04,Unicaja,Gran Canaria,away,70,88,0,67,12,4,9,50,37,5,15
+103183,2022_23,19,2023-02-04,Gran Canaria,Unicaja,home,88,70,0,50,37,5,15,67,12,4,9
+103184,2022_23,19,2023-02-04,BAXI Manresa,Joventut,away,65,73,0,75,10,10,6,53,29,7,14
+103184,2022_23,19,2023-02-04,Joventut,BAXI Manresa,home,73,65,0,53,29,7,14,75,10,10,6
+103185,2022_23,19,2023-02-04,Surne Bilbao Basket,Monbus Obradoiro,away,64,77,0,60,13,5,12,59,25,8,9
+103185,2022_23,19,2023-02-04,Monbus Obradoiro,Surne Bilbao Basket,home,77,64,0,59,25,8,9,60,13,5,12
+103193,2022_23,19,2023-02-05,Carplus Fuenlabrada,Coviran Granada,away,71,83,0,66,22,9,19,60,24,10,19
+103193,2022_23,19,2023-02-05,Coviran Granada,Carplus Fuenlabrada,home,83,71,0,60,24,10,19,66,22,9,19
+103195,2022_23,20,2023-02-11,Casademont Zaragoza,Carplus Fuenlabrada,away,85,71,0,63,11,7,14,71,22,15,10
+103195,2022_23,20,2023-02-11,Carplus Fuenlabrada,Casademont Zaragoza,home,71,85,0,71,22,15,10,63,11,7,14
+103196,2022_23,20,2023-02-11,Joventut,Coosur Real Betis,away,71,67,0,68,19,12,13,71,7,9,12
+103196,2022_23,20,2023-02-11,Coosur Real Betis,Joventut,home,67,71,0,71,7,9,12,68,19,12,13
+103206,2022_23,20,2023-03-29,BAXI Manresa,La Laguna Tenerife,away,87,100,0,75,13,16,9,64,30,12,12
+103206,2022_23,20,2023-03-29,La Laguna Tenerife,BAXI Manresa,home,100,87,0,64,30,12,12,75,13,16,9
+103207,2022_23,20,2023-02-12,Baskonia,Unicaja,away,89,81,1,67,38,9,14,73,24,6,14
+103207,2022_23,20,2023-02-12,Unicaja,Baskonia,home,81,89,1,73,24,6,14,67,38,9,14
+103208,2022_23,20,2023-02-12,Real Madrid,UCAM Murcia,away,88,80,0,66,33,14,14,78,12,9,11
+103208,2022_23,20,2023-02-12,UCAM Murcia,Real Madrid,home,80,88,0,78,12,9,11,66,33,14,14
+103209,2022_23,20,2023-02-12,Gran Canaria,Valencia Basket,away,76,82,0,61,9,11,14,57,14,4,15
+103209,2022_23,20,2023-02-12,Valencia Basket,Gran Canaria,home,82,76,0,57,14,4,15,61,9,11,14
+103210,2022_23,20,2023-02-12,Río Breogán,FC Barcelona,away,54,82,0,65,6,6,8,67,10,15,13
+103210,2022_23,20,2023-02-12,FC Barcelona,Río Breogán,home,82,54,0,67,10,15,13,65,6,6,8
+103211,2022_23,20,2023-02-11,Monbus Obradoiro,Bàsquet Girona,away,76,93,0,65,19,12,16,71,17,13,9
+103211,2022_23,20,2023-02-11,Bàsquet Girona,Monbus Obradoiro,home,93,76,0,71,17,13,9,65,19,12,16
+103212,2022_23,20,2023-02-11,Coviran Granada,Surne Bilbao Basket,away,73,90,0,62,16,10,12,68,20,18,8
+103212,2022_23,20,2023-02-11,Surne Bilbao Basket,Coviran Granada,home,90,73,0,68,20,18,8,62,16,10,12
+103197,2022_23,21,2023-03-05,Coviran Granada,Baskonia,away,81,105,0,61,15,2,10,70,12,10,13
+103197,2022_23,21,2023-03-05,Baskonia,Coviran Granada,home,105,81,0,70,12,10,13,61,15,2,10
+103198,2022_23,21,2023-03-05,La Laguna Tenerife,Valencia Basket,away,72,77,0,50,16,5,22,57,15,4,13
+103198,2022_23,21,2023-03-05,Valencia Basket,La Laguna Tenerife,home,77,72,0,57,15,4,13,50,16,5,22
+103199,2022_23,21,2023-03-05,Real Madrid,Monbus Obradoiro,away,84,78,0,59,19,5,9,68,15,9,6
+103199,2022_23,21,2023-03-05,Monbus Obradoiro,Real Madrid,home,78,84,0,68,15,9,6,59,19,5,9
+103200,2022_23,21,2023-03-05,Surne Bilbao Basket,Gran Canaria,away,71,94,0,66,15,11,12,57,20,5,12
+103200,2022_23,21,2023-03-05,Gran Canaria,Surne Bilbao Basket,home,94,71,0,57,20,5,12,66,15,11,12
+103201,2022_23,21,2023-03-05,UCAM Murcia,Joventut,away,68,94,0,67,13,10,9,60,18,6,9
+103201,2022_23,21,2023-03-05,Joventut,UCAM Murcia,home,94,68,0,60,18,6,9,67,13,10,9
+103202,2022_23,21,2023-03-04,Coosur Real Betis,Río Breogán,away,115,114,2,81,20,14,15,73,24,6,12
+103202,2022_23,21,2023-03-04,Río Breogán,Coosur Real Betis,home,114,115,2,73,24,6,12,81,20,14,15
+103203,2022_23,21,2023-03-04,FC Barcelona,Casademont Zaragoza,away,83,85,0,67,22,11,16,58,29,5,13
+103203,2022_23,21,2023-03-04,Casademont Zaragoza,FC Barcelona,home,85,83,0,58,29,5,13,67,22,11,16
+103204,2022_23,21,2023-03-04,Carplus Fuenlabrada,BAXI Manresa,away,78,92,0,63,25,11,21,70,21,10,13
+103204,2022_23,21,2023-03-04,BAXI Manresa,Carplus Fuenlabrada,home,92,78,0,70,21,10,13,63,25,11,21
+103205,2022_23,21,2023-03-04,Bàsquet Girona,Unicaja,away,70,94,0,56,20,8,16,73,18,14,9
+103205,2022_23,21,2023-03-04,Unicaja,Bàsquet Girona,home,94,70,0,73,18,14,9,56,20,8,16
+103150,2022_23,22,2023-03-12,Río Breogán,Carplus Fuenlabrada,away,92,73,0,66,22,11,13,70,12,11,12
+103150,2022_23,22,2023-03-12,Carplus Fuenlabrada,Río Breogán,home,73,92,0,70,12,11,12,66,22,11,13
+103151,2022_23,22,2023-03-12,BAXI Manresa,FC Barcelona,away,72,93,0,68,10,8,14,53,26,3,14
+103151,2022_23,22,2023-03-12,FC Barcelona,BAXI Manresa,home,93,72,0,53,26,3,14,68,10,8,14
+103152,2022_23,22,2023-03-12,Baskonia,Coosur Real Betis,away,83,71,0,54,16,9,11,63,12,11,8
+103152,2022_23,22,2023-03-12,Coosur Real Betis,Baskonia,home,71,83,0,63,12,11,8,54,16,9,11
+103153,2022_23,22,2023-03-12,Surne Bilbao Basket,Real Madrid,away,65,86,0,62,7,8,16,67,13,12,13
+103153,2022_23,22,2023-03-12,Real Madrid,Surne Bilbao Basket,home,86,65,0,67,13,12,13,62,7,8,16
+103154,2022_23,22,2023-03-12,Valencia Basket,Bàsquet Girona,away,79,75,0,66,16,8,13,69,9,7,13
+103154,2022_23,22,2023-03-12,Bàsquet Girona,Valencia Basket,home,75,79,0,69,9,7,13,66,16,8,13
+103156,2022_23,22,2023-03-11,Joventut,La Laguna Tenerife,away,68,85,0,54,24,7,14,59,23,8,9
+103156,2022_23,22,2023-03-11,La Laguna Tenerife,Joventut,home,85,68,0,59,23,8,9,54,24,7,14
+103176,2022_23,22,2023-03-11,Monbus Obradoiro,Casademont Zaragoza,away,79,78,0,56,26,9,15,64,28,8,11
+103176,2022_23,22,2023-03-11,Casademont Zaragoza,Monbus Obradoiro,home,78,79,0,64,28,8,11,56,26,9,15
+103177,2022_23,22,2023-03-12,Unicaja,UCAM Murcia,away,80,85,0,58,28,3,9,65,17,7,11
+103177,2022_23,22,2023-03-12,UCAM Murcia,Unicaja,home,85,80,0,65,17,7,11,58,28,3,9
+103194,2022_23,22,2023-03-11,Gran Canaria,Coviran Granada,away,66,80,0,70,18,14,17,56,31,8,16
+103194,2022_23,22,2023-03-11,Coviran Granada,Gran Canaria,home,80,66,0,56,31,8,16,70,18,14,17
+103141,2022_23,23,2023-03-19,Coviran Granada,Valencia Basket,away,72,80,0,60,20,10,20,64,18,5,10
+103141,2022_23,23,2023-03-19,Valencia Basket,Coviran Granada,home,80,72,0,64,18,5,10,60,20,10,20
+103142,2022_23,23,2023-03-19,Baskonia,Real Madrid,away,95,88,0,75,25,7,10,67,28,9,16
+103142,2022_23,23,2023-03-19,Real Madrid,Baskonia,home,88,95,0,67,28,9,16,75,25,7,10
+103143,2022_23,23,2023-03-19,FC Barcelona,Unicaja,away,86,81,0,58,14,8,15,66,11,7,10
+103143,2022_23,23,2023-03-19,Unicaja,FC Barcelona,home,81,86,0,66,11,7,10,58,14,8,15
+103144,2022_23,23,2023-03-19,Bàsquet Girona,Surne Bilbao Basket,away,77,84,0,70,29,19,9,65,21,12,14
+103144,2022_23,23,2023-03-19,Surne Bilbao Basket,Bàsquet Girona,home,84,77,0,65,21,12,14,70,29,19,9
+103145,2022_23,23,2023-03-19,Casademont Zaragoza,Río Breogán,away,87,71,0,59,18,5,7,66,14,12,10
+103145,2022_23,23,2023-03-19,Río Breogán,Casademont Zaragoza,home,71,87,0,66,14,12,10,59,18,5,7
+103146,2022_23,23,2023-03-18,UCAM Murcia,Gran Canaria,away,89,107,0,71,21,11,10,68,29,11,8
+103146,2022_23,23,2023-03-18,Gran Canaria,UCAM Murcia,home,107,89,0,68,29,11,8,71,21,11,10
+103147,2022_23,23,2023-03-18,Carplus Fuenlabrada,Joventut,away,86,103,0,55,30,3,15,77,21,20,12
+103147,2022_23,23,2023-03-18,Joventut,Carplus Fuenlabrada,home,103,86,0,77,21,20,12,55,30,3,15
+103148,2022_23,23,2023-03-18,Coosur Real Betis,BAXI Manresa,away,84,91,0,74,15,8,15,71,19,7,16
+103148,2022_23,23,2023-03-18,BAXI Manresa,Coosur Real Betis,home,91,84,0,71,19,7,16,74,15,8,15
+103149,2022_23,23,2023-03-18,La Laguna Tenerife,Monbus Obradoiro,away,78,58,0,53,14,2,11,64,6,10,9
+103149,2022_23,23,2023-03-18,Monbus Obradoiro,La Laguna Tenerife,home,58,78,0,64,6,10,9,53,14,2,11
+103140,2022_23,24,2023-03-25,Río Breogán,Monbus Obradoiro,away,74,67,0,63,14,7,7,54,14,5,12
+103140,2022_23,24,2023-03-25,Monbus Obradoiro,Río Breogán,home,67,74,0,54,14,5,12,63,14,7,7
+103155,2022_23,24,2023-03-25,BAXI Manresa,Bàsquet Girona,away,86,79,0,67,19,12,12,72,28,16,12
+103155,2022_23,24,2023-03-25,Bàsquet Girona,BAXI Manresa,home,79,86,0,72,28,16,12,67,19,12,12
+103157,2022_23,24,2023-03-25,UCAM Murcia,Coviran Granada,away,67,88,0,58,19,3,17,72,19,11,11
+103157,2022_23,24,2023-03-25,Coviran Granada,UCAM Murcia,home,88,67,0,72,19,11,11,58,19,3,17
+103158,2022_23,24,2023-03-26,Unicaja,Coosur Real Betis,away,79,66,0,63,15,11,18,62,26,14,14
+103158,2022_23,24,2023-03-26,Coosur Real Betis,Unicaja,home,66,79,0,62,26,14,14,63,15,11,18
+103170,2022_23,24,2023-03-26,Valencia Basket,Casademont Zaragoza,away,75,86,0,66,20,9,12,60,16,7,12
+103170,2022_23,24,2023-03-26,Casademont Zaragoza,Valencia Basket,home,86,75,0,60,16,7,12,66,20,9,12
+103171,2022_23,24,2023-03-26,Real Madrid,Carplus Fuenlabrada,away,102,78,0,68,28,11,14,72,15,12,15
+103171,2022_23,24,2023-03-26,Carplus Fuenlabrada,Real Madrid,home,78,102,0,72,15,12,15,68,28,11,14
+103172,2022_23,24,2023-03-26,Surne Bilbao Basket,Baskonia,away,78,100,0,63,14,9,7,60,25,9,9
+103172,2022_23,24,2023-03-26,Baskonia,Surne Bilbao Basket,home,100,78,0,60,25,9,9,63,14,9,7
+103173,2022_23,24,2023-03-26,Gran Canaria,La Laguna Tenerife,away,77,81,0,61,18,8,13,58,30,7,9
+103173,2022_23,24,2023-03-26,La Laguna Tenerife,Gran Canaria,home,81,77,0,58,30,7,9,61,18,8,13
+103174,2022_23,24,2023-03-25,Joventut,FC Barcelona,away,71,87,0,72,20,17,9,57,15,6,15
+103174,2022_23,24,2023-03-25,FC Barcelona,Joventut,home,87,71,0,57,15,6,15,72,20,17,9
+103161,2022_23,25,2023-04-02,Monbus Obradoiro,BAXI Manresa,away,65,80,0,63,21,9,20,61,26,5,16
+103161,2022_23,25,2023-04-02,BAXI Manresa,Monbus Obradoiro,home,80,65,0,61,26,5,16,63,21,9,20
+103162,2022_23,25,2023-04-02,Baskonia,Valencia Basket,away,85,81,0,60,19,6,19,61,19,2,15
+103162,2022_23,25,2023-04-02,Valencia Basket,Baskonia,home,81,85,0,61,19,2,15,60,19,6,19
+103163,2022_23,25,2023-04-02,Coviran Granada,Real Madrid,away,75,108,0,71,7,8,10,70,19,11,11
+103163,2022_23,25,2023-04-02,Real Madrid,Coviran Granada,home,108,75,0,70,19,11,11,71,7,8,10
+103164,2022_23,25,2023-04-02,FC Barcelona,La Laguna Tenerife,away,79,76,0,60,14,11,9,62,18,9,8
+103164,2022_23,25,2023-04-02,La Laguna Tenerife,FC Barcelona,home,76,79,0,62,18,9,8,60,14,11,9
+103165,2022_23,25,2023-04-02,Bàsquet Girona,UCAM Murcia,away,79,102,0,66,30,10,12,74,22,14,10
+103165,2022_23,25,2023-04-02,UCAM Murcia,Bàsquet Girona,home,102,79,0,74,22,14,10,66,30,10,12
+103166,2022_23,25,2023-04-01,Coosur Real Betis,Gran Canaria,away,71,87,0,59,21,8,17,62,18,7,12
+103166,2022_23,25,2023-04-01,Gran Canaria,Coosur Real Betis,home,87,71,0,62,18,7,12,59,21,8,17
+103167,2022_23,25,2023-04-01,Joventut,Río Breogán,away,85,65,0,53,12,3,16,73,13,14,6
+103167,2022_23,25,2023-04-01,Río Breogán,Joventut,home,65,85,0,73,13,14,6,53,12,3,16
+103168,2022_23,25,2023-04-01,Carplus Fuenlabrada,Unicaja,away,75,100,0,56,28,7,25,72,24,5,11
+103168,2022_23,25,2023-04-01,Unicaja,Carplus Fuenlabrada,home,100,75,0,72,24,5,11,56,28,7,25
+103169,2022_23,25,2023-04-01,Casademont Zaragoza,Surne Bilbao Basket,away,68,81,0,57,19,10,17,66,17,9,10
+103169,2022_23,25,2023-04-01,Surne Bilbao Basket,Casademont Zaragoza,home,81,68,0,66,17,9,10,57,19,10,17
+103159,2022_23,26,2023-04-08,UCAM Murcia,Monbus Obradoiro,away,79,81,0,73,17,12,10,56,25,5,14
+103159,2022_23,26,2023-04-08,Monbus Obradoiro,UCAM Murcia,home,81,79,0,56,25,5,14,73,17,12,10
+103160,2022_23,26,2023-04-08,Unicaja,Coviran Granada,away,101,69,0,69,18,9,11,61,34,14,16
+103160,2022_23,26,2023-04-08,Coviran Granada,Unicaja,home,69,101,0,61,34,14,16,69,18,9,11
+103175,2022_23,26,2023-04-08,Gran Canaria,Casademont Zaragoza,away,73,76,0,63,19,8,9,65,15,9,10
+103175,2022_23,26,2023-04-08,Casademont Zaragoza,Gran Canaria,home,76,73,0,65,15,9,10,63,19,8,9
+103213,2022_23,26,2023-04-08,Real Madrid,Río Breogán,away,72,96,0,51,19,4,21,66,19,8,7
+103213,2022_23,26,2023-04-08,Río Breogán,Real Madrid,home,96,72,0,66,19,8,7,51,19,4,21
+103214,2022_23,26,2023-04-09,Carplus Fuenlabrada,Bàsquet Girona,away,60,85,0,68,14,9,15,65,19,12,17
+103214,2022_23,26,2023-04-09,Bàsquet Girona,Carplus Fuenlabrada,home,85,60,0,65,19,12,17,68,14,9,15
+103215,2022_23,26,2023-04-09,La Laguna Tenerife,Coosur Real Betis,away,76,80,1,56,27,7,17,65,29,12,12
+103215,2022_23,26,2023-04-09,Coosur Real Betis,La Laguna Tenerife,home,80,76,1,65,29,12,12,56,27,7,17
+103266,2022_23,26,2023-04-09,BAXI Manresa,Baskonia,away,92,107,0,64,20,5,15,67,24,8,13
+103266,2022_23,26,2023-04-09,Baskonia,BAXI Manresa,home,107,92,0,67,24,8,13,64,20,5,15
+103267,2022_23,26,2023-04-09,Valencia Basket,Joventut,away,70,85,0,62,18,7,10,64,18,8,9
+103267,2022_23,26,2023-04-09,Joventut,Valencia Basket,home,85,70,0,64,18,8,9,62,18,7,10
+103268,2022_23,26,2023-04-09,FC Barcelona,Surne Bilbao Basket,away,80,82,0,59,19,10,14,57,27,10,12
+103268,2022_23,26,2023-04-09,Surne Bilbao Basket,FC Barcelona,home,82,80,0,57,27,10,12,59,19,10,14
+103257,2022_23,27,2023-04-16,Coosur Real Betis,Valencia Basket,away,81,87,0,63,12,10,17,67,27,15,10
+103257,2022_23,27,2023-04-16,Valencia Basket,Coosur Real Betis,home,87,81,0,67,27,15,10,63,12,10,17
+103258,2022_23,27,2023-04-16,Real Madrid,FC Barcelona,away,82,97,0,60,24,7,10,64,26,14,12
+103258,2022_23,27,2023-04-16,FC Barcelona,Real Madrid,home,97,82,0,64,26,14,12,60,24,7,10
+103259,2022_23,27,2023-04-16,Coviran Granada,BAXI Manresa,away,77,86,0,68,30,15,17,64,29,11,16
+103259,2022_23,27,2023-04-16,BAXI Manresa,Coviran Granada,home,86,77,0,64,29,11,16,68,30,15,17
+103260,2022_23,27,2023-04-16,Baskonia,La Laguna Tenerife,away,81,83,0,64,25,13,8,70,15,15,11
+103260,2022_23,27,2023-04-16,La Laguna Tenerife,Baskonia,home,83,81,0,70,15,15,11,64,25,13,8
+103261,2022_23,27,2023-04-16,Casademont Zaragoza,UCAM Murcia,away,74,79,0,60,26,10,12,72,9,11,11
+103261,2022_23,27,2023-04-16,UCAM Murcia,Casademont Zaragoza,home,79,74,0,72,9,11,11,60,26,10,12
+103262,2022_23,27,2023-04-15,Río Breogán,Gran Canaria,away,66,77,0,60,15,8,14,58,10,11,19
+103262,2022_23,27,2023-04-15,Gran Canaria,Río Breogán,home,77,66,0,58,10,11,19,60,15,8,14
+103263,2022_23,27,2023-04-15,Bàsquet Girona,Joventut,away,64,92,0,72,7,7,9,53,29,6,14
+103263,2022_23,27,2023-04-15,Joventut,Bàsquet Girona,home,92,64,0,53,29,6,14,72,7,7,9
+103264,2022_23,27,2023-04-15,Surne Bilbao Basket,Carplus Fuenlabrada,away,71,77,0,65,16,12,18,62,23,6,15
+103264,2022_23,27,2023-04-15,Carplus Fuenlabrada,Surne Bilbao Basket,home,77,71,0,62,23,6,15,65,16,12,18
+103265,2022_23,27,2023-04-15,Monbus Obradoiro,Unicaja,away,89,99,0,58,18,4,13,64,22,10,12
+103265,2022_23,27,2023-04-15,Unicaja,Monbus Obradoiro,home,99,89,0,64,22,10,12,58,18,4,13
+103254,2022_23,28,2023-04-19,Monbus Obradoiro,Baskonia,away,94,110,0,60,24,11,12,66,21,6,7
+103254,2022_23,28,2023-04-19,Baskonia,Monbus Obradoiro,home,110,94,0,66,21,6,7,60,24,11,12
+103255,2022_23,28,2023-04-04,Joventut,Gran Canaria,away,88,100,0,67,21,10,10,68,29,12,8
+103255,2022_23,28,2023-04-04,Gran Canaria,Joventut,home,100,88,0,68,29,12,8,67,21,10,10
+103256,2022_23,28,2023-04-19,Bàsquet Girona,Real Madrid,away,70,89,0,68,15,6,9,60,12,5,14
+103256,2022_23,28,2023-04-19,Real Madrid,Bàsquet Girona,home,89,70,0,60,12,5,14,68,15,6,9
+103269,2022_23,28,2023-04-26,La Laguna Tenerife,Surne Bilbao Basket,away,83,60,0,58,21,10,16,54,17,2,14
+103269,2022_23,28,2023-04-26,Surne Bilbao Basket,La Laguna Tenerife,home,60,83,0,54,17,2,14,58,21,10,16
+103270,2022_23,28,2023-04-19,FC Barcelona,Coviran Granada,away,70,55,0,63,13,10,18,61,20,10,10
+103270,2022_23,28,2023-04-19,Coviran Granada,FC Barcelona,home,55,70,0,61,20,10,10,63,13,10,18
+103271,2022_23,28,2023-04-19,Valencia Basket,UCAM Murcia,away,82,90,0,73,17,16,11,66,16,8,7
+103271,2022_23,28,2023-04-19,UCAM Murcia,Valencia Basket,home,90,82,0,66,16,8,7,73,17,16,11
+103272,2022_23,28,2023-04-20,Carplus Fuenlabrada,Coosur Real Betis,away,77,87,0,60,13,8,18,74,22,19,15
+103272,2022_23,28,2023-04-20,Coosur Real Betis,Carplus Fuenlabrada,home,87,77,0,74,22,19,15,60,13,8,18
+103287,2022_23,28,2023-04-26,BAXI Manresa,Casademont Zaragoza,away,88,99,0,76,9,9,18,65,30,4,11
+103287,2022_23,28,2023-04-26,Casademont Zaragoza,BAXI Manresa,home,99,88,0,65,30,4,11,76,9,9,18
+103288,2022_23,28,2023-04-20,Unicaja,Río Breogán,away,90,74,0,69,13,11,8,60,18,11,15
+103288,2022_23,28,2023-04-20,Río Breogán,Unicaja,home,74,90,0,60,18,11,15,69,13,11,8
+103278,2022_23,29,2023-04-23,Baskonia,Carplus Fuenlabrada,away,112,93,0,70,20,10,12,61,24,8,16
+103278,2022_23,29,2023-04-23,Carplus Fuenlabrada,Baskonia,home,93,112,0,61,24,8,16,70,20,10,12
+103279,2022_23,29,2023-04-23,Real Madrid,Joventut,away,86,76,0,65,18,5,10,60,25,8,15
+103279,2022_23,29,2023-04-23,Joventut,Real Madrid,home,76,86,0,60,25,8,15,65,18,5,10
+103281,2022_23,29,2023-04-23,Coosur Real Betis,Monbus Obradoiro,away,82,67,0,59,31,11,8,65,15,15,14
+103281,2022_23,29,2023-04-23,Monbus Obradoiro,Coosur Real Betis,home,67,82,0,65,15,15,14,59,31,11,8
+103282,2022_23,29,2023-04-23,Río Breogán,La Laguna Tenerife,away,67,85,0,70,15,16,8,63,6,9,14
+103282,2022_23,29,2023-04-23,La Laguna Tenerife,Río Breogán,home,85,67,0,63,6,9,14,70,15,16,8
+103283,2022_23,29,2023-04-23,UCAM Murcia,BAXI Manresa,away,83,93,0,74,14,8,10,73,24,11,5
+103283,2022_23,29,2023-04-23,BAXI Manresa,UCAM Murcia,home,93,83,0,73,24,11,5,74,14,8,10
+103284,2022_23,29,2023-04-22,Gran Canaria,FC Barcelona,away,79,87,0,56,20,7,9,60,20,12,11
+103284,2022_23,29,2023-04-22,FC Barcelona,Gran Canaria,home,87,79,0,60,20,12,11,56,20,7,9
+103285,2022_23,29,2023-04-22,Surne Bilbao Basket,Valencia Basket,away,88,95,0,65,15,8,8,65,17,12,11
+103285,2022_23,29,2023-04-22,Valencia Basket,Surne Bilbao Basket,home,95,88,0,65,17,12,11,65,15,8,8
+103286,2022_23,29,2023-04-22,Coviran Granada,Bàsquet Girona,away,73,88,0,64,28,10,12,66,11,10,16
+103286,2022_23,29,2023-04-22,Bàsquet Girona,Coviran Granada,home,88,73,0,66,11,10,16,64,28,10,12
+103289,2022_23,29,2023-04-23,Unicaja,Casademont Zaragoza,away,74,70,0,67,13,11,13,55,22,5,14
+103289,2022_23,29,2023-04-23,Casademont Zaragoza,Unicaja,home,70,74,0,55,22,5,14,67,13,11,13
+103232,2022_23,30,2023-04-30,Río Breogán,Baskonia,away,76,97,0,73,15,16,10,67,11,6,9
+103232,2022_23,30,2023-04-30,Baskonia,Río Breogán,home,97,76,0,67,11,6,9,73,15,16,10
+103251,2022_23,30,2023-04-30,Joventut,Unicaja,away,69,78,0,58,20,7,15,70,16,7,7
+103251,2022_23,30,2023-04-30,Unicaja,Joventut,home,78,69,0,70,16,7,7,58,20,7,15
+103252,2022_23,30,2023-04-30,FC Barcelona,Coosur Real Betis,away,85,77,0,69,9,10,8,68,17,14,6
+103252,2022_23,30,2023-04-30,Coosur Real Betis,FC Barcelona,home,77,85,0,68,17,14,6,69,9,10,8
+103253,2022_23,30,2023-04-30,Bàsquet Girona,Gran Canaria,away,73,78,0,63,10,9,13,67,18,12,11
+103253,2022_23,30,2023-04-30,Gran Canaria,Bàsquet Girona,home,78,73,0,67,18,12,11,63,10,9,13
+103273,2022_23,30,2023-04-30,Casademont Zaragoza,Real Madrid,away,86,93,0,63,10,4,17,71,27,13,12
+103273,2022_23,30,2023-04-30,Real Madrid,Casademont Zaragoza,home,93,86,0,71,27,13,12,63,10,4,17
+103274,2022_23,30,2023-04-29,BAXI Manresa,Surne Bilbao Basket,away,76,80,0,69,20,10,11,62,17,12,20
+103274,2022_23,30,2023-04-29,Surne Bilbao Basket,BAXI Manresa,home,80,76,0,62,17,12,20,69,20,10,11
+103275,2022_23,30,2023-04-29,Monbus Obradoiro,Valencia Basket,away,78,87,0,62,10,7,17,61,20,10,13
+103275,2022_23,30,2023-04-29,Valencia Basket,Monbus Obradoiro,home,87,78,0,61,20,10,13,62,10,7,17
+103276,2022_23,30,2023-04-29,La Laguna Tenerife,Coviran Granada,away,82,73,0,60,24,7,10,67,8,7,13
+103276,2022_23,30,2023-04-29,Coviran Granada,La Laguna Tenerife,home,73,82,0,67,8,7,13,60,24,7,10
+103277,2022_23,30,2023-04-29,Carplus Fuenlabrada,UCAM Murcia,away,64,83,0,53,37,5,18,78,16,17,18
+103277,2022_23,30,2023-04-29,UCAM Murcia,Carplus Fuenlabrada,home,83,64,0,78,16,17,18,53,37,5,18
+103222,2022_23,31,2023-05-07,Valencia Basket,BAXI Manresa,away,82,87,0,74,18,12,12,64,26,11,15
+103222,2022_23,31,2023-05-07,BAXI Manresa,Valencia Basket,home,87,82,0,64,26,11,15,74,18,12,12
+103223,2022_23,31,2023-05-07,Gran Canaria,Baskonia,away,97,101,1,77,18,12,9,70,23,7,9
+103223,2022_23,31,2023-05-07,Baskonia,Gran Canaria,home,101,97,1,70,23,7,9,77,18,12,9
+103224,2022_23,31,2023-05-07,Carplus Fuenlabrada,FC Barcelona,away,64,101,0,60,15,6,19,68,14,10,15
+103224,2022_23,31,2023-05-07,FC Barcelona,Carplus Fuenlabrada,home,101,64,0,68,14,10,15,60,15,6,19
+103225,2022_23,31,2023-05-07,UCAM Murcia,Río Breogán,away,65,60,0,67,18,13,12,68,13,6,6
+103225,2022_23,31,2023-05-07,Río Breogán,UCAM Murcia,home,60,65,0,68,13,6,6,67,18,13,12
+103226,2022_23,31,2023-05-07,Unicaja,Real Madrid,away,90,102,0,73,17,12,9,64,27,6,7
+103226,2022_23,31,2023-05-07,Real Madrid,Unicaja,home,102,90,0,64,27,6,7,73,17,12,9
+103227,2022_23,31,2023-05-06,Surne Bilbao Basket,Coosur Real Betis,away,78,86,0,65,17,10,11,70,22,15,11
+103227,2022_23,31,2023-05-06,Coosur Real Betis,Surne Bilbao Basket,home,86,78,0,70,22,15,11,65,17,10,11
+103228,2022_23,31,2023-05-06,La Laguna Tenerife,Bàsquet Girona,away,88,72,0,61,23,4,10,70,9,11,13
+103228,2022_23,31,2023-05-06,Bàsquet Girona,La Laguna Tenerife,home,72,88,0,70,9,11,13,61,23,4,10
+103229,2022_23,31,2023-05-06,Joventut,Casademont Zaragoza,away,77,87,0,65,18,11,12,62,23,7,8
+103229,2022_23,31,2023-05-06,Casademont Zaragoza,Joventut,home,87,77,0,62,23,7,8,65,18,11,12
+103230,2022_23,31,2023-05-06,Coviran Granada,Monbus Obradoiro,away,83,88,0,64,19,6,13,56,22,4,14
+103230,2022_23,31,2023-05-06,Monbus Obradoiro,Coviran Granada,home,88,83,0,56,22,4,14,64,19,6,13
+103216,2022_23,32,2023-05-11,Gran Canaria,Carplus Fuenlabrada,away,97,81,0,65,26,9,10,55,22,2,12
+103216,2022_23,32,2023-05-11,Carplus Fuenlabrada,Gran Canaria,home,81,97,0,55,22,2,12,65,26,9,10
+103217,2022_23,32,2023-05-03,UCAM Murcia,La Laguna Tenerife,away,111,109,1,66,31,8,10,71,29,10,11
+103217,2022_23,32,2023-05-03,La Laguna Tenerife,UCAM Murcia,home,109,111,1,71,29,10,11,66,31,8,10
+103218,2022_23,32,2023-05-03,BAXI Manresa,Unicaja,away,88,97,0,73,16,6,13,73,9,6,11
+103218,2022_23,32,2023-05-03,Unicaja,BAXI Manresa,home,97,88,0,73,9,6,11,73,16,6,13
+103219,2022_23,32,2023-05-10,Río Breogán,Surne Bilbao Basket,away,66,83,0,60,18,9,16,62,26,9,12
+103219,2022_23,32,2023-05-10,Surne Bilbao Basket,Río Breogán,home,83,66,0,62,26,9,12,60,18,9,16
+103220,2022_23,32,2023-05-09,Casademont Zaragoza,Coviran Granada,away,68,71,0,59,18,6,14,82,12,17,6
+103220,2022_23,32,2023-05-09,Coviran Granada,Casademont Zaragoza,home,71,68,0,82,12,17,6,59,18,6,14
+103221,2022_23,32,2023-05-09,Coosur Real Betis,Bàsquet Girona,away,90,79,0,60,31,10,15,59,17,7,18
+103221,2022_23,32,2023-05-09,Bàsquet Girona,Coosur Real Betis,home,79,90,0,59,17,7,18,60,31,10,15
+103231,2022_23,32,2023-05-11,Baskonia,Joventut,away,86,77,0,68,21,8,4,64,19,8,12
+103231,2022_23,32,2023-05-11,Joventut,Baskonia,home,77,86,0,64,19,8,12,68,21,8,4
+103233,2022_23,32,2023-05-12,Monbus Obradoiro,FC Barcelona,away,77,94,0,57,16,4,13,69,24,11,9
+103233,2022_23,32,2023-05-12,FC Barcelona,Monbus Obradoiro,home,94,77,0,69,24,11,9,57,16,4,13
+103250,2022_23,32,2023-05-12,Real Madrid,Valencia Basket,away,79,68,0,62,13,7,12,67,14,7,8
+103250,2022_23,32,2023-05-12,Valencia Basket,Real Madrid,home,68,79,0,67,14,7,8,62,13,7,12
+103234,2022_23,33,2023-05-13,Coviran Granada,Coosur Real Betis,away,91,85,0,64,19,13,16,76,17,18,9
+103234,2022_23,33,2023-05-13,Coosur Real Betis,Coviran Granada,home,85,91,0,76,17,18,9,64,19,13,16
+103242,2022_23,33,2023-05-14,Valencia Basket,Carplus Fuenlabrada,away,93,75,0,70,22,14,12,54,14,6,24
+103242,2022_23,33,2023-05-14,Carplus Fuenlabrada,Valencia Basket,home,75,93,0,54,14,6,24,70,22,14,12
+103243,2022_23,33,2023-05-14,Real Madrid,Gran Canaria,away,95,67,0,58,14,5,14,58,16,9,16
+103243,2022_23,33,2023-05-14,Gran Canaria,Real Madrid,home,67,95,0,58,16,9,16,58,14,5,14
+103244,2022_23,33,2023-05-14,FC Barcelona,Baskonia,away,91,84,0,60,19,9,10,60,23,7,6
+103244,2022_23,33,2023-05-14,Baskonia,FC Barcelona,home,84,91,0,60,23,7,6,60,19,9,10
+103245,2022_23,33,2023-05-14,Monbus Obradoiro,Joventut,away,85,96,0,66,21,11,9,66,24,10,8
+103245,2022_23,33,2023-05-14,Joventut,Monbus Obradoiro,home,96,85,0,66,24,10,8,66,21,11,9
+103246,2022_23,33,2023-05-14,BAXI Manresa,Río Breogán,away,82,81,0,69,16,16,16,68,17,12,12
+103246,2022_23,33,2023-05-14,Río Breogán,BAXI Manresa,home,81,82,0,68,17,12,12,69,16,16,16
+103247,2022_23,33,2023-05-21,La Laguna Tenerife,Unicaja,away,71,75,0,49,20,8,20,59,13,7,14
+103247,2022_23,33,2023-05-21,Unicaja,La Laguna Tenerife,home,75,71,0,59,13,7,14,49,20,8,20
+103248,2022_23,33,2023-05-14,Surne Bilbao Basket,UCAM Murcia,away,55,67,0,60,16,7,15,61,16,4,10
+103248,2022_23,33,2023-05-14,UCAM Murcia,Surne Bilbao Basket,home,67,55,0,61,16,4,10,60,16,7,15
+103249,2022_23,33,2023-05-13,Bàsquet Girona,Casademont Zaragoza,away,95,88,2,76,26,9,16,87,17,15,14
+103249,2022_23,33,2023-05-13,Casademont Zaragoza,Bàsquet Girona,home,88,95,2,87,17,15,14,76,26,9,16
+103235,2022_23,34,2023-05-24,Gran Canaria,BAXI Manresa,away,75,105,0,60,27,4,13,69,18,10,17
+103235,2022_23,34,2023-05-24,BAXI Manresa,Gran Canaria,home,105,75,0,69,18,10,17,60,27,4,13
+103236,2022_23,34,2023-05-24,Baskonia,Bàsquet Girona,away,75,70,0,62,19,15,17,67,23,9,6
+103236,2022_23,34,2023-05-24,Bàsquet Girona,Baskonia,home,70,75,0,67,23,9,6,62,19,15,17
+103237,2022_23,34,2023-05-24,Joventut,Coviran Granada,away,62,73,0,64,16,8,15,64,18,7,11
+103237,2022_23,34,2023-05-24,Coviran Granada,Joventut,home,73,62,0,64,18,7,11,64,16,8,15
+103238,2022_23,34,2023-05-23,Unicaja,Surne Bilbao Basket,away,103,71,0,68,21,9,8,62,21,6,12
+103238,2022_23,34,2023-05-23,Surne Bilbao Basket,Unicaja,home,71,103,0,62,21,6,12,68,21,9,8
+103239,2022_23,34,2023-05-23,Casademont Zaragoza,La Laguna Tenerife,away,69,92,0,59,10,6,11,64,14,7,5
+103239,2022_23,34,2023-05-23,La Laguna Tenerife,Casademont Zaragoza,home,92,69,0,64,14,7,5,59,10,6,11
+103240,2022_23,34,2023-05-24,Coosur Real Betis,Real Madrid,away,77,79,0,74,17,8,5,68,28,13,10
+103240,2022_23,34,2023-05-24,Real Madrid,Coosur Real Betis,home,79,77,0,68,28,13,10,74,17,8,5
+103241,2022_23,34,2023-05-24,UCAM Murcia,FC Barcelona,away,57,86,0,67,10,10,10,56,27,6,11
+103241,2022_23,34,2023-05-24,FC Barcelona,UCAM Murcia,home,86,57,0,56,27,6,11,67,10,10,10
+103367,2022_23,34,2023-05-24,Río Breogán,Valencia Basket,away,80,77,0,65,15,14,10,62,12,10,11
+103367,2022_23,34,2023-05-24,Valencia Basket,Río Breogán,home,77,80,0,62,12,10,11,65,15,14,10
+103444,2022_23,34,2023-05-23,Carplus Fuenlabrada,Monbus Obradoiro,away,72,102,0,59,24,8,21,69,22,12,15
+103444,2022_23,34,2023-05-23,Monbus Obradoiro,Carplus Fuenlabrada,home,102,72,0,69,22,12,15,59,24,8,21

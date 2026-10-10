@@ -1,0 +1,613 @@
+game_id,season,jornada,date,team,opponent,home_away,pts,opp_pts,overtimes,fg_att,ft_att,oreb,tov,opp_fg_att,opp_ft_att,opp_oreb,opp_tov
+17741,2017_18,1,2017-10-01,MoraBanc Andorra,Real Madrid,away,88,94,0,66,25,5,8,62,16,10,18
+17741,2017_18,1,2017-10-01,Real Madrid,MoraBanc Andorra,home,94,88,0,62,16,10,18,66,25,5,8
+17742,2017_18,1,2017-10-01,Delteco GBC,Gran Canaria,away,76,84,0,72,17,11,12,62,12,6,14
+17742,2017_18,1,2017-10-01,Gran Canaria,Delteco GBC,home,84,76,0,62,12,6,14,72,17,11,12
+17743,2017_18,1,2017-09-30,Casademont Zaragoza,Monbus Obradoiro,away,74,80,0,62,13,5,14,60,23,8,12
+17743,2017_18,1,2017-09-30,Monbus Obradoiro,Casademont Zaragoza,home,80,74,0,60,23,8,12,62,13,5,14
+17744,2017_18,1,2017-10-01,Valencia Basket,Coosur Real Betis,away,90,80,0,55,14,3,8,64,11,10,10
+17744,2017_18,1,2017-10-01,Coosur Real Betis,Valencia Basket,home,80,90,0,64,11,10,10,55,14,3,8
+17745,2017_18,1,2017-09-29,Baskonia,FC Barcelona,away,82,87,0,62,21,8,18,71,18,9,11
+17745,2017_18,1,2017-09-29,FC Barcelona,Baskonia,home,87,82,0,71,18,9,11,62,21,8,18
+17746,2017_18,1,2017-10-01,Unicaja,UCAM Murcia,away,74,64,0,61,12,10,14,59,10,8,14
+17746,2017_18,1,2017-10-01,UCAM Murcia,Unicaja,home,64,74,0,59,10,8,14,61,12,10,14
+17747,2017_18,1,2017-09-30,Surne Bilbao Basket,Montakit Fuenlabrada,away,68,82,0,69,14,12,10,68,24,16,11
+17747,2017_18,1,2017-09-30,Montakit Fuenlabrada,Surne Bilbao Basket,home,82,68,0,68,24,16,11,69,14,12,10
+17748,2017_18,1,2017-10-01,La Laguna Tenerife,Recoletas Salud San Pablo Burgos,away,81,65,0,64,14,14,10,70,17,12,4
+17748,2017_18,1,2017-10-01,Recoletas Salud San Pablo Burgos,La Laguna Tenerife,home,65,81,0,70,17,12,4,64,14,14,10
+17749,2017_18,1,2018-01-04,Joventut,Movistar Estudiantes,away,94,101,1,71,22,8,11,78,28,8,6
+17749,2017_18,1,2018-01-04,Movistar Estudiantes,Joventut,home,101,94,1,78,28,8,6,71,22,8,11
+17750,2017_18,2,2017-10-04,Monbus Obradoiro,Valencia Basket,away,67,80,0,59,10,6,10,63,19,11,8
+17750,2017_18,2,2017-10-04,Valencia Basket,Monbus Obradoiro,home,80,67,0,63,19,11,8,59,10,6,10
+17751,2017_18,2,2017-10-05,Movistar Estudiantes,Baskonia,away,76,94,0,78,10,12,9,70,26,7,8
+17751,2017_18,2,2017-10-05,Baskonia,Movistar Estudiantes,home,94,76,0,70,26,7,8,78,10,12,9
+17752,2017_18,2,2017-10-05,Recoletas Salud San Pablo Burgos,Unicaja,away,72,93,0,60,17,10,20,65,28,12,14
+17752,2017_18,2,2017-10-05,Unicaja,Recoletas Salud San Pablo Burgos,home,93,72,0,65,28,12,14,60,17,10,20
+17753,2017_18,2,2017-10-04,Montakit Fuenlabrada,MoraBanc Andorra,away,95,94,1,66,27,12,22,67,31,3,10
+17753,2017_18,2,2017-10-04,MoraBanc Andorra,Montakit Fuenlabrada,home,94,95,1,67,31,3,10,66,27,12,22
+17754,2017_18,2,2017-10-04,Coosur Real Betis,Delteco GBC,away,60,94,0,56,30,9,22,74,14,13,15
+17754,2017_18,2,2017-10-04,Delteco GBC,Coosur Real Betis,home,94,60,0,74,14,13,15,56,30,9,22
+17755,2017_18,2,2017-10-05,Real Madrid,Surne Bilbao Basket,away,87,80,0,70,14,8,10,65,17,4,8
+17755,2017_18,2,2017-10-05,Surne Bilbao Basket,Real Madrid,home,80,87,0,65,17,4,8,70,14,8,10
+17756,2017_18,2,2017-10-05,FC Barcelona,Joventut,away,74,72,0,63,21,8,10,61,16,11,18
+17756,2017_18,2,2017-10-05,Joventut,FC Barcelona,home,72,74,0,61,16,11,18,63,21,8,10
+17757,2017_18,2,2017-10-04,Gran Canaria,Casademont Zaragoza,away,99,95,0,60,34,12,13,73,13,9,9
+17757,2017_18,2,2017-10-04,Casademont Zaragoza,Gran Canaria,home,95,99,0,73,13,9,9,60,34,12,13
+17758,2017_18,2,2017-10-04,UCAM Murcia,La Laguna Tenerife,away,78,84,0,58,16,5,11,60,23,10,11
+17758,2017_18,2,2017-10-04,La Laguna Tenerife,UCAM Murcia,home,84,78,0,60,23,10,11,58,16,5,11
+17759,2017_18,3,2017-10-08,Casademont Zaragoza,Real Madrid,away,65,93,0,57,11,4,17,66,28,15,13
+17759,2017_18,3,2017-10-08,Real Madrid,Casademont Zaragoza,home,93,65,0,66,28,15,13,57,11,4,17
+17760,2017_18,3,2017-10-08,Recoletas Salud San Pablo Burgos,FC Barcelona,away,81,111,0,58,14,5,18,74,16,15,14
+17760,2017_18,3,2017-10-08,FC Barcelona,Recoletas Salud San Pablo Burgos,home,111,81,0,74,16,15,14,58,14,5,18
+17761,2017_18,3,2017-10-08,Delteco GBC,Movistar Estudiantes,away,92,75,0,72,19,12,13,69,23,7,10
+17761,2017_18,3,2017-10-08,Movistar Estudiantes,Delteco GBC,home,75,92,0,69,23,7,10,72,19,12,13
+17762,2017_18,3,2017-10-08,Valencia Basket,La Laguna Tenerife,away,70,67,0,60,14,10,7,68,8,15,6
+17762,2017_18,3,2017-10-08,La Laguna Tenerife,Valencia Basket,home,67,70,0,68,8,15,6,60,14,10,7
+17763,2017_18,3,2017-10-07,Baskonia,Gran Canaria,away,82,100,0,65,20,7,11,64,19,4,13
+17763,2017_18,3,2017-10-07,Gran Canaria,Baskonia,home,100,82,0,64,19,4,13,65,20,7,11
+17764,2017_18,3,2017-10-08,Unicaja,Montakit Fuenlabrada,away,69,77,0,54,15,12,12,57,11,9,10
+17764,2017_18,3,2017-10-08,Montakit Fuenlabrada,Unicaja,home,77,69,0,57,11,9,10,54,15,12,12
+17765,2017_18,3,2017-10-08,MoraBanc Andorra,UCAM Murcia,away,77,81,0,60,31,10,11,68,28,15,12
+17765,2017_18,3,2017-10-08,UCAM Murcia,MoraBanc Andorra,home,81,77,0,68,28,15,12,60,31,10,11
+17766,2017_18,3,2017-10-08,Surne Bilbao Basket,Coosur Real Betis,away,94,86,0,60,28,10,14,65,21,8,14
+17766,2017_18,3,2017-10-08,Coosur Real Betis,Surne Bilbao Basket,home,86,94,0,65,21,8,14,60,28,10,14
+17767,2017_18,3,2017-10-07,Joventut,Monbus Obradoiro,away,68,77,0,55,18,8,10,53,21,10,10
+17767,2017_18,3,2017-10-07,Monbus Obradoiro,Joventut,home,77,68,0,53,21,10,10,55,18,8,10
+17768,2017_18,4,2017-10-15,Real Madrid,Valencia Basket,away,86,82,0,67,16,10,9,73,15,16,8
+17768,2017_18,4,2017-10-15,Valencia Basket,Real Madrid,home,82,86,0,73,15,16,8,67,16,10,9
+17769,2017_18,4,2017-10-14,Coosur Real Betis,Unicaja,away,71,99,0,64,24,10,13,69,19,15,13
+17769,2017_18,4,2017-10-14,Unicaja,Coosur Real Betis,home,99,71,0,69,19,15,13,64,24,10,13
+17770,2017_18,4,2017-10-15,Monbus Obradoiro,FC Barcelona,away,58,102,0,63,14,11,18,66,15,8,9
+17770,2017_18,4,2017-10-15,FC Barcelona,Monbus Obradoiro,home,102,58,0,66,15,8,9,63,14,11,18
+17771,2017_18,4,2017-10-15,Casademont Zaragoza,Surne Bilbao Basket,away,72,77,0,68,9,5,11,67,13,8,11
+17771,2017_18,4,2017-10-15,Surne Bilbao Basket,Casademont Zaragoza,home,77,72,0,67,13,8,11,68,9,5,11
+17772,2017_18,4,2017-10-15,Baskonia,Montakit Fuenlabrada,away,75,80,0,60,26,9,11,55,22,7,12
+17772,2017_18,4,2017-10-15,Montakit Fuenlabrada,Baskonia,home,80,75,0,55,22,7,12,60,26,9,11
+17773,2017_18,4,2017-10-15,Gran Canaria,MoraBanc Andorra,away,76,78,0,68,19,11,13,64,26,13,13
+17773,2017_18,4,2017-10-15,MoraBanc Andorra,Gran Canaria,home,78,76,0,64,26,13,13,68,19,11,13
+17774,2017_18,4,2017-10-15,UCAM Murcia,Delteco GBC,away,69,67,0,62,17,8,13,58,22,9,17
+17774,2017_18,4,2017-10-15,Delteco GBC,UCAM Murcia,home,67,69,0,58,22,9,17,62,17,8,13
+17775,2017_18,4,2017-10-15,La Laguna Tenerife,Joventut,away,76,73,0,58,12,10,15,59,16,8,10
+17775,2017_18,4,2017-10-15,Joventut,La Laguna Tenerife,home,73,76,0,59,16,8,10,58,12,10,15
+17776,2017_18,4,2017-10-14,Movistar Estudiantes,Recoletas Salud San Pablo Burgos,away,87,72,0,67,22,6,8,67,22,15,18
+17776,2017_18,4,2017-10-14,Recoletas Salud San Pablo Burgos,Movistar Estudiantes,home,72,87,0,67,22,15,18,67,22,6,8
+17777,2017_18,5,2017-10-22,Unicaja,Real Madrid,away,85,99,0,65,22,8,9,64,16,8,11
+17777,2017_18,5,2017-10-22,Real Madrid,Unicaja,home,99,85,0,64,16,8,11,65,22,8,9
+17778,2017_18,5,2017-10-22,Delteco GBC,Baskonia,away,86,88,0,65,22,13,15,62,22,5,11
+17778,2017_18,5,2017-10-22,Baskonia,Delteco GBC,home,88,86,0,62,22,5,11,65,22,13,15
+17779,2017_18,5,2017-10-22,Joventut,Gran Canaria,away,69,94,0,51,19,5,22,65,29,11,16
+17779,2017_18,5,2017-10-22,Gran Canaria,Joventut,home,94,69,0,65,29,11,16,51,19,5,22
+17780,2017_18,5,2017-10-21,Recoletas Salud San Pablo Burgos,Monbus Obradoiro,away,69,94,0,67,20,13,11,60,16,8,10
+17780,2017_18,5,2017-10-21,Monbus Obradoiro,Recoletas Salud San Pablo Burgos,home,94,69,0,60,16,8,10,67,20,13,11
+17781,2017_18,5,2017-10-22,Valencia Basket,UCAM Murcia,away,93,91,0,53,26,7,17,64,28,7,9
+17781,2017_18,5,2017-10-22,UCAM Murcia,Valencia Basket,home,91,93,0,64,28,7,9,53,26,7,17
+17782,2017_18,5,2017-10-22,FC Barcelona,Movistar Estudiantes,away,70,80,0,74,14,17,12,75,11,8,6
+17782,2017_18,5,2017-10-22,Movistar Estudiantes,FC Barcelona,home,80,70,0,75,11,8,6,74,14,17,12
+17783,2017_18,5,2017-10-22,MoraBanc Andorra,Casademont Zaragoza,away,78,95,0,60,32,4,11,68,23,9,16
+17783,2017_18,5,2017-10-22,Casademont Zaragoza,MoraBanc Andorra,home,95,78,0,68,23,9,16,60,32,4,11
+17784,2017_18,5,2017-10-21,Surne Bilbao Basket,La Laguna Tenerife,away,69,83,0,59,28,10,11,68,18,15,14
+17784,2017_18,5,2017-10-21,La Laguna Tenerife,Surne Bilbao Basket,home,83,69,0,68,18,15,14,59,28,10,11
+17785,2017_18,5,2017-10-22,Montakit Fuenlabrada,Coosur Real Betis,away,73,70,0,58,18,13,14,60,23,8,5
+17785,2017_18,5,2017-10-22,Coosur Real Betis,Montakit Fuenlabrada,home,70,73,0,60,23,8,5,58,18,13,14
+17786,2017_18,6,2017-10-29,Gran Canaria,Valencia Basket,away,83,89,0,63,20,7,8,61,20,11,14
+17786,2017_18,6,2017-10-29,Valencia Basket,Gran Canaria,home,89,83,0,61,20,11,14,63,20,7,8
+17787,2017_18,6,2017-10-29,Casademont Zaragoza,Baskonia,away,78,73,0,56,14,3,17,71,18,12,10
+17787,2017_18,6,2017-10-29,Baskonia,Casademont Zaragoza,home,73,78,0,71,18,12,10,56,14,3,17
+17788,2017_18,6,2017-10-29,Movistar Estudiantes,Unicaja,away,70,89,0,71,16,5,12,62,22,8,16
+17788,2017_18,6,2017-10-29,Unicaja,Movistar Estudiantes,home,89,70,0,62,22,8,16,71,16,5,12
+17789,2017_18,6,2017-10-29,UCAM Murcia,FC Barcelona,away,97,94,0,65,35,12,12,69,13,9,12
+17789,2017_18,6,2017-10-29,FC Barcelona,UCAM Murcia,home,94,97,0,69,13,9,12,65,35,12,12
+17790,2017_18,6,2017-10-29,La Laguna Tenerife,MoraBanc Andorra,away,48,58,0,62,8,16,16,59,12,7,12
+17790,2017_18,6,2017-10-29,MoraBanc Andorra,La Laguna Tenerife,home,58,48,0,59,12,7,12,62,8,16,16
+17791,2017_18,6,2017-10-29,Coosur Real Betis,Joventut,away,76,81,0,62,29,12,18,59,27,9,16
+17791,2017_18,6,2017-10-29,Joventut,Coosur Real Betis,home,81,76,0,59,27,9,16,62,29,12,18
+17792,2017_18,6,2017-10-28,Monbus Obradoiro,Montakit Fuenlabrada,away,73,65,0,65,3,8,10,52,20,6,14
+17792,2017_18,6,2017-10-28,Montakit Fuenlabrada,Monbus Obradoiro,home,65,73,0,52,20,6,14,65,3,8,10
+17793,2017_18,6,2017-10-28,Real Madrid,Recoletas Salud San Pablo Burgos,away,100,95,0,59,22,5,11,69,13,5,13
+17793,2017_18,6,2017-10-28,Recoletas Salud San Pablo Burgos,Real Madrid,home,95,100,0,69,13,5,13,59,22,5,11
+17794,2017_18,6,2017-10-29,Surne Bilbao Basket,Delteco GBC,away,91,87,0,60,30,6,16,66,36,10,9
+17794,2017_18,6,2017-10-29,Delteco GBC,Surne Bilbao Basket,home,87,91,0,66,36,10,9,60,30,6,16
+17795,2017_18,7,2017-11-05,Recoletas Salud San Pablo Burgos,Valencia Basket,away,78,87,0,66,6,3,9,66,28,16,16
+17795,2017_18,7,2017-11-05,Valencia Basket,Recoletas Salud San Pablo Burgos,home,87,78,0,66,28,16,16,66,6,3,9
+17796,2017_18,7,2017-11-05,Montakit Fuenlabrada,Gran Canaria,away,65,87,0,58,8,5,17,70,20,19,12
+17796,2017_18,7,2017-11-05,Gran Canaria,Montakit Fuenlabrada,home,87,65,0,70,20,19,12,58,8,5,17
+17797,2017_18,7,2017-11-05,Monbus Obradoiro,UCAM Murcia,away,62,60,0,56,24,6,17,70,18,12,12
+17797,2017_18,7,2017-11-05,UCAM Murcia,Monbus Obradoiro,home,60,62,0,70,18,12,12,56,24,6,17
+17798,2017_18,7,2017-11-05,Delteco GBC,Casademont Zaragoza,away,73,97,0,67,19,14,14,79,10,15,6
+17798,2017_18,7,2017-11-05,Casademont Zaragoza,Delteco GBC,home,97,73,0,79,10,15,6,67,19,14,14
+17799,2017_18,7,2017-11-04,Real Madrid,La Laguna Tenerife,away,84,74,0,64,16,7,3,56,12,9,13
+17799,2017_18,7,2017-11-04,La Laguna Tenerife,Real Madrid,home,74,84,0,56,12,9,13,64,16,7,3
+17800,2017_18,7,2017-11-05,Baskonia,Unicaja,away,73,72,0,62,13,13,11,68,20,19,7
+17800,2017_18,7,2017-11-05,Unicaja,Baskonia,home,72,73,0,68,20,19,7,62,13,13,11
+17801,2017_18,7,2017-11-05,FC Barcelona,Surne Bilbao Basket,away,104,83,0,60,21,4,17,64,13,7,16
+17801,2017_18,7,2017-11-05,Surne Bilbao Basket,FC Barcelona,home,83,104,0,64,13,7,16,60,21,4,17
+17802,2017_18,7,2017-11-05,MoraBanc Andorra,Joventut,away,101,103,2,72,51,8,17,83,28,11,18
+17802,2017_18,7,2017-11-05,Joventut,MoraBanc Andorra,home,103,101,2,83,28,11,18,72,51,8,17
+17803,2017_18,7,2017-11-05,Movistar Estudiantes,Coosur Real Betis,away,90,81,0,62,16,8,13,67,20,13,12
+17803,2017_18,7,2017-11-05,Coosur Real Betis,Movistar Estudiantes,home,81,90,0,67,20,13,12,62,16,8,13
+17804,2017_18,8,2017-11-12,FC Barcelona,Real Madrid,away,84,80,0,69,18,7,11,70,22,10,12
+17804,2017_18,8,2017-11-12,Real Madrid,FC Barcelona,home,80,84,0,70,22,10,12,69,18,7,11
+17805,2017_18,8,2017-11-12,Joventut,Baskonia,away,77,87,0,66,13,6,10,61,22,8,15
+17805,2017_18,8,2017-11-12,Baskonia,Joventut,home,87,77,0,61,22,8,15,66,13,6,10
+17806,2017_18,8,2017-11-12,Coosur Real Betis,MoraBanc Andorra,away,68,96,0,63,19,5,9,63,20,8,12
+17806,2017_18,8,2017-11-12,MoraBanc Andorra,Coosur Real Betis,home,96,68,0,63,20,8,12,63,19,5,9
+17807,2017_18,8,2017-11-12,Montakit Fuenlabrada,Movistar Estudiantes,away,71,69,0,66,18,12,15,58,33,8,10
+17807,2017_18,8,2017-11-12,Movistar Estudiantes,Montakit Fuenlabrada,home,69,71,0,58,33,8,10,66,18,12,15
+17808,2017_18,8,2017-11-12,Valencia Basket,Surne Bilbao Basket,away,81,77,0,46,36,5,16,66,21,14,14
+17808,2017_18,8,2017-11-12,Surne Bilbao Basket,Valencia Basket,home,77,81,0,66,21,14,14,46,36,5,16
+17809,2017_18,8,2017-11-12,Unicaja,Delteco GBC,away,63,71,0,63,19,9,10,58,16,10,16
+17809,2017_18,8,2017-11-12,Delteco GBC,Unicaja,home,71,63,0,58,16,10,16,63,19,9,10
+17810,2017_18,8,2017-11-11,Gran Canaria,Monbus Obradoiro,away,65,79,0,55,22,6,20,75,13,12,9
+17810,2017_18,8,2017-11-11,Monbus Obradoiro,Gran Canaria,home,79,65,0,75,13,12,9,55,22,6,20
+17811,2017_18,8,2017-11-11,UCAM Murcia,Recoletas Salud San Pablo Burgos,away,86,89,0,57,18,7,12,65,20,14,13
+17811,2017_18,8,2017-11-11,Recoletas Salud San Pablo Burgos,UCAM Murcia,home,89,86,0,65,20,14,13,57,18,7,12
+17812,2017_18,8,2017-11-12,La Laguna Tenerife,Casademont Zaragoza,away,77,89,0,64,12,13,14,66,21,7,5
+17812,2017_18,8,2017-11-12,Casademont Zaragoza,La Laguna Tenerife,home,89,77,0,66,21,7,5,64,12,13,14
+17813,2017_18,9,2017-11-19,Movistar Estudiantes,Gran Canaria,away,95,99,0,65,17,5,13,74,15,8,8
+17813,2017_18,9,2017-11-19,Gran Canaria,Movistar Estudiantes,home,99,95,0,74,15,8,8,65,17,5,13
+17814,2017_18,9,2017-11-19,Delteco GBC,Joventut,away,67,76,0,62,15,12,17,63,23,11,10
+17814,2017_18,9,2017-11-19,Joventut,Delteco GBC,home,76,67,0,63,23,11,10,62,15,12,17
+17815,2017_18,9,2017-11-18,Casademont Zaragoza,Montakit Fuenlabrada,away,82,88,0,51,27,4,11,68,21,10,7
+17815,2017_18,9,2017-11-18,Montakit Fuenlabrada,Casademont Zaragoza,home,88,82,0,68,21,10,7,51,27,4,11
+17816,2017_18,9,2017-11-19,Valencia Basket,FC Barcelona,away,74,79,0,64,8,10,13,62,10,7,15
+17816,2017_18,9,2017-11-19,FC Barcelona,Valencia Basket,home,79,74,0,62,10,7,15,64,8,10,13
+17817,2017_18,9,2017-11-18,Real Madrid,Coosur Real Betis,away,98,63,0,60,23,5,12,67,19,8,13
+17817,2017_18,9,2017-11-18,Coosur Real Betis,Real Madrid,home,63,98,0,67,19,8,13,60,23,5,12
+17818,2017_18,9,2017-11-19,Baskonia,Recoletas Salud San Pablo Burgos,away,100,76,0,66,16,11,12,60,25,12,14
+17818,2017_18,9,2017-11-19,Recoletas Salud San Pablo Burgos,Baskonia,home,76,100,0,60,25,12,14,66,16,11,12
+17819,2017_18,9,2017-11-19,Unicaja,MoraBanc Andorra,away,60,66,0,61,19,11,8,59,16,15,18
+17819,2017_18,9,2017-11-19,MoraBanc Andorra,Unicaja,home,66,60,0,59,16,15,18,61,19,11,8
+17820,2017_18,9,2017-11-19,Surne Bilbao Basket,UCAM Murcia,away,71,82,0,55,19,7,24,61,34,11,10
+17820,2017_18,9,2017-11-19,UCAM Murcia,Surne Bilbao Basket,home,82,71,0,61,34,11,10,55,19,7,24
+17821,2017_18,9,2017-11-19,La Laguna Tenerife,Monbus Obradoiro,away,64,75,0,53,20,4,8,63,14,11,8
+17821,2017_18,9,2017-11-19,Monbus Obradoiro,La Laguna Tenerife,home,75,64,0,63,14,11,8,53,20,4,8
+17822,2017_18,10,2017-12-03,MoraBanc Andorra,Valencia Basket,away,87,89,1,74,19,10,11,64,23,7,15
+17822,2017_18,10,2017-12-03,Valencia Basket,MoraBanc Andorra,home,89,87,1,64,23,7,15,74,19,10,11
+17823,2017_18,10,2017-12-03,Gran Canaria,Real Madrid,away,72,96,0,60,27,14,20,68,23,7,9
+17823,2017_18,10,2017-12-03,Real Madrid,Gran Canaria,home,96,72,0,68,23,7,9,60,27,14,20
+17824,2017_18,10,2017-12-03,Monbus Obradoiro,Baskonia,away,78,85,0,66,15,11,12,57,24,6,9
+17824,2017_18,10,2017-12-03,Baskonia,Monbus Obradoiro,home,85,78,0,57,24,6,9,66,15,11,12
+17825,2017_18,10,2017-12-03,Joventut,Unicaja,away,74,86,0,70,7,15,15,58,23,12,12
+17825,2017_18,10,2017-12-03,Unicaja,Joventut,home,86,74,0,58,23,12,12,70,7,15,15
+17826,2017_18,10,2017-12-03,Recoletas Salud San Pablo Burgos,Surne Bilbao Basket,away,78,62,0,63,19,6,7,58,17,9,15
+17826,2017_18,10,2017-12-03,Surne Bilbao Basket,Recoletas Salud San Pablo Burgos,home,62,78,0,58,17,9,15,63,19,6,7
+17827,2017_18,10,2017-12-02,Coosur Real Betis,La Laguna Tenerife,away,70,87,0,63,19,8,10,57,15,12,16
+17827,2017_18,10,2017-12-02,La Laguna Tenerife,Coosur Real Betis,home,87,70,0,57,15,12,16,63,19,8,10
+17828,2017_18,10,2017-12-03,FC Barcelona,Casademont Zaragoza,away,99,86,0,84,11,8,4,61,32,6,18
+17828,2017_18,10,2017-12-03,Casademont Zaragoza,FC Barcelona,home,86,99,0,61,32,6,18,84,11,8,4
+17829,2017_18,10,2017-12-03,UCAM Murcia,Movistar Estudiantes,away,91,79,0,65,26,5,10,66,30,10,15
+17829,2017_18,10,2017-12-03,Movistar Estudiantes,UCAM Murcia,home,79,91,0,66,30,10,15,65,26,5,10
+17830,2017_18,10,2017-12-02,Montakit Fuenlabrada,Delteco GBC,away,76,81,0,64,17,13,11,62,21,9,12
+17830,2017_18,10,2017-12-02,Delteco GBC,Montakit Fuenlabrada,home,81,76,0,62,21,9,12,64,17,13,11
+17831,2017_18,11,2017-12-10,UCAM Murcia,Real Madrid,away,85,87,1,68,29,14,18,65,31,11,17
+17831,2017_18,11,2017-12-10,Real Madrid,UCAM Murcia,home,87,85,1,65,31,11,17,68,29,14,18
+17832,2017_18,11,2017-12-09,Surne Bilbao Basket,Baskonia,away,71,94,0,61,10,3,12,67,16,7,10
+17832,2017_18,11,2017-12-09,Baskonia,Surne Bilbao Basket,home,94,71,0,67,16,7,10,61,10,3,12
+17833,2017_18,11,2017-12-10,La Laguna Tenerife,FC Barcelona,away,93,91,1,69,24,12,15,66,30,7,11
+17833,2017_18,11,2017-12-10,FC Barcelona,La Laguna Tenerife,home,91,93,1,66,30,7,11,69,24,12,15
+17834,2017_18,11,2017-12-10,Recoletas Salud San Pablo Burgos,Gran Canaria,away,80,87,0,58,16,6,19,61,9,7,17
+17834,2017_18,11,2017-12-10,Gran Canaria,Recoletas Salud San Pablo Burgos,home,87,80,0,61,9,7,17,58,16,6,19
+17835,2017_18,11,2017-12-10,Valencia Basket,Movistar Estudiantes,away,71,73,0,65,16,12,7,64,8,8,7
+17835,2017_18,11,2017-12-10,Movistar Estudiantes,Valencia Basket,home,73,71,0,64,8,8,7,65,16,12,7
+17836,2017_18,11,2017-12-10,Unicaja,Casademont Zaragoza,away,102,77,0,64,17,4,9,62,18,5,9
+17836,2017_18,11,2017-12-10,Casademont Zaragoza,Unicaja,home,77,102,0,62,18,5,9,64,17,4,9
+17837,2017_18,11,2017-12-09,MoraBanc Andorra,Delteco GBC,away,64,60,0,62,25,6,10,68,17,15,21
+17837,2017_18,11,2017-12-09,Delteco GBC,MoraBanc Andorra,home,60,64,0,68,17,15,21,62,25,6,10
+17838,2017_18,11,2017-12-10,Joventut,Montakit Fuenlabrada,away,78,83,0,58,21,9,13,55,30,8,12
+17838,2017_18,11,2017-12-10,Montakit Fuenlabrada,Joventut,home,83,78,0,55,30,8,12,58,21,9,13
+17839,2017_18,11,2017-12-10,Monbus Obradoiro,Coosur Real Betis,away,77,83,0,54,20,3,14,55,18,2,12
+17839,2017_18,11,2017-12-10,Coosur Real Betis,Monbus Obradoiro,home,83,77,0,55,18,2,12,54,20,3,14
+17840,2017_18,12,2017-12-17,Delteco GBC,Valencia Basket,away,64,86,0,50,15,7,21,61,17,9,13
+17840,2017_18,12,2017-12-17,Valencia Basket,Delteco GBC,home,86,64,0,61,17,9,13,50,15,7,21
+17841,2017_18,12,2017-12-17,Gran Canaria,FC Barcelona,away,88,77,0,56,22,7,14,78,17,17,7
+17841,2017_18,12,2017-12-17,FC Barcelona,Gran Canaria,home,77,88,0,78,17,17,7,56,22,7,14
+17842,2017_18,12,2017-12-17,Movistar Estudiantes,Surne Bilbao Basket,away,77,87,0,62,18,7,8,52,24,3,12
+17842,2017_18,12,2017-12-17,Surne Bilbao Basket,Movistar Estudiantes,home,87,77,0,52,24,3,12,62,18,7,8
+17843,2017_18,12,2017-12-17,Coosur Real Betis,UCAM Murcia,away,70,63,0,59,10,8,18,66,24,16,16
+17843,2017_18,12,2017-12-17,UCAM Murcia,Coosur Real Betis,home,63,70,0,66,24,16,16,59,10,8,18
+17844,2017_18,12,2017-12-17,Casademont Zaragoza,Joventut,away,83,94,0,65,19,7,16,72,27,10,9
+17844,2017_18,12,2017-12-17,Joventut,Casademont Zaragoza,home,94,83,0,72,27,10,9,65,19,7,16
+17845,2017_18,12,2017-12-17,Real Madrid,Monbus Obradoiro,away,102,93,0,62,20,6,4,63,18,7,7
+17845,2017_18,12,2017-12-17,Monbus Obradoiro,Real Madrid,home,93,102,0,63,18,7,7,62,20,6,4
+17846,2017_18,12,2017-12-17,Baskonia,MoraBanc Andorra,away,97,94,0,68,28,13,9,64,27,6,9
+17846,2017_18,12,2017-12-17,MoraBanc Andorra,Baskonia,home,94,97,0,64,27,6,9,68,28,13,9
+17847,2017_18,12,2017-12-16,Unicaja,La Laguna Tenerife,away,77,81,0,52,25,9,14,70,13,14,7
+17847,2017_18,12,2017-12-16,La Laguna Tenerife,Unicaja,home,81,77,0,70,13,14,7,52,25,9,14
+17848,2017_18,12,2017-12-16,Montakit Fuenlabrada,Recoletas Salud San Pablo Burgos,away,71,69,0,65,17,16,18,60,26,4,8
+17848,2017_18,12,2017-12-16,Recoletas Salud San Pablo Burgos,Montakit Fuenlabrada,home,69,71,0,60,26,4,8,65,17,16,18
+17849,2017_18,13,2017-12-23,Coosur Real Betis,Gran Canaria,away,90,83,0,57,13,1,13,67,26,11,9
+17849,2017_18,13,2017-12-23,Gran Canaria,Coosur Real Betis,home,83,90,0,67,26,11,9,57,13,1,13
+17850,2017_18,13,2017-12-23,Surne Bilbao Basket,MoraBanc Andorra,away,91,99,0,65,27,12,14,61,38,9,9
+17850,2017_18,13,2017-12-23,MoraBanc Andorra,Surne Bilbao Basket,home,99,91,0,61,38,9,9,65,27,12,14
+17851,2017_18,13,2017-12-23,Recoletas Salud San Pablo Burgos,Joventut,away,88,81,0,60,24,5,13,65,16,12,20
+17851,2017_18,13,2017-12-23,Joventut,Recoletas Salud San Pablo Burgos,home,81,88,0,65,16,12,20,60,24,5,13
+17852,2017_18,13,2017-12-23,Monbus Obradoiro,Movistar Estudiantes,away,67,95,0,56,25,10,10,70,24,13,8
+17852,2017_18,13,2017-12-23,Movistar Estudiantes,Monbus Obradoiro,home,95,67,0,70,24,13,8,56,25,10,10
+17853,2017_18,13,2018-01-02,Valencia Basket,Unicaja,away,67,74,0,57,14,6,9,62,13,13,10
+17853,2017_18,13,2018-01-02,Unicaja,Valencia Basket,home,74,67,0,62,13,13,10,57,14,6,9
+17854,2017_18,13,2018-01-03,Real Madrid,Baskonia,away,81,69,0,62,15,9,12,64,20,15,14
+17854,2017_18,13,2018-01-03,Baskonia,Real Madrid,home,69,81,0,64,20,15,14,62,15,9,12
+17855,2017_18,13,2018-01-02,FC Barcelona,Delteco GBC,away,101,77,0,69,23,13,7,62,10,11,16
+17855,2017_18,13,2018-01-02,Delteco GBC,FC Barcelona,home,77,101,0,62,10,11,16,69,23,13,7
+17856,2017_18,13,2017-12-23,UCAM Murcia,Casademont Zaragoza,away,77,73,0,67,20,8,14,59,25,3,13
+17856,2017_18,13,2017-12-23,Casademont Zaragoza,UCAM Murcia,home,73,77,0,59,25,3,13,67,20,8,14
+17857,2017_18,13,2017-12-23,La Laguna Tenerife,Montakit Fuenlabrada,away,68,79,0,60,20,10,9,63,10,13,14
+17857,2017_18,13,2017-12-23,Montakit Fuenlabrada,La Laguna Tenerife,home,79,68,0,63,10,13,14,60,20,10,9
+17858,2017_18,14,2017-12-30,Joventut,Valencia Basket,away,81,102,0,63,13,9,8,61,15,6,9
+17858,2017_18,14,2017-12-30,Valencia Basket,Joventut,home,102,81,0,61,15,6,9,63,13,9,8
+17859,2017_18,14,2017-12-31,Movistar Estudiantes,Real Madrid,away,89,96,0,76,25,12,4,67,26,14,13
+17859,2017_18,14,2017-12-31,Real Madrid,Movistar Estudiantes,home,96,89,0,67,26,14,13,76,25,12,4
+17860,2017_18,14,2017-12-31,Montakit Fuenlabrada,FC Barcelona,away,74,101,0,66,16,12,15,66,20,8,8
+17860,2017_18,14,2017-12-31,FC Barcelona,Montakit Fuenlabrada,home,101,74,0,66,20,8,8,66,16,12,15
+17861,2017_18,14,2017-12-31,Baskonia,UCAM Murcia,away,67,78,0,60,22,9,11,55,28,6,13
+17861,2017_18,14,2017-12-31,UCAM Murcia,Baskonia,home,78,67,0,55,28,6,13,60,22,9,11
+17862,2017_18,14,2017-12-30,Unicaja,Surne Bilbao Basket,away,67,70,0,60,24,13,10,62,22,10,10
+17862,2017_18,14,2017-12-30,Surne Bilbao Basket,Unicaja,home,70,67,0,62,22,10,10,60,24,13,10
+17863,2017_18,14,2017-12-30,Gran Canaria,La Laguna Tenerife,away,71,92,0,58,16,4,11,60,15,4,10
+17863,2017_18,14,2017-12-30,La Laguna Tenerife,Gran Canaria,home,92,71,0,60,15,4,10,58,16,4,11
+17864,2017_18,14,2017-12-30,MoraBanc Andorra,Monbus Obradoiro,away,77,65,0,58,22,6,8,60,18,8,9
+17864,2017_18,14,2017-12-30,Monbus Obradoiro,MoraBanc Andorra,home,65,77,0,60,18,8,9,58,22,6,8
+17865,2017_18,14,2017-12-30,Casademont Zaragoza,Coosur Real Betis,away,67,70,0,66,19,8,11,59,30,8,12
+17865,2017_18,14,2017-12-30,Coosur Real Betis,Casademont Zaragoza,home,70,67,0,59,30,8,12,66,19,8,11
+17866,2017_18,14,2017-12-30,Delteco GBC,Recoletas Salud San Pablo Burgos,away,99,76,0,77,18,13,9,60,25,4,14
+17866,2017_18,14,2017-12-30,Recoletas Salud San Pablo Burgos,Delteco GBC,home,76,99,0,60,25,4,14,77,18,13,9
+17867,2017_18,15,2018-01-06,Monbus Obradoiro,Unicaja,away,76,96,0,66,8,10,13,65,19,6,6
+17867,2017_18,15,2018-01-06,Unicaja,Monbus Obradoiro,home,96,76,0,65,19,6,6,66,8,10,13
+17868,2017_18,15,2018-01-07,Surne Bilbao Basket,Gran Canaria,away,85,90,0,56,19,2,8,56,26,8,13
+17868,2017_18,15,2018-01-07,Gran Canaria,Surne Bilbao Basket,home,90,85,0,56,26,8,13,56,19,2,8
+17869,2017_18,15,2018-01-06,Recoletas Salud San Pablo Burgos,MoraBanc Andorra,away,99,91,0,69,17,12,15,69,29,14,12
+17869,2017_18,15,2018-01-06,MoraBanc Andorra,Recoletas Salud San Pablo Burgos,home,91,99,0,69,29,14,12,69,17,12,15
+17870,2017_18,15,2018-01-07,Valencia Basket,Baskonia,away,74,78,0,62,18,8,11,69,10,11,7
+17870,2017_18,15,2018-01-07,Baskonia,Valencia Basket,home,78,74,0,69,10,11,7,62,18,8,11
+17871,2017_18,15,2018-01-07,Real Madrid,Joventut,away,84,66,0,61,12,8,16,61,10,5,13
+17871,2017_18,15,2018-01-07,Joventut,Real Madrid,home,66,84,0,61,10,5,13,61,12,8,16
+17872,2017_18,15,2018-01-07,FC Barcelona,Coosur Real Betis,away,89,82,0,68,10,7,10,66,16,7,9
+17872,2017_18,15,2018-01-07,Coosur Real Betis,FC Barcelona,home,82,89,0,66,16,7,9,68,10,7,10
+17873,2017_18,15,2018-01-07,UCAM Murcia,Montakit Fuenlabrada,away,86,88,0,66,23,12,7,61,23,12,6
+17873,2017_18,15,2018-01-07,Montakit Fuenlabrada,UCAM Murcia,home,88,86,0,61,23,12,6,66,23,12,7
+17874,2017_18,15,2018-01-07,La Laguna Tenerife,Delteco GBC,away,70,89,0,63,24,11,15,51,37,3,15
+17874,2017_18,15,2018-01-07,Delteco GBC,La Laguna Tenerife,home,89,70,0,51,37,3,15,63,24,11,15
+17875,2017_18,15,2018-01-07,Movistar Estudiantes,Casademont Zaragoza,away,97,102,2,81,29,9,16,85,26,14,16
+17875,2017_18,15,2018-01-07,Casademont Zaragoza,Movistar Estudiantes,home,102,97,2,85,26,14,16,81,29,9,16
+17876,2017_18,16,2018-01-13,Casademont Zaragoza,Valencia Basket,away,58,103,0,64,12,11,12,57,17,9,13
+17876,2017_18,16,2018-01-13,Valencia Basket,Casademont Zaragoza,home,103,58,0,57,17,9,13,64,12,11,12
+17877,2017_18,16,2018-01-14,Montakit Fuenlabrada,Real Madrid,away,72,100,0,68,16,8,8,55,38,9,7
+17877,2017_18,16,2018-01-14,Real Madrid,Montakit Fuenlabrada,home,100,72,0,55,38,9,7,68,16,8,8
+17878,2017_18,16,2018-01-14,Joventut,Surne Bilbao Basket,away,74,99,0,52,22,6,13,56,29,7,9
+17878,2017_18,16,2018-01-14,Surne Bilbao Basket,Joventut,home,99,74,0,56,29,7,9,52,22,6,13
+17879,2017_18,16,2018-01-13,Delteco GBC,Monbus Obradoiro,away,72,69,0,61,15,10,14,70,11,10,5
+17879,2017_18,16,2018-01-13,Monbus Obradoiro,Delteco GBC,home,69,72,0,70,11,10,5,61,15,10,14
+17880,2017_18,16,2018-01-14,Coosur Real Betis,Recoletas Salud San Pablo Burgos,away,88,92,1,72,18,5,14,68,26,11,14
+17880,2017_18,16,2018-01-14,Recoletas Salud San Pablo Burgos,Coosur Real Betis,home,92,88,1,68,26,11,14,72,18,5,14
+17881,2017_18,16,2018-01-14,Baskonia,La Laguna Tenerife,away,74,86,0,51,25,10,14,61,22,9,7
+17881,2017_18,16,2018-01-14,La Laguna Tenerife,Baskonia,home,86,74,0,61,22,9,7,51,25,10,14
+17882,2017_18,16,2018-01-14,Unicaja,FC Barcelona,away,76,73,0,60,19,9,12,66,14,11,13
+17882,2017_18,16,2018-01-14,FC Barcelona,Unicaja,home,73,76,0,66,14,11,13,60,19,9,12
+17883,2017_18,16,2018-01-14,Gran Canaria,UCAM Murcia,away,78,84,0,63,22,11,12,63,22,11,11
+17883,2017_18,16,2018-01-14,UCAM Murcia,Gran Canaria,home,84,78,0,63,22,11,11,63,22,11,12
+17884,2017_18,16,2018-01-14,MoraBanc Andorra,Movistar Estudiantes,away,72,81,0,64,20,6,12,62,21,9,13
+17884,2017_18,16,2018-01-14,Movistar Estudiantes,MoraBanc Andorra,home,81,72,0,62,21,9,13,64,20,6,12
+17885,2017_18,17,2018-01-21,Montakit Fuenlabrada,Valencia Basket,away,72,88,0,62,14,8,10,63,27,11,8
+17885,2017_18,17,2018-01-21,Valencia Basket,Montakit Fuenlabrada,home,88,72,0,63,27,11,8,62,14,8,10
+17886,2017_18,17,2018-01-21,Coosur Real Betis,Baskonia,away,70,94,0,70,5,6,11,63,14,10,16
+17886,2017_18,17,2018-01-21,Baskonia,Coosur Real Betis,home,94,70,0,63,14,10,16,70,5,6,11
+17887,2017_18,17,2018-01-21,Gran Canaria,Unicaja,away,87,94,0,74,13,9,7,64,18,10,11
+17887,2017_18,17,2018-01-21,Unicaja,Gran Canaria,home,94,87,0,64,18,10,11,74,13,9,7
+17888,2017_18,17,2018-01-21,Monbus Obradoiro,Surne Bilbao Basket,away,84,74,0,59,18,10,15,61,21,5,7
+17888,2017_18,17,2018-01-21,Surne Bilbao Basket,Monbus Obradoiro,home,74,84,0,61,21,5,7,59,18,10,15
+17889,2017_18,17,2018-01-21,Movistar Estudiantes,La Laguna Tenerife,away,59,77,0,59,15,5,9,64,17,13,12
+17889,2017_18,17,2018-01-21,La Laguna Tenerife,Movistar Estudiantes,home,77,59,0,64,17,13,12,59,15,5,9
+17890,2017_18,17,2018-01-21,Recoletas Salud San Pablo Burgos,Casademont Zaragoza,away,79,73,0,59,16,5,15,61,22,4,11
+17890,2017_18,17,2018-01-21,Casademont Zaragoza,Recoletas Salud San Pablo Burgos,home,73,79,0,61,22,4,11,59,16,5,15
+17891,2017_18,17,2018-01-21,Real Madrid,Delteco GBC,away,98,84,0,64,23,8,13,73,19,14,14
+17891,2017_18,17,2018-01-21,Delteco GBC,Real Madrid,home,84,98,0,73,19,14,14,64,23,8,13
+17892,2017_18,17,2018-01-21,FC Barcelona,MoraBanc Andorra,away,92,102,0,71,30,12,12,58,34,4,14
+17892,2017_18,17,2018-01-21,MoraBanc Andorra,FC Barcelona,home,102,92,0,58,34,4,14,71,30,12,12
+17893,2017_18,17,2018-01-21,UCAM Murcia,Joventut,away,71,62,0,58,20,6,13,60,22,7,11
+17893,2017_18,17,2018-01-21,Joventut,UCAM Murcia,home,62,71,0,60,22,7,11,58,20,6,13
+17894,2017_18,18,2018-01-28,Surne Bilbao Basket,Real Madrid,away,65,95,0,56,14,6,18,60,23,8,15
+17894,2017_18,18,2018-01-28,Real Madrid,Surne Bilbao Basket,home,95,65,0,60,23,8,15,56,14,6,18
+17895,2017_18,18,2018-01-28,Joventut,FC Barcelona,away,79,91,0,68,20,9,14,51,31,7,21
+17895,2017_18,18,2018-01-28,FC Barcelona,Joventut,home,91,79,0,51,31,7,21,68,20,9,14
+17896,2017_18,18,2018-01-28,Casademont Zaragoza,Gran Canaria,away,70,90,0,53,21,7,19,69,11,5,10
+17896,2017_18,18,2018-01-28,Gran Canaria,Casademont Zaragoza,home,90,70,0,69,11,5,10,53,21,7,19
+17897,2017_18,18,2018-01-28,La Laguna Tenerife,UCAM Murcia,away,72,74,0,53,27,8,14,59,34,14,7
+17897,2017_18,18,2018-01-28,UCAM Murcia,La Laguna Tenerife,home,74,72,0,59,34,14,7,53,27,8,14
+17898,2017_18,18,2018-01-28,Valencia Basket,Monbus Obradoiro,away,77,96,0,53,24,7,12,52,21,3,14
+17898,2017_18,18,2018-01-28,Monbus Obradoiro,Valencia Basket,home,96,77,0,52,21,3,14,53,24,7,12
+17899,2017_18,18,2018-01-28,Baskonia,Movistar Estudiantes,away,89,87,0,58,25,6,12,62,26,6,9
+17899,2017_18,18,2018-01-28,Movistar Estudiantes,Baskonia,home,87,89,0,62,26,6,9,58,25,6,12
+17900,2017_18,18,2018-01-27,Unicaja,Recoletas Salud San Pablo Burgos,away,85,78,0,67,12,13,12,60,9,5,14
+17900,2017_18,18,2018-01-27,Recoletas Salud San Pablo Burgos,Unicaja,home,78,85,0,60,9,5,14,67,12,13,12
+17901,2017_18,18,2018-01-27,MoraBanc Andorra,Montakit Fuenlabrada,away,85,77,0,59,36,9,9,64,22,13,14
+17901,2017_18,18,2018-01-27,Montakit Fuenlabrada,MoraBanc Andorra,home,77,85,0,64,22,13,14,59,36,9,9
+17902,2017_18,18,2018-01-28,Delteco GBC,Coosur Real Betis,away,94,88,0,60,21,8,8,65,18,13,9
+17902,2017_18,18,2018-01-28,Coosur Real Betis,Delteco GBC,home,88,94,0,65,18,13,9,60,21,8,8
+17903,2017_18,19,2018-02-04,Coosur Real Betis,Valencia Basket,away,67,103,0,57,13,1,14,64,24,7,9
+17903,2017_18,19,2018-02-04,Valencia Basket,Coosur Real Betis,home,103,67,0,64,24,7,9,57,13,1,14
+17904,2017_18,19,2018-02-04,FC Barcelona,Baskonia,away,72,96,0,65,28,14,18,61,25,3,9
+17904,2017_18,19,2018-02-04,Baskonia,FC Barcelona,home,96,72,0,61,25,3,9,65,28,14,18
+17905,2017_18,19,2018-02-04,UCAM Murcia,Unicaja,away,67,78,0,54,30,10,15,61,30,12,10
+17905,2017_18,19,2018-02-04,Unicaja,UCAM Murcia,home,78,67,0,61,30,12,10,54,30,10,15
+17906,2017_18,19,2018-02-04,Montakit Fuenlabrada,Surne Bilbao Basket,away,83,77,0,49,20,4,15,45,35,5,11
+17906,2017_18,19,2018-02-04,Surne Bilbao Basket,Montakit Fuenlabrada,home,77,83,0,45,35,5,11,49,20,4,15
+17907,2017_18,19,2018-02-03,Recoletas Salud San Pablo Burgos,La Laguna Tenerife,away,76,84,0,68,15,11,12,56,23,6,12
+17907,2017_18,19,2018-02-03,La Laguna Tenerife,Recoletas Salud San Pablo Burgos,home,84,76,0,56,23,6,12,68,15,11,12
+17908,2017_18,19,2018-02-04,Movistar Estudiantes,Joventut,away,96,93,0,56,25,10,19,72,26,14,10
+17908,2017_18,19,2018-02-04,Joventut,Movistar Estudiantes,home,93,96,0,72,26,14,10,56,25,10,19
+17909,2017_18,19,2018-02-03,Real Madrid,MoraBanc Andorra,away,87,89,0,61,30,10,12,62,23,8,9
+17909,2017_18,19,2018-02-03,MoraBanc Andorra,Real Madrid,home,89,87,0,62,23,8,9,61,30,10,12
+17910,2017_18,19,2018-02-04,Gran Canaria,Delteco GBC,away,87,80,0,64,23,11,10,64,16,11,16
+17910,2017_18,19,2018-02-04,Delteco GBC,Gran Canaria,home,80,87,0,64,16,11,16,64,23,11,10
+17911,2017_18,19,2018-02-04,Monbus Obradoiro,Casademont Zaragoza,away,87,93,0,68,26,12,12,60,35,7,10
+17911,2017_18,19,2018-02-04,Casademont Zaragoza,Monbus Obradoiro,home,93,87,0,60,35,7,10,68,26,12,12
+17912,2017_18,20,2018-02-11,La Laguna Tenerife,Real Madrid,away,76,89,0,57,10,3,16,61,23,6,11
+17912,2017_18,20,2018-02-11,Real Madrid,La Laguna Tenerife,home,89,76,0,61,23,6,11,57,10,3,16
+17913,2017_18,20,2018-02-10,Unicaja,Baskonia,away,78,96,0,58,29,8,7,60,18,5,6
+17913,2017_18,20,2018-02-10,Baskonia,Unicaja,home,96,78,0,60,18,5,6,58,29,8,7
+17914,2017_18,20,2018-02-11,Surne Bilbao Basket,FC Barcelona,away,58,90,0,54,20,5,15,65,10,8,13
+17914,2017_18,20,2018-02-11,FC Barcelona,Surne Bilbao Basket,home,90,58,0,65,10,8,13,54,20,5,15
+17915,2017_18,20,2018-02-10,Joventut,MoraBanc Andorra,away,81,88,0,62,22,8,11,65,23,8,8
+17915,2017_18,20,2018-02-10,MoraBanc Andorra,Joventut,home,88,81,0,65,23,8,8,62,22,8,11
+17916,2017_18,20,2018-02-11,Coosur Real Betis,Movistar Estudiantes,away,83,89,0,71,18,12,13,74,14,10,10
+17916,2017_18,20,2018-02-11,Movistar Estudiantes,Coosur Real Betis,home,89,83,0,74,14,10,10,71,18,12,13
+17917,2017_18,20,2018-02-11,Valencia Basket,Recoletas Salud San Pablo Burgos,away,90,76,0,64,12,6,9,68,16,11,8
+17917,2017_18,20,2018-02-11,Recoletas Salud San Pablo Burgos,Valencia Basket,home,76,90,0,68,16,11,8,64,12,6,9
+17918,2017_18,20,2018-02-11,Gran Canaria,Montakit Fuenlabrada,away,86,66,0,65,22,12,11,54,9,8,22
+17918,2017_18,20,2018-02-11,Montakit Fuenlabrada,Gran Canaria,home,66,86,0,54,9,8,22,65,22,12,11
+17919,2017_18,20,2018-02-10,UCAM Murcia,Monbus Obradoiro,away,68,70,1,67,25,12,9,67,17,10,14
+17919,2017_18,20,2018-02-10,Monbus Obradoiro,UCAM Murcia,home,70,68,1,67,17,10,14,67,25,12,9
+17920,2017_18,20,2018-02-11,Casademont Zaragoza,Delteco GBC,away,99,94,0,61,32,5,10,79,29,17,10
+17920,2017_18,20,2018-02-11,Delteco GBC,Casademont Zaragoza,home,94,99,0,79,29,17,10,61,32,5,10
+17921,2017_18,21,2018-03-04,Recoletas Salud San Pablo Burgos,Real Madrid,away,81,96,0,68,24,9,14,72,25,14,13
+17921,2017_18,21,2018-03-04,Real Madrid,Recoletas Salud San Pablo Burgos,home,96,81,0,72,25,14,13,68,24,9,14
+17922,2017_18,21,2018-03-04,Delteco GBC,Surne Bilbao Basket,away,74,71,0,67,21,14,9,50,15,4,16
+17922,2017_18,21,2018-03-04,Surne Bilbao Basket,Delteco GBC,home,71,74,0,50,15,4,16,67,21,14,9
+17923,2017_18,21,2018-03-04,Valencia Basket,Gran Canaria,away,78,87,0,60,10,6,12,57,23,9,11
+17923,2017_18,21,2018-03-04,Gran Canaria,Valencia Basket,home,87,78,0,57,23,9,11,60,10,6,12
+17924,2017_18,21,2018-03-04,Baskonia,Casademont Zaragoza,away,98,74,0,65,28,7,11,74,12,8,9
+17924,2017_18,21,2018-03-04,Casademont Zaragoza,Baskonia,home,74,98,0,74,12,8,9,65,28,7,11
+17925,2017_18,21,2018-03-04,Unicaja,Movistar Estudiantes,away,72,57,0,72,8,12,12,66,14,8,12
+17925,2017_18,21,2018-03-04,Movistar Estudiantes,Unicaja,home,57,72,0,66,14,8,12,72,8,12,12
+17926,2017_18,21,2018-03-03,FC Barcelona,UCAM Murcia,away,61,55,0,58,14,6,12,58,23,11,14
+17926,2017_18,21,2018-03-03,UCAM Murcia,FC Barcelona,home,55,61,0,58,23,11,14,58,14,6,12
+17927,2017_18,21,2018-03-04,MoraBanc Andorra,La Laguna Tenerife,away,78,69,0,66,15,9,13,54,29,7,14
+17927,2017_18,21,2018-03-04,La Laguna Tenerife,MoraBanc Andorra,home,69,78,0,54,29,7,14,66,15,9,13
+17928,2017_18,21,2018-03-04,Joventut,Coosur Real Betis,away,81,86,0,69,13,10,9,56,17,4,13
+17928,2017_18,21,2018-03-04,Coosur Real Betis,Joventut,home,86,81,0,56,17,4,13,69,13,10,9
+17929,2017_18,21,2018-03-04,Montakit Fuenlabrada,Monbus Obradoiro,away,81,78,0,61,24,8,9,55,28,10,15
+17929,2017_18,21,2018-03-04,Monbus Obradoiro,Montakit Fuenlabrada,home,78,81,0,55,28,10,15,61,24,8,9
+17930,2017_18,22,2018-03-11,Surne Bilbao Basket,Valencia Basket,away,67,87,0,59,23,12,12,57,20,9,11
+17930,2017_18,22,2018-03-11,Valencia Basket,Surne Bilbao Basket,home,87,67,0,57,20,9,11,59,23,12,12
+17931,2017_18,22,2018-03-11,Delteco GBC,Unicaja,away,88,114,0,76,26,16,9,68,27,13,10
+17931,2017_18,22,2018-03-11,Unicaja,Delteco GBC,home,114,88,0,68,27,13,10,76,26,16,9
+17932,2017_18,22,2018-03-11,Monbus Obradoiro,Gran Canaria,away,64,82,0,49,18,8,21,64,25,9,10
+17932,2017_18,22,2018-03-11,Gran Canaria,Monbus Obradoiro,home,82,64,0,64,25,9,10,49,18,8,21
+17933,2017_18,22,2018-03-11,Recoletas Salud San Pablo Burgos,UCAM Murcia,away,64,67,0,60,15,14,14,64,15,14,9
+17933,2017_18,22,2018-03-11,UCAM Murcia,Recoletas Salud San Pablo Burgos,home,67,64,0,64,15,14,9,60,15,14,14
+17934,2017_18,22,2018-03-11,Casademont Zaragoza,La Laguna Tenerife,away,94,100,1,67,20,5,9,67,22,11,13
+17934,2017_18,22,2018-03-11,La Laguna Tenerife,Casademont Zaragoza,home,100,94,1,67,22,11,13,67,20,5,9
+17935,2017_18,22,2018-03-11,Real Madrid,FC Barcelona,away,72,94,0,50,38,4,12,70,15,6,6
+17935,2017_18,22,2018-03-11,FC Barcelona,Real Madrid,home,94,72,0,70,15,6,6,50,38,4,12
+17936,2017_18,22,2018-03-11,Baskonia,Joventut,away,75,61,0,54,16,9,22,62,19,7,10
+17936,2017_18,22,2018-03-11,Joventut,Baskonia,home,61,75,0,62,19,7,10,54,16,9,22
+17937,2017_18,22,2018-03-11,MoraBanc Andorra,Coosur Real Betis,away,100,89,0,74,23,15,12,71,13,7,14
+17937,2017_18,22,2018-03-11,Coosur Real Betis,MoraBanc Andorra,home,89,100,0,71,13,7,14,74,23,15,12
+17938,2017_18,22,2018-03-10,Movistar Estudiantes,Montakit Fuenlabrada,away,81,87,0,60,37,9,10,68,15,13,12
+17938,2017_18,22,2018-03-10,Montakit Fuenlabrada,Movistar Estudiantes,home,87,81,0,68,15,13,12,60,37,9,10
+17939,2017_18,23,2018-03-18,La Laguna Tenerife,Valencia Basket,away,61,74,0,58,15,8,9,52,20,8,14
+17939,2017_18,23,2018-03-18,Valencia Basket,La Laguna Tenerife,home,74,61,0,52,20,8,14,58,15,8,9
+17940,2017_18,23,2018-03-18,Gran Canaria,Baskonia,away,66,91,0,66,15,8,12,65,16,5,10
+17940,2017_18,23,2018-03-18,Baskonia,Gran Canaria,home,91,66,0,65,16,5,10,66,15,8,12
+17941,2017_18,23,2018-03-18,Montakit Fuenlabrada,Unicaja,away,86,82,0,61,16,9,14,71,25,12,8
+17941,2017_18,23,2018-03-18,Unicaja,Montakit Fuenlabrada,home,82,86,0,71,25,12,8,61,16,9,14
+17942,2017_18,23,2018-03-18,UCAM Murcia,MoraBanc Andorra,away,70,90,0,59,14,9,15,57,27,9,12
+17942,2017_18,23,2018-03-18,MoraBanc Andorra,UCAM Murcia,home,90,70,0,57,27,9,12,59,14,9,15
+17943,2017_18,23,2018-03-18,Coosur Real Betis,Surne Bilbao Basket,away,79,93,0,55,17,5,16,72,8,12,11
+17943,2017_18,23,2018-03-18,Surne Bilbao Basket,Coosur Real Betis,home,93,79,0,72,8,12,11,55,17,5,16
+17944,2017_18,23,2018-03-17,Monbus Obradoiro,Joventut,away,63,62,0,49,27,9,17,59,20,17,20
+17944,2017_18,23,2018-03-17,Joventut,Monbus Obradoiro,home,62,63,0,59,20,17,20,49,27,9,17
+17945,2017_18,23,2018-03-17,Real Madrid,Casademont Zaragoza,away,96,81,0,65,16,8,15,69,10,7,11
+17945,2017_18,23,2018-03-17,Casademont Zaragoza,Real Madrid,home,81,96,0,69,10,7,11,65,16,8,15
+17946,2017_18,23,2018-03-18,FC Barcelona,Recoletas Salud San Pablo Burgos,away,103,101,1,72,25,6,12,82,15,10,11
+17946,2017_18,23,2018-03-18,Recoletas Salud San Pablo Burgos,FC Barcelona,home,101,103,1,82,15,10,11,72,25,6,12
+17947,2017_18,23,2018-03-18,Movistar Estudiantes,Delteco GBC,away,91,101,0,53,31,3,13,74,28,10,8
+17947,2017_18,23,2018-03-18,Delteco GBC,Movistar Estudiantes,home,101,91,0,74,28,10,8,53,31,3,13
+17948,2017_18,24,2018-03-25,Montakit Fuenlabrada,Baskonia,away,63,95,0,66,11,7,11,60,21,7,12
+17948,2017_18,24,2018-03-25,Baskonia,Montakit Fuenlabrada,home,95,63,0,60,21,7,12,66,11,7,11
+17949,2017_18,24,2018-03-25,MoraBanc Andorra,Gran Canaria,away,95,99,0,58,25,6,14,66,24,11,11
+17949,2017_18,24,2018-03-25,Gran Canaria,MoraBanc Andorra,home,99,95,0,66,24,11,11,58,25,6,14
+17950,2017_18,24,2018-03-24,Delteco GBC,UCAM Murcia,away,69,83,0,60,22,7,12,63,25,11,11
+17950,2017_18,24,2018-03-24,UCAM Murcia,Delteco GBC,home,83,69,0,63,25,11,11,60,22,7,12
+17951,2017_18,24,2018-03-24,Joventut,La Laguna Tenerife,away,75,77,0,58,17,9,15,60,16,8,12
+17951,2017_18,24,2018-03-24,La Laguna Tenerife,Joventut,home,77,75,0,60,16,8,12,58,17,9,15
+17952,2017_18,24,2018-03-25,Recoletas Salud San Pablo Burgos,Movistar Estudiantes,away,76,100,0,63,27,8,13,76,20,10,5
+17952,2017_18,24,2018-03-25,Movistar Estudiantes,Recoletas Salud San Pablo Burgos,home,100,76,0,76,20,10,5,63,27,8,13
+17953,2017_18,24,2018-03-25,Valencia Basket,Real Madrid,away,71,83,0,58,18,11,15,64,21,12,13
+17953,2017_18,24,2018-03-25,Real Madrid,Valencia Basket,home,83,71,0,64,21,12,13,58,18,11,15
+17954,2017_18,24,2018-03-25,Unicaja,Coosur Real Betis,away,88,89,0,63,17,11,10,70,9,9,12
+17954,2017_18,24,2018-03-25,Coosur Real Betis,Unicaja,home,89,88,0,70,9,9,12,63,17,11,10
+17955,2017_18,24,2018-03-25,FC Barcelona,Monbus Obradoiro,away,76,73,0,48,23,5,15,54,17,4,13
+17955,2017_18,24,2018-03-25,Monbus Obradoiro,FC Barcelona,home,73,76,0,54,17,4,13,48,23,5,15
+17956,2017_18,24,2018-03-25,Surne Bilbao Basket,Casademont Zaragoza,away,61,81,0,60,23,5,10,54,22,5,12
+17956,2017_18,24,2018-03-25,Casademont Zaragoza,Surne Bilbao Basket,home,81,61,0,54,22,5,12,60,23,5,10
+17957,2017_18,25,2018-04-01,UCAM Murcia,Valencia Basket,away,84,73,0,61,17,11,13,60,24,7,9
+17957,2017_18,25,2018-04-01,Valencia Basket,UCAM Murcia,home,73,84,0,60,24,7,9,61,17,11,13
+17958,2017_18,25,2018-04-01,Movistar Estudiantes,FC Barcelona,away,100,95,0,66,20,10,10,65,33,13,8
+17958,2017_18,25,2018-04-01,FC Barcelona,Movistar Estudiantes,home,95,100,0,65,33,13,8,66,20,10,10
+17959,2017_18,25,2018-03-31,Casademont Zaragoza,MoraBanc Andorra,away,77,100,0,62,14,7,17,62,26,7,15
+17959,2017_18,25,2018-03-31,MoraBanc Andorra,Casademont Zaragoza,home,100,77,0,62,26,7,15,62,14,7,17
+17960,2017_18,25,2018-04-01,La Laguna Tenerife,Surne Bilbao Basket,away,74,67,0,49,23,8,21,60,23,7,12
+17960,2017_18,25,2018-04-01,Surne Bilbao Basket,La Laguna Tenerife,home,67,74,0,60,23,7,12,49,23,8,21
+17961,2017_18,25,2018-04-01,Coosur Real Betis,Montakit Fuenlabrada,away,94,91,0,56,29,7,10,65,24,8,10
+17961,2017_18,25,2018-04-01,Montakit Fuenlabrada,Coosur Real Betis,home,91,94,0,65,24,8,10,56,29,7,10
+17962,2017_18,25,2018-04-01,Real Madrid,Unicaja,away,89,88,0,60,14,7,14,68,17,11,9
+17962,2017_18,25,2018-04-01,Unicaja,Real Madrid,home,88,89,0,68,17,11,9,60,14,7,14
+17963,2017_18,25,2018-03-31,Baskonia,Delteco GBC,away,84,72,0,60,11,5,15,65,10,8,12
+17963,2017_18,25,2018-03-31,Delteco GBC,Baskonia,home,72,84,0,65,10,8,12,60,11,5,15
+17964,2017_18,25,2018-04-01,Gran Canaria,Joventut,away,91,92,1,71,27,12,12,67,24,10,14
+17964,2017_18,25,2018-04-01,Joventut,Gran Canaria,home,92,91,1,67,24,10,14,71,27,12,12
+17965,2017_18,25,2018-04-01,Monbus Obradoiro,Recoletas Salud San Pablo Burgos,away,77,86,0,65,18,16,18,63,26,10,12
+17965,2017_18,25,2018-04-01,Recoletas Salud San Pablo Burgos,Monbus Obradoiro,home,86,77,0,63,26,10,12,65,18,16,18
+17966,2017_18,26,2018-04-08,Monbus Obradoiro,Real Madrid,away,65,78,0,69,10,11,12,61,20,11,11
+17966,2017_18,26,2018-04-08,Real Madrid,Monbus Obradoiro,home,78,65,0,61,20,11,11,69,10,11,12
+17967,2017_18,26,2018-04-07,MoraBanc Andorra,Baskonia,away,75,88,0,68,17,11,13,59,16,7,15
+17967,2017_18,26,2018-04-07,Baskonia,MoraBanc Andorra,home,88,75,0,59,16,7,15,68,17,11,13
+17968,2017_18,26,2018-04-08,La Laguna Tenerife,Unicaja,away,62,72,0,65,11,13,11,59,10,8,14
+17968,2017_18,26,2018-04-08,Unicaja,La Laguna Tenerife,home,72,62,0,59,10,8,14,65,11,13,11
+17969,2017_18,26,2018-04-08,Recoletas Salud San Pablo Burgos,Montakit Fuenlabrada,away,79,69,0,65,16,7,10,62,21,10,14
+17969,2017_18,26,2018-04-08,Montakit Fuenlabrada,Recoletas Salud San Pablo Burgos,home,69,79,0,62,21,10,14,65,16,7,10
+17970,2017_18,26,2018-04-08,Valencia Basket,Delteco GBC,away,95,77,0,53,21,7,14,64,5,4,11
+17970,2017_18,26,2018-04-08,Delteco GBC,Valencia Basket,home,77,95,0,64,5,4,11,53,21,7,14
+17971,2017_18,26,2018-04-08,FC Barcelona,Gran Canaria,away,93,77,0,68,7,9,8,60,8,5,13
+17971,2017_18,26,2018-04-08,Gran Canaria,FC Barcelona,home,77,93,0,60,8,5,13,68,7,9,8
+17972,2017_18,26,2018-04-08,Surne Bilbao Basket,Movistar Estudiantes,away,84,96,0,61,15,7,13,72,22,11,7
+17972,2017_18,26,2018-04-08,Movistar Estudiantes,Surne Bilbao Basket,home,96,84,0,72,22,11,7,61,15,7,13
+17973,2017_18,26,2018-04-08,UCAM Murcia,Coosur Real Betis,away,102,87,0,66,24,16,14,61,24,6,8
+17973,2017_18,26,2018-04-08,Coosur Real Betis,UCAM Murcia,home,87,102,0,61,24,6,8,66,24,16,14
+17974,2017_18,26,2018-04-07,Joventut,Casademont Zaragoza,away,92,86,0,73,18,11,4,63,18,8,10
+17974,2017_18,26,2018-04-07,Casademont Zaragoza,Joventut,home,86,92,0,63,18,8,10,73,18,11,4
+17975,2017_18,27,2018-04-12,Baskonia,Valencia Basket,away,77,81,0,61,14,6,9,63,27,11,9
+17975,2017_18,27,2018-04-12,Valencia Basket,Baskonia,home,81,77,0,63,27,11,9,61,14,6,9
+17976,2017_18,27,2018-04-10,Joventut,Real Madrid,away,70,87,0,65,15,6,14,64,22,6,13
+17976,2017_18,27,2018-04-10,Real Madrid,Joventut,home,87,70,0,64,22,6,13,65,15,6,14
+17977,2017_18,27,2018-04-11,Coosur Real Betis,FC Barcelona,away,56,121,0,54,19,8,19,78,7,11,7
+17977,2017_18,27,2018-04-11,FC Barcelona,Coosur Real Betis,home,121,56,0,78,7,11,7,54,19,8,19
+17978,2017_18,27,2018-04-12,Montakit Fuenlabrada,UCAM Murcia,away,62,82,0,57,18,8,11,61,31,15,8
+17978,2017_18,27,2018-04-12,UCAM Murcia,Montakit Fuenlabrada,home,82,62,0,61,31,15,8,57,18,8,11
+17979,2017_18,27,2018-04-11,Delteco GBC,La Laguna Tenerife,away,92,88,0,71,19,9,11,66,15,11,12
+17979,2017_18,27,2018-04-11,La Laguna Tenerife,Delteco GBC,home,88,92,0,66,15,11,12,71,19,9,11
+17980,2017_18,27,2018-04-11,Casademont Zaragoza,Movistar Estudiantes,away,74,84,0,69,20,12,14,55,32,10,16
+17980,2017_18,27,2018-04-11,Movistar Estudiantes,Casademont Zaragoza,home,84,74,0,55,32,10,16,69,20,12,14
+17981,2017_18,27,2018-04-11,Unicaja,Monbus Obradoiro,away,97,91,1,66,19,9,16,69,14,8,11
+17981,2017_18,27,2018-04-11,Monbus Obradoiro,Unicaja,home,91,97,1,69,14,8,11,66,19,9,16
+17982,2017_18,27,2018-04-11,Gran Canaria,Surne Bilbao Basket,away,78,92,0,57,29,8,11,57,25,7,10
+17982,2017_18,27,2018-04-11,Surne Bilbao Basket,Gran Canaria,home,92,78,0,57,25,7,10,57,29,8,11
+17983,2017_18,27,2018-04-11,MoraBanc Andorra,Recoletas Salud San Pablo Burgos,away,86,92,0,67,31,11,12,60,30,7,14
+17983,2017_18,27,2018-04-11,Recoletas Salud San Pablo Burgos,MoraBanc Andorra,home,92,86,0,60,30,7,14,67,31,11,12
+17984,2017_18,28,2018-04-15,La Laguna Tenerife,Baskonia,away,94,100,0,67,17,7,11,61,32,6,12
+17984,2017_18,28,2018-04-15,Baskonia,La Laguna Tenerife,home,100,94,0,61,32,6,12,67,17,7,11
+17985,2017_18,28,2018-04-15,FC Barcelona,Unicaja,away,78,80,0,52,10,2,13,66,11,12,6
+17985,2017_18,28,2018-04-15,Unicaja,FC Barcelona,home,80,78,0,66,11,12,6,52,10,2,13
+17986,2017_18,28,2018-04-15,UCAM Murcia,Gran Canaria,away,71,83,0,56,22,7,10,59,24,16,18
+17986,2017_18,28,2018-04-15,Gran Canaria,UCAM Murcia,home,83,71,0,59,24,16,18,56,22,7,10
+17987,2017_18,28,2018-04-15,Movistar Estudiantes,MoraBanc Andorra,away,65,78,0,70,18,15,15,69,16,8,9
+17987,2017_18,28,2018-04-15,MoraBanc Andorra,Movistar Estudiantes,home,78,65,0,69,16,8,9,70,18,15,15
+17988,2017_18,28,2018-04-14,Valencia Basket,Casademont Zaragoza,away,97,74,0,64,17,10,12,68,15,7,11
+17988,2017_18,28,2018-04-14,Casademont Zaragoza,Valencia Basket,home,74,97,0,68,15,7,11,64,17,10,12
+17989,2017_18,28,2018-04-14,Real Madrid,Montakit Fuenlabrada,away,90,75,0,62,22,11,12,72,9,10,9
+17989,2017_18,28,2018-04-14,Montakit Fuenlabrada,Real Madrid,home,75,90,0,72,9,10,9,62,22,11,12
+17990,2017_18,28,2018-04-15,Surne Bilbao Basket,Joventut,away,56,84,0,64,16,16,12,59,18,9,10
+17990,2017_18,28,2018-04-15,Joventut,Surne Bilbao Basket,home,84,56,0,59,18,9,10,64,16,16,12
+17991,2017_18,28,2018-04-15,Monbus Obradoiro,Delteco GBC,away,99,107,1,66,26,8,12,71,23,12,9
+17991,2017_18,28,2018-04-15,Delteco GBC,Monbus Obradoiro,home,107,99,1,71,23,12,9,66,26,8,12
+17992,2017_18,28,2018-04-15,Recoletas Salud San Pablo Burgos,Coosur Real Betis,away,101,96,0,71,27,9,10,68,23,6,11
+17992,2017_18,28,2018-04-15,Coosur Real Betis,Recoletas Salud San Pablo Burgos,home,96,101,0,68,23,6,11,71,27,9,10
+17993,2017_18,29,2018-04-22,Unicaja,Valencia Basket,away,73,74,0,62,13,5,8,62,16,10,8
+17993,2017_18,29,2018-04-22,Valencia Basket,Unicaja,home,74,73,0,62,16,10,8,62,13,5,8
+17994,2017_18,29,2018-05-03,Baskonia,Real Madrid,away,89,101,0,64,12,6,17,67,24,7,12
+17994,2017_18,29,2018-05-03,Real Madrid,Baskonia,home,101,89,0,67,24,7,12,64,12,6,17
+17995,2017_18,29,2018-04-22,Delteco GBC,FC Barcelona,away,74,89,0,64,6,7,16,62,21,7,10
+17995,2017_18,29,2018-04-22,FC Barcelona,Delteco GBC,home,89,74,0,62,21,7,10,64,6,7,16
+17996,2017_18,29,2018-04-22,Casademont Zaragoza,UCAM Murcia,away,73,84,0,63,18,5,8,69,13,11,9
+17996,2017_18,29,2018-04-22,UCAM Murcia,Casademont Zaragoza,home,84,73,0,69,13,11,9,63,18,5,8
+17997,2017_18,29,2018-04-21,Montakit Fuenlabrada,La Laguna Tenerife,away,75,83,0,57,24,7,8,54,28,7,11
+17997,2017_18,29,2018-04-21,La Laguna Tenerife,Montakit Fuenlabrada,home,83,75,0,54,28,7,11,57,24,7,8
+17998,2017_18,29,2018-04-22,Gran Canaria,Coosur Real Betis,away,77,76,0,62,18,10,10,62,15,5,9
+17998,2017_18,29,2018-04-22,Coosur Real Betis,Gran Canaria,home,76,77,0,62,15,5,9,62,18,10,10
+17999,2017_18,29,2018-04-22,MoraBanc Andorra,Surne Bilbao Basket,away,82,72,0,72,9,12,8,58,16,9,17
+17999,2017_18,29,2018-04-22,Surne Bilbao Basket,MoraBanc Andorra,home,72,82,0,58,16,9,17,72,9,12,8
+18000,2017_18,29,2018-04-22,Joventut,Recoletas Salud San Pablo Burgos,away,80,79,0,54,27,8,12,62,31,12,11
+18000,2017_18,29,2018-04-22,Recoletas Salud San Pablo Burgos,Joventut,home,79,80,0,62,31,12,11,54,27,8,12
+18001,2017_18,29,2018-04-21,Movistar Estudiantes,Monbus Obradoiro,away,116,112,1,69,37,8,8,63,40,9,12
+18001,2017_18,29,2018-04-21,Monbus Obradoiro,Movistar Estudiantes,home,112,116,1,63,40,9,12,69,37,8,8
+18002,2017_18,30,2018-04-29,UCAM Murcia,Baskonia,away,85,87,0,65,26,5,8,65,28,11,11
+18002,2017_18,30,2018-04-29,Baskonia,UCAM Murcia,home,87,85,0,65,28,11,11,65,26,5,8
+18003,2017_18,30,2018-04-29,Surne Bilbao Basket,Unicaja,away,78,93,0,70,5,9,8,61,22,8,11
+18003,2017_18,30,2018-04-29,Unicaja,Surne Bilbao Basket,home,93,78,0,61,22,8,11,70,5,9,8
+18004,2017_18,30,2018-04-29,La Laguna Tenerife,Gran Canaria,away,76,68,0,62,22,9,7,62,15,12,18
+18004,2017_18,30,2018-04-29,Gran Canaria,La Laguna Tenerife,home,68,76,0,62,15,12,18,62,22,9,7
+18005,2017_18,30,2018-04-28,Monbus Obradoiro,MoraBanc Andorra,away,96,93,0,62,27,11,9,60,30,9,14
+18005,2017_18,30,2018-04-28,MoraBanc Andorra,Monbus Obradoiro,home,93,96,0,60,30,9,14,62,27,11,9
+18006,2017_18,30,2018-04-29,Coosur Real Betis,Casademont Zaragoza,away,78,81,0,63,17,6,10,67,17,7,8
+18006,2017_18,30,2018-04-29,Casademont Zaragoza,Coosur Real Betis,home,81,78,0,67,17,7,8,63,17,6,10
+18007,2017_18,30,2018-04-29,Recoletas Salud San Pablo Burgos,Delteco GBC,away,71,63,0,56,21,8,17,65,18,11,16
+18007,2017_18,30,2018-04-29,Delteco GBC,Recoletas Salud San Pablo Burgos,home,63,71,0,65,18,11,16,56,21,8,17
+18008,2017_18,30,2018-04-29,Valencia Basket,Joventut,away,75,77,0,67,10,12,9,60,8,6,10
+18008,2017_18,30,2018-04-29,Joventut,Valencia Basket,home,77,75,0,60,8,6,10,67,10,12,9
+18009,2017_18,30,2018-04-29,Real Madrid,Movistar Estudiantes,away,92,75,0,64,15,11,16,72,17,9,7
+18009,2017_18,30,2018-04-29,Movistar Estudiantes,Real Madrid,home,75,92,0,72,17,9,7,64,15,11,16
+18010,2017_18,30,2018-04-28,FC Barcelona,Montakit Fuenlabrada,away,93,75,0,55,28,9,16,65,10,7,16
+18010,2017_18,30,2018-04-28,Montakit Fuenlabrada,FC Barcelona,home,75,93,0,65,10,7,16,55,28,9,16
+18011,2017_18,31,2018-05-06,Delteco GBC,Real Madrid,away,75,87,0,77,3,13,15,55,15,3,19
+18011,2017_18,31,2018-05-06,Real Madrid,Delteco GBC,home,87,75,0,55,15,3,19,77,3,13,15
+18012,2017_18,31,2018-05-05,MoraBanc Andorra,FC Barcelona,away,70,94,0,69,9,9,17,67,18,9,9
+18012,2017_18,31,2018-05-05,FC Barcelona,MoraBanc Andorra,home,94,70,0,67,18,9,9,69,9,9,17
+18013,2017_18,31,2018-04-25,Joventut,UCAM Murcia,away,92,75,0,61,23,7,12,59,18,5,13
+18013,2017_18,31,2018-04-25,UCAM Murcia,Joventut,home,75,92,0,59,18,5,13,61,23,7,12
+18014,2017_18,31,2018-05-06,Valencia Basket,Montakit Fuenlabrada,away,76,61,0,49,22,2,11,54,14,5,15
+18014,2017_18,31,2018-05-06,Montakit Fuenlabrada,Valencia Basket,home,61,76,0,54,14,5,15,49,22,2,11
+18015,2017_18,31,2018-05-06,Baskonia,Coosur Real Betis,away,106,62,0,66,14,7,17,68,15,8,14
+18015,2017_18,31,2018-05-06,Coosur Real Betis,Baskonia,home,62,106,0,68,15,8,14,66,14,7,17
+18016,2017_18,31,2018-05-06,Unicaja,Gran Canaria,away,55,76,0,59,10,8,18,65,10,6,10
+18016,2017_18,31,2018-05-06,Gran Canaria,Unicaja,home,76,55,0,65,10,6,10,59,10,8,18
+18017,2017_18,31,2018-05-05,Surne Bilbao Basket,Monbus Obradoiro,away,69,70,0,49,20,5,11,56,16,8,8
+18017,2017_18,31,2018-05-05,Monbus Obradoiro,Surne Bilbao Basket,home,70,69,0,56,16,8,8,49,20,5,11
+18018,2017_18,31,2018-05-06,La Laguna Tenerife,Movistar Estudiantes,away,92,97,0,62,25,10,11,75,25,18,8
+18018,2017_18,31,2018-05-06,Movistar Estudiantes,La Laguna Tenerife,home,97,92,0,75,25,18,8,62,25,10,11
+18019,2017_18,31,2018-05-06,Casademont Zaragoza,Recoletas Salud San Pablo Burgos,away,88,96,0,70,21,9,14,66,22,4,13
+18019,2017_18,31,2018-05-06,Recoletas Salud San Pablo Burgos,Casademont Zaragoza,home,96,88,0,66,22,4,13,70,21,9,14
+18020,2017_18,32,2018-05-13,Movistar Estudiantes,Valencia Basket,away,69,93,0,69,20,11,7,66,13,6,7
+18020,2017_18,32,2018-05-13,Valencia Basket,Movistar Estudiantes,home,93,69,0,66,13,6,7,69,20,11,7
+18021,2017_18,32,2018-05-12,Casademont Zaragoza,Unicaja,away,83,82,0,65,15,7,12,58,17,2,12
+18021,2017_18,32,2018-05-12,Unicaja,Casademont Zaragoza,home,82,83,0,58,17,2,12,65,15,7,12
+18022,2017_18,32,2018-05-13,Delteco GBC,MoraBanc Andorra,away,81,94,0,61,20,9,19,65,24,7,9
+18022,2017_18,32,2018-05-13,MoraBanc Andorra,Delteco GBC,home,94,81,0,65,24,7,9,61,20,9,19
+18023,2017_18,32,2018-05-13,Montakit Fuenlabrada,Joventut,away,87,95,0,67,10,6,11,58,28,5,12
+18023,2017_18,32,2018-05-13,Joventut,Montakit Fuenlabrada,home,95,87,0,58,28,5,12,67,10,6,11
+18024,2017_18,32,2018-05-12,Coosur Real Betis,Monbus Obradoiro,away,70,89,0,67,6,13,17,64,18,5,9
+18024,2017_18,32,2018-05-12,Monbus Obradoiro,Coosur Real Betis,home,89,70,0,64,18,5,9,67,6,13,17
+18025,2017_18,32,2018-05-12,Real Madrid,UCAM Murcia,away,63,61,0,62,13,5,10,72,11,15,15
+18025,2017_18,32,2018-05-12,UCAM Murcia,Real Madrid,home,61,63,0,72,11,15,15,62,13,5,10
+18026,2017_18,32,2018-05-13,Baskonia,Surne Bilbao Basket,away,78,74,0,55,18,5,15,60,23,3,9
+18026,2017_18,32,2018-05-13,Surne Bilbao Basket,Baskonia,home,74,78,0,60,23,3,9,55,18,5,15
+18027,2017_18,32,2018-05-13,FC Barcelona,La Laguna Tenerife,away,81,86,0,61,17,6,8,60,17,10,10
+18027,2017_18,32,2018-05-13,La Laguna Tenerife,FC Barcelona,home,86,81,0,60,17,10,10,61,17,6,8
+18028,2017_18,32,2018-05-12,Gran Canaria,Recoletas Salud San Pablo Burgos,away,98,89,0,72,27,16,10,70,19,8,12
+18028,2017_18,32,2018-05-12,Recoletas Salud San Pablo Burgos,Gran Canaria,home,89,98,0,70,19,8,12,72,27,16,10
+18029,2017_18,33,2018-05-19,FC Barcelona,Valencia Basket,away,71,70,0,60,14,9,7,49,19,3,12
+18029,2017_18,33,2018-05-19,Valencia Basket,FC Barcelona,home,70,71,0,49,19,3,12,60,14,9,7
+18030,2017_18,33,2018-05-09,Coosur Real Betis,Real Madrid,away,89,104,0,69,21,6,11,69,15,8,16
+18030,2017_18,33,2018-05-09,Real Madrid,Coosur Real Betis,home,104,89,0,69,15,8,16,69,21,6,11
+18031,2017_18,33,2018-05-19,Recoletas Salud San Pablo Burgos,Baskonia,away,82,102,0,69,19,9,12,66,27,8,11
+18031,2017_18,33,2018-05-19,Baskonia,Recoletas Salud San Pablo Burgos,home,102,82,0,66,27,8,11,69,19,9,12
+18032,2017_18,33,2018-05-19,MoraBanc Andorra,Unicaja,away,86,87,0,59,16,5,12,58,25,8,9
+18032,2017_18,33,2018-05-19,Unicaja,MoraBanc Andorra,home,87,86,0,58,25,8,9,59,16,5,12
+18033,2017_18,33,2018-05-20,UCAM Murcia,Surne Bilbao Basket,away,82,73,0,63,20,8,10,59,25,10,7
+18033,2017_18,33,2018-05-20,Surne Bilbao Basket,UCAM Murcia,home,73,82,0,59,25,10,7,63,20,8,10
+18034,2017_18,33,2018-05-19,Monbus Obradoiro,La Laguna Tenerife,away,69,73,0,68,11,15,12,51,27,6,13
+18034,2017_18,33,2018-05-19,La Laguna Tenerife,Monbus Obradoiro,home,73,69,0,51,27,6,13,68,11,15,12
+18035,2017_18,33,2018-05-20,Gran Canaria,Movistar Estudiantes,away,75,88,0,68,12,9,11,72,14,12,9
+18035,2017_18,33,2018-05-20,Movistar Estudiantes,Gran Canaria,home,88,75,0,72,14,12,9,68,12,9,11
+18036,2017_18,33,2018-05-20,Joventut,Delteco GBC,away,87,92,0,65,18,8,14,67,21,11,8
+18036,2017_18,33,2018-05-20,Delteco GBC,Joventut,home,92,87,0,67,21,11,8,65,18,8,14
+18037,2017_18,33,2018-05-20,Montakit Fuenlabrada,Casademont Zaragoza,away,108,102,0,74,18,11,9,64,30,9,12
+18037,2017_18,33,2018-05-20,Casademont Zaragoza,Montakit Fuenlabrada,home,102,108,0,64,30,9,12,74,18,11,9
+18038,2017_18,34,2018-05-24,Casademont Zaragoza,FC Barcelona,away,84,100,0,64,17,6,11,75,17,15,10
+18038,2017_18,34,2018-05-24,FC Barcelona,Casademont Zaragoza,home,100,84,0,75,17,15,10,64,17,6,11
+18039,2017_18,34,2018-05-24,Movistar Estudiantes,UCAM Murcia,away,77,71,0,69,12,12,12,66,26,18,14
+18039,2017_18,34,2018-05-24,UCAM Murcia,Movistar Estudiantes,home,71,77,0,66,26,18,14,69,12,12,12
+18040,2017_18,34,2018-05-24,Delteco GBC,Montakit Fuenlabrada,away,70,84,0,69,17,12,10,69,17,14,10
+18040,2017_18,34,2018-05-24,Montakit Fuenlabrada,Delteco GBC,home,84,70,0,69,17,14,10,69,17,12,10
+18041,2017_18,34,2018-05-24,Valencia Basket,MoraBanc Andorra,away,69,87,0,57,22,9,13,58,7,3,11
+18041,2017_18,34,2018-05-24,MoraBanc Andorra,Valencia Basket,home,87,69,0,58,7,3,11,57,22,9,13
+18042,2017_18,34,2018-05-24,Real Madrid,Gran Canaria,away,78,88,0,67,12,8,14,66,12,7,16
+18042,2017_18,34,2018-05-24,Gran Canaria,Real Madrid,home,88,78,0,66,12,7,16,67,12,8,14
+18043,2017_18,34,2018-05-24,Baskonia,Monbus Obradoiro,away,83,77,0,60,18,6,12,66,19,11,9
+18043,2017_18,34,2018-05-24,Monbus Obradoiro,Baskonia,home,77,83,0,66,19,11,9,60,18,6,12
+18044,2017_18,34,2018-05-24,Unicaja,Joventut,away,78,85,0,70,11,11,8,67,21,10,9
+18044,2017_18,34,2018-05-24,Joventut,Unicaja,home,85,78,0,67,21,10,9,70,11,11,8
+18045,2017_18,34,2018-05-24,Surne Bilbao Basket,Recoletas Salud San Pablo Burgos,away,86,90,0,72,16,8,14,68,17,11,13
+18045,2017_18,34,2018-05-24,Recoletas Salud San Pablo Burgos,Surne Bilbao Basket,home,90,86,0,68,17,11,13,72,16,8,14
+18046,2017_18,34,2018-05-24,La Laguna Tenerife,Coosur Real Betis,away,109,62,0,77,14,12,4,59,24,9,11
+18046,2017_18,34,2018-05-24,Coosur Real Betis,La Laguna Tenerife,home,62,109,0,59,24,9,11,77,14,12,4

@@ -1,0 +1,459 @@
+game_id,season,jornada,date,team,opponent,home_away,pts,opp_pts,overtimes,fg_att,ft_att,oreb,tov,opp_fg_att,opp_ft_att,opp_oreb,opp_tov
+18638,2019_20,1,2019-09-26,MoraBanc Andorra,Valencia Basket,away,68,89,0,69,10,13,11,66,5,9,11
+18638,2019_20,1,2019-09-26,Valencia Basket,MoraBanc Andorra,home,89,68,0,66,5,9,11,69,10,13,11
+18639,2019_20,1,2019-09-25,Surne Bilbao Basket,La Laguna Tenerife,away,81,67,0,58,8,3,13,65,16,17,17
+18639,2019_20,1,2019-09-25,La Laguna Tenerife,Surne Bilbao Basket,home,67,81,0,65,16,17,17,58,8,3,13
+18640,2019_20,1,2019-09-24,Recoletas Salud San Pablo Burgos,Montakit Fuenlabrada,away,87,76,0,60,26,8,17,66,16,11,16
+18640,2019_20,1,2019-09-24,Montakit Fuenlabrada,Recoletas Salud San Pablo Burgos,home,76,87,0,66,16,11,16,60,26,8,17
+18641,2019_20,1,2019-09-27,Real Madrid,Joventut,away,88,69,0,59,15,5,18,80,12,15,10
+18641,2019_20,1,2019-09-27,Joventut,Real Madrid,home,69,88,0,80,12,15,10,59,15,5,18
+18642,2019_20,1,2019-09-25,Unicaja,BAXI Manresa,away,69,79,0,67,16,7,11,63,14,8,19
+18642,2019_20,1,2019-09-25,BAXI Manresa,Unicaja,home,79,69,0,63,14,8,19,67,16,7,11
+18643,2019_20,1,2019-09-27,Coosur Real Betis,UCAM Murcia,away,78,90,0,59,25,10,7,70,7,10,8
+18643,2019_20,1,2019-09-27,UCAM Murcia,Coosur Real Betis,home,90,78,0,70,7,10,8,59,25,10,7
+18644,2019_20,1,2019-09-27,FC Barcelona,Monbus Obradoiro,away,92,86,0,62,35,18,13,70,14,16,12
+18644,2019_20,1,2019-09-27,Monbus Obradoiro,FC Barcelona,home,86,92,0,70,14,16,12,62,35,18,13
+18645,2019_20,1,2019-09-27,Movistar Estudiantes,Baskonia,away,82,105,0,62,21,2,9,69,18,5,9
+18645,2019_20,1,2019-09-27,Baskonia,Movistar Estudiantes,home,105,82,0,69,18,5,9,62,21,2,9
+18646,2019_20,1,2019-09-26,Casademont Zaragoza,Gran Canaria,away,79,73,0,55,18,4,14,62,20,8,12
+18646,2019_20,1,2019-09-26,Gran Canaria,Casademont Zaragoza,home,73,79,0,62,20,8,12,55,18,4,14
+18647,2019_20,2,2019-09-29,Monbus Obradoiro,Casademont Zaragoza,away,64,96,0,61,21,11,16,77,12,10,11
+18647,2019_20,2,2019-09-29,Casademont Zaragoza,Monbus Obradoiro,home,96,64,0,77,12,10,11,61,21,11,16
+18648,2019_20,2,2019-09-29,Baskonia,FC Barcelona,away,87,95,1,66,9,6,19,76,29,10,10
+18648,2019_20,2,2019-09-29,FC Barcelona,Baskonia,home,95,87,1,76,29,10,10,66,9,6,19
+18649,2019_20,2,2019-09-29,Valencia Basket,Surne Bilbao Basket,away,79,83,0,65,20,11,8,63,10,5,10
+18649,2019_20,2,2019-09-29,Surne Bilbao Basket,Valencia Basket,home,83,79,0,63,10,5,10,65,20,11,8
+18650,2019_20,2,2019-09-28,La Laguna Tenerife,Unicaja,away,88,80,0,61,24,7,14,52,29,4,13
+18650,2019_20,2,2019-09-28,Unicaja,La Laguna Tenerife,home,80,88,0,52,29,4,13,61,24,7,14
+18651,2019_20,2,2019-09-29,UCAM Murcia,Real Madrid,away,69,97,0,79,9,17,15,68,22,8,13
+18651,2019_20,2,2019-09-29,Real Madrid,UCAM Murcia,home,97,69,0,68,22,8,13,79,9,17,15
+18652,2019_20,2,2019-09-28,Montakit Fuenlabrada,MoraBanc Andorra,away,69,79,0,65,16,11,18,66,22,13,19
+18652,2019_20,2,2019-09-28,MoraBanc Andorra,Montakit Fuenlabrada,home,79,69,0,66,22,13,19,65,16,11,18
+18653,2019_20,2,2019-09-29,Gran Canaria,Movistar Estudiantes,away,78,82,0,62,16,6,11,68,11,10,11
+18653,2019_20,2,2019-09-29,Movistar Estudiantes,Gran Canaria,home,82,78,0,68,11,10,11,62,16,6,11
+18654,2019_20,2,2019-10-02,BAXI Manresa,Recoletas Salud San Pablo Burgos,away,65,79,0,67,11,6,8,55,21,5,13
+18654,2019_20,2,2019-10-02,Recoletas Salud San Pablo Burgos,BAXI Manresa,home,79,65,0,55,21,5,13,67,11,6,8
+18655,2019_20,2,2019-09-29,Joventut,Coosur Real Betis,away,88,95,0,64,20,10,14,65,24,6,12
+18655,2019_20,2,2019-09-29,Coosur Real Betis,Joventut,home,95,88,0,65,24,6,12,64,20,10,14
+18656,2019_20,3,2019-10-06,Unicaja,Baskonia,away,78,77,0,61,17,9,13,52,16,5,17
+18656,2019_20,3,2019-10-06,Baskonia,Unicaja,home,77,78,0,52,16,5,17,61,17,9,13
+18657,2019_20,3,2019-10-05,Real Madrid,La Laguna Tenerife,away,76,71,0,64,8,9,12,67,9,10,13
+18657,2019_20,3,2019-10-05,La Laguna Tenerife,Real Madrid,home,71,76,0,67,9,10,13,64,8,9,12
+18658,2019_20,3,2019-10-06,Coosur Real Betis,Valencia Basket,away,72,95,0,62,12,9,15,61,20,10,13
+18658,2019_20,3,2019-10-06,Valencia Basket,Coosur Real Betis,home,95,72,0,61,20,10,13,62,12,9,15
+18659,2019_20,3,2019-10-06,FC Barcelona,MoraBanc Andorra,away,84,86,0,52,21,6,22,65,20,13,16
+18659,2019_20,3,2019-10-06,MoraBanc Andorra,FC Barcelona,home,86,84,0,65,20,13,16,52,21,6,22
+18660,2019_20,3,2019-10-06,Movistar Estudiantes,Montakit Fuenlabrada,away,85,93,0,67,27,11,11,64,21,9,16
+18660,2019_20,3,2019-10-06,Montakit Fuenlabrada,Movistar Estudiantes,home,93,85,0,64,21,9,16,67,27,11,11
+18661,2019_20,3,2019-10-05,Casademont Zaragoza,UCAM Murcia,away,73,89,0,63,14,4,13,76,12,15,10
+18661,2019_20,3,2019-10-05,UCAM Murcia,Casademont Zaragoza,home,89,73,0,76,12,15,10,63,14,4,13
+18662,2019_20,3,2019-10-05,Surne Bilbao Basket,Monbus Obradoiro,away,96,98,2,67,30,11,18,87,30,16,5
+18662,2019_20,3,2019-10-05,Monbus Obradoiro,Surne Bilbao Basket,home,98,96,2,87,30,16,5,67,30,11,18
+18663,2019_20,3,2019-10-05,Recoletas Salud San Pablo Burgos,Joventut,away,82,74,0,68,25,11,9,72,22,15,12
+18663,2019_20,3,2019-10-05,Joventut,Recoletas Salud San Pablo Burgos,home,74,82,0,72,22,15,12,68,25,11,9
+18664,2019_20,3,2019-10-06,Gran Canaria,BAXI Manresa,away,75,74,0,62,9,9,9,60,18,11,12
+18664,2019_20,3,2019-10-06,BAXI Manresa,Gran Canaria,home,74,75,0,60,18,11,12,62,9,9,9
+18665,2019_20,4,2019-10-13,Valencia Basket,FC Barcelona,away,94,97,0,60,25,13,17,58,23,6,14
+18665,2019_20,4,2019-10-13,FC Barcelona,Valencia Basket,home,97,94,0,58,23,6,14,60,25,13,17
+18666,2019_20,4,2019-10-13,Montakit Fuenlabrada,Real Madrid,away,64,89,0,71,14,8,13,62,21,7,19
+18666,2019_20,4,2019-10-13,Real Madrid,Montakit Fuenlabrada,home,89,64,0,62,21,7,19,71,14,8,13
+18667,2019_20,4,2019-10-13,MoraBanc Andorra,Gran Canaria,away,67,80,0,66,13,6,14,59,27,5,15
+18667,2019_20,4,2019-10-13,Gran Canaria,MoraBanc Andorra,home,80,67,0,59,27,5,15,66,13,6,14
+18668,2019_20,4,2019-10-12,Joventut,Unicaja,away,65,77,0,64,13,9,15,68,17,15,11
+18668,2019_20,4,2019-10-12,Unicaja,Joventut,home,77,65,0,68,17,15,11,64,13,9,15
+18669,2019_20,4,2019-10-12,Monbus Obradoiro,La Laguna Tenerife,away,78,90,0,57,14,4,14,62,20,11,14
+18669,2019_20,4,2019-10-12,La Laguna Tenerife,Monbus Obradoiro,home,90,78,0,62,20,11,14,57,14,4,14
+18670,2019_20,4,2019-10-13,BAXI Manresa,Movistar Estudiantes,away,79,87,0,57,21,7,20,75,25,16,7
+18670,2019_20,4,2019-10-13,Movistar Estudiantes,BAXI Manresa,home,87,79,0,75,25,16,7,57,21,7,20
+18671,2019_20,4,2019-10-12,UCAM Murcia,Recoletas Salud San Pablo Burgos,away,82,92,0,64,22,14,17,62,22,10,13
+18671,2019_20,4,2019-10-12,Recoletas Salud San Pablo Burgos,UCAM Murcia,home,92,82,0,62,22,10,13,64,22,14,17
+18672,2019_20,4,2019-10-12,Casademont Zaragoza,Coosur Real Betis,away,71,69,0,63,8,7,13,68,10,6,7
+18672,2019_20,4,2019-10-12,Coosur Real Betis,Casademont Zaragoza,home,69,71,0,68,10,6,7,63,8,7,13
+18673,2019_20,4,2019-10-13,Baskonia,Surne Bilbao Basket,away,75,79,0,58,19,7,8,64,24,11,8
+18673,2019_20,4,2019-10-13,Surne Bilbao Basket,Baskonia,home,79,75,0,64,24,11,8,58,19,7,8
+18674,2019_20,5,2019-10-19,Real Madrid,Monbus Obradoiro,away,83,76,0,64,19,12,9,62,15,9,12
+18674,2019_20,5,2019-10-19,Monbus Obradoiro,Real Madrid,home,76,83,0,62,15,9,12,64,19,12,9
+18675,2019_20,5,2019-10-20,Unicaja,Valencia Basket,away,79,63,0,58,18,7,13,65,17,7,5
+18675,2019_20,5,2019-10-20,Valencia Basket,Unicaja,home,63,79,0,65,17,7,5,58,18,7,13
+18676,2019_20,5,2019-10-20,Coosur Real Betis,Baskonia,away,73,84,0,54,6,4,15,63,13,13,13
+18676,2019_20,5,2019-10-20,Baskonia,Coosur Real Betis,home,84,73,0,63,13,13,13,54,6,4,15
+18677,2019_20,5,2019-10-20,Gran Canaria,FC Barcelona,away,75,89,0,63,14,7,13,73,23,14,7
+18677,2019_20,5,2019-10-20,FC Barcelona,Gran Canaria,home,89,75,0,73,23,14,7,63,14,7,13
+18678,2019_20,5,2019-10-19,Recoletas Salud San Pablo Burgos,MoraBanc Andorra,away,74,87,0,68,19,12,5,64,15,15,14
+18678,2019_20,5,2019-10-19,MoraBanc Andorra,Recoletas Salud San Pablo Burgos,home,87,74,0,64,15,15,14,68,19,12,5
+18679,2019_20,5,2019-10-20,UCAM Murcia,Montakit Fuenlabrada,away,74,75,0,57,20,7,14,57,36,11,10
+18679,2019_20,5,2019-10-20,Montakit Fuenlabrada,UCAM Murcia,home,75,74,0,57,36,11,10,57,20,7,14
+18680,2019_20,5,2019-10-19,Movistar Estudiantes,Joventut,away,76,78,0,76,10,13,12,55,25,8,17
+18680,2019_20,5,2019-10-19,Joventut,Movistar Estudiantes,home,78,76,0,55,25,8,17,76,10,13,12
+18681,2019_20,5,2019-10-19,Surne Bilbao Basket,Casademont Zaragoza,away,61,84,0,52,16,7,21,78,16,15,8
+18681,2019_20,5,2019-10-19,Casademont Zaragoza,Surne Bilbao Basket,home,84,61,0,78,16,15,8,52,16,7,21
+18682,2019_20,5,2019-10-20,La Laguna Tenerife,BAXI Manresa,away,81,61,0,57,11,9,18,72,6,9,10
+18682,2019_20,5,2019-10-20,BAXI Manresa,La Laguna Tenerife,home,61,81,0,72,6,9,10,57,11,9,18
+18683,2019_20,6,2019-10-26,Valencia Basket,Recoletas Salud San Pablo Burgos,away,93,62,0,64,16,11,10,55,15,12,16
+18683,2019_20,6,2019-10-26,Recoletas Salud San Pablo Burgos,Valencia Basket,home,62,93,0,55,15,12,16,64,16,11,10
+18684,2019_20,6,2019-10-27,FC Barcelona,Casademont Zaragoza,away,83,89,0,63,31,6,12,70,16,11,13
+18684,2019_20,6,2019-10-27,Casademont Zaragoza,FC Barcelona,home,89,83,0,70,16,11,13,63,31,6,12
+18685,2019_20,6,2019-10-27,BAXI Manresa,Real Madrid,away,74,94,0,64,13,10,18,60,24,7,16
+18685,2019_20,6,2019-10-27,Real Madrid,BAXI Manresa,home,94,74,0,60,24,7,16,64,13,10,18
+18686,2019_20,6,2019-10-26,Joventut,Gran Canaria,away,79,68,0,64,14,8,13,63,8,5,12
+18686,2019_20,6,2019-10-26,Gran Canaria,Joventut,home,68,79,0,63,8,5,12,64,14,8,13
+18687,2019_20,6,2019-10-26,Movistar Estudiantes,Unicaja,away,67,62,0,61,6,6,14,56,15,11,17
+18687,2019_20,6,2019-10-26,Unicaja,Movistar Estudiantes,home,62,67,0,56,15,11,17,61,6,6,14
+18688,2019_20,6,2019-10-27,Baskonia,La Laguna Tenerife,away,79,78,0,52,29,6,14,59,18,9,11
+18688,2019_20,6,2019-10-27,La Laguna Tenerife,Baskonia,home,78,79,0,59,18,9,11,52,29,6,14
+18689,2019_20,6,2019-10-26,Monbus Obradoiro,UCAM Murcia,away,95,90,1,66,20,7,11,69,15,8,12
+18689,2019_20,6,2019-10-26,UCAM Murcia,Monbus Obradoiro,home,90,95,1,69,15,8,12,66,20,7,11
+18690,2019_20,6,2019-10-27,MoraBanc Andorra,Coosur Real Betis,away,81,86,0,65,22,9,10,57,19,7,18
+18690,2019_20,6,2019-10-27,Coosur Real Betis,MoraBanc Andorra,home,86,81,0,57,19,7,18,65,22,9,10
+18691,2019_20,6,2019-10-27,Montakit Fuenlabrada,Surne Bilbao Basket,away,80,92,0,65,25,11,17,63,13,8,17
+18691,2019_20,6,2019-10-27,Surne Bilbao Basket,Montakit Fuenlabrada,home,92,80,0,63,13,8,17,65,25,11,17
+18692,2019_20,7,2019-11-03,Montakit Fuenlabrada,FC Barcelona,away,74,87,0,50,31,4,16,58,32,8,11
+18692,2019_20,7,2019-11-03,FC Barcelona,Montakit Fuenlabrada,home,87,74,0,58,32,8,11,50,31,4,16
+18693,2019_20,7,2019-11-03,Real Madrid,Baskonia,away,91,89,0,60,22,5,11,67,20,8,7
+18693,2019_20,7,2019-11-03,Baskonia,Real Madrid,home,89,91,0,67,20,8,7,60,22,5,11
+18694,2019_20,7,2019-11-03,Gran Canaria,Valencia Basket,away,88,86,1,77,13,15,9,72,14,7,10
+18694,2019_20,7,2019-11-03,Valencia Basket,Gran Canaria,home,86,88,1,72,14,7,10,77,13,15,9
+18695,2019_20,7,2019-11-02,UCAM Murcia,MoraBanc Andorra,away,89,86,0,56,24,9,20,58,32,8,18
+18695,2019_20,7,2019-11-02,MoraBanc Andorra,UCAM Murcia,home,86,89,0,58,32,8,18,56,24,9,20
+18696,2019_20,7,2019-11-03,Coosur Real Betis,Unicaja,away,71,79,0,66,2,11,16,58,29,12,13
+18696,2019_20,7,2019-11-03,Unicaja,Coosur Real Betis,home,79,71,0,58,29,12,13,66,2,11,16
+18697,2019_20,7,2019-11-03,La Laguna Tenerife,Movistar Estudiantes,away,74,72,0,55,23,5,15,56,17,8,18
+18697,2019_20,7,2019-11-03,Movistar Estudiantes,La Laguna Tenerife,home,72,74,0,56,17,8,18,55,23,5,15
+18698,2019_20,7,2019-11-02,Casademont Zaragoza,Recoletas Salud San Pablo Burgos,away,78,69,0,63,26,12,10,64,19,12,13
+18698,2019_20,7,2019-11-02,Recoletas Salud San Pablo Burgos,Casademont Zaragoza,home,69,78,0,64,19,12,13,63,26,12,10
+18699,2019_20,7,2019-11-03,Monbus Obradoiro,Joventut,away,77,101,0,63,27,13,12,65,25,12,15
+18699,2019_20,7,2019-11-03,Joventut,Monbus Obradoiro,home,101,77,0,65,25,12,15,63,27,13,12
+18700,2019_20,7,2019-11-02,Surne Bilbao Basket,BAXI Manresa,away,97,101,2,82,28,14,20,88,24,16,10
+18700,2019_20,7,2019-11-02,BAXI Manresa,Surne Bilbao Basket,home,101,97,2,88,24,16,10,82,28,14,20
+18701,2019_20,8,2019-11-10,Unicaja,Real Madrid,away,71,82,0,73,18,19,12,58,21,11,16
+18701,2019_20,8,2019-11-10,Real Madrid,Unicaja,home,82,71,0,58,21,11,16,73,18,19,12
+18702,2019_20,8,2019-11-10,Baskonia,Monbus Obradoiro,away,92,79,0,64,23,11,12,59,10,5,14
+18702,2019_20,8,2019-11-10,Monbus Obradoiro,Baskonia,home,79,92,0,59,10,5,14,64,23,11,12
+18703,2019_20,8,2019-11-09,Recoletas Salud San Pablo Burgos,La Laguna Tenerife,away,82,85,0,64,8,5,14,61,16,9,15
+18703,2019_20,8,2019-11-09,La Laguna Tenerife,Recoletas Salud San Pablo Burgos,home,85,82,0,61,16,9,15,64,8,5,14
+18704,2019_20,8,2019-11-09,BAXI Manresa,Montakit Fuenlabrada,away,83,87,0,60,24,9,15,61,20,5,12
+18704,2019_20,8,2019-11-09,Montakit Fuenlabrada,BAXI Manresa,home,87,83,0,61,20,5,12,60,24,9,15
+18705,2019_20,8,2019-11-10,Valencia Basket,UCAM Murcia,away,95,97,1,69,27,14,15,81,25,15,9
+18705,2019_20,8,2019-11-10,UCAM Murcia,Valencia Basket,home,97,95,1,81,25,15,9,69,27,14,15
+18706,2019_20,8,2019-11-10,MoraBanc Andorra,Movistar Estudiantes,away,87,79,0,58,26,3,15,61,25,9,19
+18706,2019_20,8,2019-11-10,Movistar Estudiantes,MoraBanc Andorra,home,79,87,0,61,25,9,19,58,26,3,15
+18707,2019_20,8,2019-11-10,Joventut,Casademont Zaragoza,away,92,90,0,68,12,8,14,60,35,10,15
+18707,2019_20,8,2019-11-10,Casademont Zaragoza,Joventut,home,90,92,0,60,35,10,15,68,12,8,14
+18708,2019_20,8,2019-11-10,FC Barcelona,Coosur Real Betis,away,100,95,0,59,21,6,11,69,5,11,11
+18708,2019_20,8,2019-11-10,Coosur Real Betis,FC Barcelona,home,95,100,0,69,5,11,11,59,21,6,11
+18709,2019_20,8,2019-11-09,Gran Canaria,Surne Bilbao Basket,away,97,90,0,61,26,12,11,60,26,7,13
+18709,2019_20,8,2019-11-09,Surne Bilbao Basket,Gran Canaria,home,90,97,0,60,26,7,13,61,26,12,11
+18710,2019_20,9,2019-11-16,Unicaja,MoraBanc Andorra,away,73,89,0,54,27,10,19,59,22,7,14
+18710,2019_20,9,2019-11-16,MoraBanc Andorra,Unicaja,home,89,73,0,59,22,7,14,54,27,10,19
+18711,2019_20,9,2019-11-17,Montakit Fuenlabrada,Baskonia,away,92,80,0,64,25,10,10,71,26,13,9
+18711,2019_20,9,2019-11-17,Baskonia,Montakit Fuenlabrada,home,80,92,0,71,26,13,9,64,25,10,10
+18712,2019_20,9,2019-11-16,La Laguna Tenerife,Joventut,away,73,77,0,67,28,8,13,61,28,10,21
+18712,2019_20,9,2019-11-16,Joventut,La Laguna Tenerife,home,77,73,0,61,28,10,21,67,28,8,13
+18713,2019_20,9,2019-11-17,Casademont Zaragoza,Valencia Basket,away,74,92,0,69,16,16,15,68,17,14,13
+18713,2019_20,9,2019-11-17,Valencia Basket,Casademont Zaragoza,home,92,74,0,68,17,14,13,69,16,16,15
+18714,2019_20,9,2019-11-17,Movistar Estudiantes,FC Barcelona,away,72,94,0,61,13,3,11,60,17,11,17
+18714,2019_20,9,2019-11-17,FC Barcelona,Movistar Estudiantes,home,94,72,0,60,17,11,17,61,13,3,11
+18715,2019_20,9,2019-11-17,UCAM Murcia,Gran Canaria,away,79,85,0,65,10,8,10,58,18,9,14
+18715,2019_20,9,2019-11-17,Gran Canaria,UCAM Murcia,home,85,79,0,58,18,9,14,65,10,8,10
+18716,2019_20,9,2019-11-16,Coosur Real Betis,Recoletas Salud San Pablo Burgos,away,72,85,0,65,17,6,8,63,22,8,9
+18716,2019_20,9,2019-11-16,Recoletas Salud San Pablo Burgos,Coosur Real Betis,home,85,72,0,63,22,8,9,65,17,6,8
+18717,2019_20,9,2019-11-16,Monbus Obradoiro,BAXI Manresa,away,85,79,0,75,15,11,10,61,17,6,17
+18717,2019_20,9,2019-11-16,BAXI Manresa,Monbus Obradoiro,home,79,85,0,61,17,6,17,75,15,11,10
+18718,2019_20,9,2019-11-17,Real Madrid,Surne Bilbao Basket,away,81,82,1,80,35,17,11,83,17,11,12
+18718,2019_20,9,2019-11-17,Surne Bilbao Basket,Real Madrid,home,82,81,1,83,17,11,12,80,35,17,11
+18719,2019_20,10,2019-11-24,Valencia Basket,Baskonia,away,74,85,0,59,20,10,17,65,18,13,16
+18719,2019_20,10,2019-11-24,Baskonia,Valencia Basket,home,85,74,0,65,18,13,16,59,20,10,17
+18720,2019_20,10,2019-11-24,Gran Canaria,Real Madrid,away,76,92,0,72,13,11,10,58,22,5,18
+18720,2019_20,10,2019-11-24,Real Madrid,Gran Canaria,home,92,76,0,58,22,5,18,72,13,11,10
+18721,2019_20,10,2019-11-23,Surne Bilbao Basket,Unicaja,away,70,77,0,50,16,5,17,67,17,11,7
+18721,2019_20,10,2019-11-23,Unicaja,Surne Bilbao Basket,home,77,70,0,67,17,11,7,50,16,5,17
+18722,2019_20,10,2019-11-24,Coosur Real Betis,La Laguna Tenerife,away,89,94,0,66,19,13,13,58,32,9,12
+18722,2019_20,10,2019-11-24,La Laguna Tenerife,Coosur Real Betis,home,94,89,0,58,32,9,12,66,19,13,13
+18723,2019_20,10,2019-11-23,Joventut,Montakit Fuenlabrada,away,98,95,0,64,21,4,11,74,14,7,7
+18723,2019_20,10,2019-11-23,Montakit Fuenlabrada,Joventut,home,95,98,0,74,14,7,7,64,21,4,11
+18724,2019_20,10,2019-11-24,FC Barcelona,UCAM Murcia,away,87,83,0,60,36,13,17,63,14,8,17
+18724,2019_20,10,2019-11-24,UCAM Murcia,FC Barcelona,home,83,87,0,63,14,8,17,60,36,13,17
+18725,2019_20,10,2019-11-24,Recoletas Salud San Pablo Burgos,Movistar Estudiantes,away,78,76,0,66,25,17,13,69,19,11,7
+18725,2019_20,10,2019-11-24,Movistar Estudiantes,Recoletas Salud San Pablo Burgos,home,76,78,0,69,19,11,7,66,25,17,13
+18726,2019_20,10,2019-11-23,MoraBanc Andorra,Monbus Obradoiro,away,73,75,0,58,15,6,13,68,6,13,10
+18726,2019_20,10,2019-11-23,Monbus Obradoiro,MoraBanc Andorra,home,75,73,0,68,6,13,10,58,15,6,13
+18727,2019_20,10,2019-11-23,BAXI Manresa,Casademont Zaragoza,away,79,86,0,64,13,13,15,59,32,8,11
+18727,2019_20,10,2019-11-23,Casademont Zaragoza,BAXI Manresa,home,86,79,0,59,32,8,11,64,13,13,15
+18728,2019_20,11,2019-11-30,Baskonia,MoraBanc Andorra,away,82,97,0,60,18,7,18,61,34,10,13
+18728,2019_20,11,2019-11-30,MoraBanc Andorra,Baskonia,home,97,82,0,61,34,10,13,60,18,7,18
+18729,2019_20,11,2019-12-01,La Laguna Tenerife,FC Barcelona,away,71,103,0,65,11,12,21,61,23,7,14
+18729,2019_20,11,2019-12-01,FC Barcelona,La Laguna Tenerife,home,103,71,0,61,23,7,14,65,11,12,21
+18730,2019_20,11,2019-11-30,Monbus Obradoiro,Valencia Basket,away,76,86,0,58,14,8,12,65,22,14,7
+18730,2019_20,11,2019-11-30,Valencia Basket,Monbus Obradoiro,home,86,76,0,65,22,14,7,58,14,8,12
+18731,2019_20,11,2019-12-01,Real Madrid,Casademont Zaragoza,away,67,84,0,62,19,10,17,73,20,13,11
+18731,2019_20,11,2019-12-01,Casademont Zaragoza,Real Madrid,home,84,67,0,73,20,13,11,62,19,10,17
+18732,2019_20,11,2019-12-01,Montakit Fuenlabrada,Gran Canaria,away,78,102,0,52,28,4,12,65,21,11,11
+18732,2019_20,11,2019-12-01,Gran Canaria,Montakit Fuenlabrada,home,102,78,0,65,21,11,11,52,28,4,12
+18733,2019_20,11,2019-11-30,Unicaja,Recoletas Salud San Pablo Burgos,away,60,77,0,55,11,8,20,69,15,13,12
+18733,2019_20,11,2019-11-30,Recoletas Salud San Pablo Burgos,Unicaja,home,77,60,0,69,15,13,12,55,11,8,20
+18734,2019_20,11,2019-12-01,Surne Bilbao Basket,Joventut,away,86,97,0,68,24,11,17,69,35,10,12
+18734,2019_20,11,2019-12-01,Joventut,Surne Bilbao Basket,home,97,86,0,69,35,10,12,68,24,11,17
+18735,2019_20,11,2019-11-30,UCAM Murcia,BAXI Manresa,away,92,93,0,73,24,11,6,64,35,9,10
+18735,2019_20,11,2019-11-30,BAXI Manresa,UCAM Murcia,home,93,92,0,64,35,9,10,73,24,11,6
+18736,2019_20,11,2019-12-01,Movistar Estudiantes,Coosur Real Betis,away,66,88,0,63,7,4,14,60,18,7,14
+18736,2019_20,11,2019-12-01,Coosur Real Betis,Movistar Estudiantes,home,88,66,0,60,18,7,14,63,7,4,14
+18737,2019_20,12,2019-12-07,MoraBanc Andorra,Surne Bilbao Basket,away,87,82,0,58,27,4,9,71,15,16,14
+18737,2019_20,12,2019-12-07,Surne Bilbao Basket,MoraBanc Andorra,home,82,87,0,71,15,16,14,58,27,4,9
+18738,2019_20,12,2019-12-08,Casademont Zaragoza,Movistar Estudiantes,away,85,67,0,73,19,16,9,67,9,11,13
+18738,2019_20,12,2019-12-08,Movistar Estudiantes,Casademont Zaragoza,home,67,85,0,67,9,11,13,73,19,16,9
+18739,2019_20,12,2019-12-07,Valencia Basket,Montakit Fuenlabrada,away,81,70,0,60,13,5,13,60,17,10,16
+18739,2019_20,12,2019-12-07,Montakit Fuenlabrada,Valencia Basket,home,70,81,0,60,17,10,16,60,13,5,13
+18740,2019_20,12,2019-12-08,Recoletas Salud San Pablo Burgos,Real Madrid,away,93,104,0,70,12,12,12,68,26,12,8
+18740,2019_20,12,2019-12-08,Real Madrid,Recoletas Salud San Pablo Burgos,home,104,93,0,68,26,12,8,70,12,12,12
+18741,2019_20,12,2019-12-08,FC Barcelona,BAXI Manresa,away,84,75,0,63,23,10,10,72,8,11,12
+18741,2019_20,12,2019-12-08,BAXI Manresa,FC Barcelona,home,75,84,0,72,8,11,12,63,23,10,10
+18742,2019_20,12,2019-12-08,Joventut,Baskonia,away,86,87,0,62,27,9,12,56,20,4,14
+18742,2019_20,12,2019-12-08,Baskonia,Joventut,home,87,86,0,56,20,4,14,62,27,9,12
+18743,2019_20,12,2019-12-07,Gran Canaria,Unicaja,away,76,79,0,67,20,14,14,65,18,7,10
+18743,2019_20,12,2019-12-07,Unicaja,Gran Canaria,home,79,76,0,65,18,7,10,67,20,14,14
+18744,2019_20,12,2019-12-07,UCAM Murcia,La Laguna Tenerife,away,78,85,0,62,17,8,14,53,32,4,10
+18744,2019_20,12,2019-12-07,La Laguna Tenerife,UCAM Murcia,home,85,78,0,53,32,4,10,62,17,8,14
+18745,2019_20,12,2019-12-08,Coosur Real Betis,Monbus Obradoiro,away,73,82,0,60,20,8,20,67,16,8,13
+18745,2019_20,12,2019-12-08,Monbus Obradoiro,Coosur Real Betis,home,82,73,0,67,16,8,13,60,20,8,20
+18746,2019_20,13,2019-12-15,Unicaja,FC Barcelona,away,105,95,0,63,30,10,14,62,35,8,13
+18746,2019_20,13,2019-12-15,FC Barcelona,Unicaja,home,95,105,0,62,35,8,13,63,30,10,14
+18747,2019_20,13,2019-12-14,Real Madrid,Coosur Real Betis,away,84,64,0,65,15,8,12,71,5,12,14
+18747,2019_20,13,2019-12-14,Coosur Real Betis,Real Madrid,home,64,84,0,71,5,12,14,65,15,8,12
+18748,2019_20,13,2019-12-15,Monbus Obradoiro,Gran Canaria,away,100,102,2,73,19,6,16,77,30,16,10
+18748,2019_20,13,2019-12-15,Gran Canaria,Monbus Obradoiro,home,102,100,2,77,30,16,10,73,19,6,16
+18749,2019_20,13,2019-12-15,Movistar Estudiantes,Valencia Basket,away,63,79,0,68,4,6,10,66,12,16,14
+18749,2019_20,13,2019-12-15,Valencia Basket,Movistar Estudiantes,home,79,63,0,66,12,16,14,68,4,6,10
+18750,2019_20,13,2019-12-14,La Laguna Tenerife,MoraBanc Andorra,away,86,76,0,67,4,10,9,63,22,11,8
+18750,2019_20,13,2019-12-14,MoraBanc Andorra,La Laguna Tenerife,home,76,86,0,63,22,11,8,67,4,10,9
+18751,2019_20,13,2019-12-15,Baskonia,UCAM Murcia,away,86,75,0,60,18,11,18,68,19,13,18
+18751,2019_20,13,2019-12-15,UCAM Murcia,Baskonia,home,75,86,0,68,19,13,18,60,18,11,18
+18752,2019_20,13,2019-12-14,Surne Bilbao Basket,Recoletas Salud San Pablo Burgos,away,95,93,0,58,21,6,16,83,8,15,7
+18752,2019_20,13,2019-12-14,Recoletas Salud San Pablo Burgos,Surne Bilbao Basket,home,93,95,0,83,8,15,7,58,21,6,16
+18753,2019_20,13,2019-12-14,BAXI Manresa,Joventut,away,106,104,1,79,30,10,9,74,33,7,12
+18753,2019_20,13,2019-12-14,Joventut,BAXI Manresa,home,104,106,1,74,33,7,12,79,30,10,9
+18754,2019_20,13,2019-12-15,Montakit Fuenlabrada,Casademont Zaragoza,away,65,75,0,57,17,3,15,72,17,13,14
+18754,2019_20,13,2019-12-15,Casademont Zaragoza,Montakit Fuenlabrada,home,75,65,0,72,17,13,14,57,17,3,15
+18755,2019_20,14,2019-12-22,UCAM Murcia,Movistar Estudiantes,away,70,91,0,68,21,18,18,71,20,10,7
+18755,2019_20,14,2019-12-22,Movistar Estudiantes,UCAM Murcia,home,91,70,0,71,20,10,7,68,21,18,18
+18756,2019_20,14,2019-12-22,FC Barcelona,Joventut,away,95,80,0,71,25,12,15,72,19,7,17
+18756,2019_20,14,2019-12-22,Joventut,FC Barcelona,home,80,95,0,72,19,7,17,71,25,12,15
+18757,2019_20,14,2019-12-22,Valencia Basket,BAXI Manresa,away,76,79,0,59,25,12,12,59,12,8,15
+18757,2019_20,14,2019-12-22,BAXI Manresa,Valencia Basket,home,79,76,0,59,12,8,15,59,25,12,12
+18758,2019_20,14,2019-12-21,Casademont Zaragoza,Unicaja,away,81,75,0,66,15,14,17,64,25,10,13
+18758,2019_20,14,2019-12-21,Unicaja,Casademont Zaragoza,home,75,81,0,64,25,10,13,66,15,14,17
+18759,2019_20,14,2019-12-22,MoraBanc Andorra,Real Madrid,away,60,91,0,73,7,11,12,67,24,11,11
+18759,2019_20,14,2019-12-22,Real Madrid,MoraBanc Andorra,home,91,60,0,67,24,11,11,73,7,11,12
+18760,2019_20,14,2019-12-22,Recoletas Salud San Pablo Burgos,Baskonia,away,82,74,0,60,18,7,11,59,17,7,15
+18760,2019_20,14,2019-12-22,Baskonia,Recoletas Salud San Pablo Burgos,home,74,82,0,59,17,7,15,60,18,7,11
+18761,2019_20,14,2019-12-21,Gran Canaria,La Laguna Tenerife,away,79,100,0,62,22,11,13,62,28,8,7
+18761,2019_20,14,2019-12-21,La Laguna Tenerife,Gran Canaria,home,100,79,0,62,28,8,7,62,22,11,13
+18762,2019_20,14,2019-12-21,Montakit Fuenlabrada,Monbus Obradoiro,away,77,78,0,60,22,9,13,57,25,6,15
+18762,2019_20,14,2019-12-21,Monbus Obradoiro,Montakit Fuenlabrada,home,78,77,0,57,25,6,15,60,22,9,13
+18763,2019_20,14,2019-12-21,Coosur Real Betis,Surne Bilbao Basket,away,69,75,0,71,13,17,19,67,12,9,14
+18763,2019_20,14,2019-12-21,Surne Bilbao Basket,Coosur Real Betis,home,75,69,0,67,12,9,14,71,13,17,19
+18764,2019_20,15,2019-12-29,Real Madrid,FC Barcelona,away,63,83,0,60,10,6,21,59,18,5,17
+18764,2019_20,15,2019-12-29,FC Barcelona,Real Madrid,home,83,63,0,59,18,5,17,60,10,6,21
+18765,2019_20,15,2019-12-29,La Laguna Tenerife,Valencia Basket,away,91,98,0,65,10,6,5,67,16,11,7
+18765,2019_20,15,2019-12-29,Valencia Basket,La Laguna Tenerife,home,98,91,0,67,16,11,7,65,10,6,5
+18766,2019_20,15,2019-12-28,Recoletas Salud San Pablo Burgos,Gran Canaria,away,89,92,0,62,15,7,8,60,19,6,8
+18766,2019_20,15,2019-12-28,Gran Canaria,Recoletas Salud San Pablo Burgos,home,92,89,0,60,19,6,8,62,15,7,8
+18767,2019_20,15,2019-12-29,Joventut,MoraBanc Andorra,away,76,90,0,67,23,14,13,63,22,6,11
+18767,2019_20,15,2019-12-29,MoraBanc Andorra,Joventut,home,90,76,0,63,22,6,11,67,23,14,13
+18768,2019_20,15,2019-12-29,Unicaja,Montakit Fuenlabrada,away,82,81,0,65,18,8,12,58,28,6,13
+18768,2019_20,15,2019-12-29,Montakit Fuenlabrada,Unicaja,home,81,82,0,58,28,6,13,65,18,8,12
+18769,2019_20,15,2019-12-28,Surne Bilbao Basket,UCAM Murcia,away,57,56,0,61,16,12,14,70,8,12,12
+18769,2019_20,15,2019-12-28,UCAM Murcia,Surne Bilbao Basket,home,56,57,0,70,8,12,12,61,16,12,14
+18770,2019_20,15,2019-12-28,Movistar Estudiantes,Monbus Obradoiro,away,57,78,0,70,10,15,14,60,11,6,13
+18770,2019_20,15,2019-12-28,Monbus Obradoiro,Movistar Estudiantes,home,78,57,0,60,11,6,13,70,10,15,14
+18771,2019_20,15,2019-12-28,Baskonia,Casademont Zaragoza,away,80,101,0,68,17,16,14,57,27,6,12
+18771,2019_20,15,2019-12-28,Casademont Zaragoza,Baskonia,home,101,80,0,57,27,6,12,68,17,16,14
+18772,2019_20,15,2019-12-29,BAXI Manresa,Coosur Real Betis,away,89,88,0,56,24,10,10,64,20,10,9
+18772,2019_20,15,2019-12-29,Coosur Real Betis,BAXI Manresa,home,88,89,0,64,20,10,9,56,24,10,10
+18773,2019_20,16,2020-01-04,Movistar Estudiantes,Surne Bilbao Basket,away,80,87,0,62,20,11,15,64,27,12,12
+18773,2019_20,16,2020-01-04,Surne Bilbao Basket,Movistar Estudiantes,home,87,80,0,64,27,12,12,62,20,11,15
+18774,2019_20,16,2020-01-04,FC Barcelona,Recoletas Salud San Pablo Burgos,away,82,80,0,50,33,7,15,65,11,8,11
+18774,2019_20,16,2020-01-04,Recoletas Salud San Pablo Burgos,FC Barcelona,home,80,82,0,65,11,8,11,50,33,7,15
+18775,2019_20,16,2020-01-06,Valencia Basket,Real Madrid,away,78,85,1,69,8,8,16,72,13,8,11
+18775,2019_20,16,2020-01-06,Real Madrid,Valencia Basket,home,85,78,1,72,13,8,11,69,8,8,16
+18776,2019_20,16,2020-01-04,Monbus Obradoiro,Unicaja,away,67,85,0,58,12,6,15,66,19,10,9
+18776,2019_20,16,2020-01-04,Unicaja,Monbus Obradoiro,home,85,67,0,66,19,10,9,58,12,6,15
+18777,2019_20,16,2020-01-05,BAXI Manresa,Baskonia,away,80,79,0,63,12,11,11,67,11,13,10
+18777,2019_20,16,2020-01-05,Baskonia,BAXI Manresa,home,79,80,0,67,11,13,10,63,12,11,11
+18778,2019_20,16,2020-01-04,Casademont Zaragoza,MoraBanc Andorra,away,78,106,0,65,15,11,14,68,14,10,5
+18778,2019_20,16,2020-01-04,MoraBanc Andorra,Casademont Zaragoza,home,106,78,0,68,14,10,5,65,15,11,14
+18779,2019_20,16,2020-01-05,Montakit Fuenlabrada,La Laguna Tenerife,away,63,74,0,60,15,9,13,56,18,7,13
+18779,2019_20,16,2020-01-05,La Laguna Tenerife,Montakit Fuenlabrada,home,74,63,0,56,18,7,13,60,15,9,13
+18780,2019_20,16,2020-01-05,UCAM Murcia,Joventut,away,93,104,0,61,15,5,14,66,27,13,13
+18780,2019_20,16,2020-01-05,Joventut,UCAM Murcia,home,104,93,0,66,27,13,13,61,15,5,14
+18781,2019_20,16,2020-01-05,Gran Canaria,Coosur Real Betis,away,81,82,0,59,16,11,13,60,22,8,9
+18781,2019_20,16,2020-01-05,Coosur Real Betis,Gran Canaria,home,82,81,0,60,22,8,9,59,16,11,13
+18782,2019_20,17,2020-01-12,Real Madrid,Movistar Estudiantes,away,87,72,0,61,17,6,13,79,10,12,9
+18782,2019_20,17,2020-01-12,Movistar Estudiantes,Real Madrid,home,72,87,0,79,10,12,9,61,17,6,13
+18783,2019_20,17,2020-01-11,Unicaja,UCAM Murcia,away,74,82,0,64,18,8,11,61,17,11,16
+18783,2019_20,17,2020-01-11,UCAM Murcia,Unicaja,home,82,74,0,61,17,11,16,64,18,8,11
+18784,2019_20,17,2020-01-12,Joventut,Valencia Basket,away,70,100,0,59,16,6,13,65,8,5,10
+18784,2019_20,17,2020-01-12,Valencia Basket,Joventut,home,100,70,0,65,8,5,10,59,16,6,13
+18785,2019_20,17,2020-01-12,Surne Bilbao Basket,FC Barcelona,away,94,92,1,66,11,7,16,82,23,24,12
+18785,2019_20,17,2020-01-12,FC Barcelona,Surne Bilbao Basket,home,92,94,1,82,23,24,12,66,11,7,16
+18786,2019_20,17,2020-01-12,Baskonia,Gran Canaria,away,89,72,0,64,22,13,11,53,15,5,18
+18786,2019_20,17,2020-01-12,Gran Canaria,Baskonia,home,72,89,0,53,15,5,18,64,22,13,11
+18787,2019_20,17,2020-01-12,Coosur Real Betis,Montakit Fuenlabrada,away,85,69,0,56,23,7,18,70,22,11,9
+18787,2019_20,17,2020-01-12,Montakit Fuenlabrada,Coosur Real Betis,home,69,85,0,70,22,11,9,56,23,7,18
+18788,2019_20,17,2020-01-11,Recoletas Salud San Pablo Burgos,Monbus Obradoiro,away,76,73,0,66,16,11,12,69,17,9,8
+18788,2019_20,17,2020-01-11,Monbus Obradoiro,Recoletas Salud San Pablo Burgos,home,73,76,0,69,17,9,8,66,16,11,12
+18789,2019_20,17,2020-01-11,La Laguna Tenerife,Casademont Zaragoza,away,111,99,0,66,19,6,10,66,20,11,14
+18789,2019_20,17,2020-01-11,Casademont Zaragoza,La Laguna Tenerife,home,99,111,0,66,20,11,14,66,19,6,10
+18790,2019_20,17,2020-01-11,MoraBanc Andorra,BAXI Manresa,away,72,79,0,63,16,10,13,61,20,8,11
+18790,2019_20,17,2020-01-11,BAXI Manresa,MoraBanc Andorra,home,79,72,0,61,20,8,11,63,16,10,13
+18791,2019_20,18,2020-01-19,FC Barcelona,Montakit Fuenlabrada,away,94,90,0,65,20,11,12,69,12,7,11
+18791,2019_20,18,2020-01-19,Montakit Fuenlabrada,FC Barcelona,home,90,94,0,69,12,7,11,65,20,11,12
+18792,2019_20,18,2020-01-19,Baskonia,Real Madrid,away,95,94,0,69,12,12,10,57,27,7,11
+18792,2019_20,18,2020-01-19,Real Madrid,Baskonia,home,94,95,0,57,27,7,11,69,12,12,10
+18793,2019_20,18,2020-01-18,Unicaja,Coosur Real Betis,away,88,66,0,61,16,7,11,58,19,6,14
+18793,2019_20,18,2020-01-18,Coosur Real Betis,Unicaja,home,66,88,0,58,19,6,14,61,16,7,11
+18794,2019_20,18,2020-01-19,UCAM Murcia,Valencia Basket,away,62,82,0,66,10,11,13,56,32,6,11
+18794,2019_20,18,2020-01-19,Valencia Basket,UCAM Murcia,home,82,62,0,56,32,6,11,66,10,11,13
+18795,2019_20,18,2020-01-19,Monbus Obradoiro,MoraBanc Andorra,away,69,93,0,59,14,4,13,53,32,10,17
+18795,2019_20,18,2020-01-19,MoraBanc Andorra,Monbus Obradoiro,home,93,69,0,53,32,10,17,59,14,4,13
+18796,2019_20,18,2020-01-18,Movistar Estudiantes,La Laguna Tenerife,away,59,76,0,69,5,5,11,58,23,9,15
+18796,2019_20,18,2020-01-18,La Laguna Tenerife,Movistar Estudiantes,home,76,59,0,58,23,9,15,69,5,5,11
+18797,2019_20,18,2020-01-18,Joventut,Recoletas Salud San Pablo Burgos,away,89,92,0,64,17,5,13,66,24,8,11
+18797,2019_20,18,2020-01-18,Recoletas Salud San Pablo Burgos,Joventut,home,92,89,0,66,24,8,11,64,17,5,13
+18798,2019_20,18,2020-01-18,Gran Canaria,Casademont Zaragoza,away,62,81,0,62,14,12,15,63,15,10,12
+18798,2019_20,18,2020-01-18,Casademont Zaragoza,Gran Canaria,home,81,62,0,63,15,10,12,62,14,12,15
+18799,2019_20,18,2020-01-19,BAXI Manresa,Surne Bilbao Basket,away,77,88,0,57,22,8,12,65,13,13,13
+18799,2019_20,18,2020-01-19,Surne Bilbao Basket,BAXI Manresa,home,88,77,0,65,13,13,13,57,22,8,12
+18800,2019_20,19,2020-01-25,Coosur Real Betis,FC Barcelona,away,59,77,0,62,12,7,13,62,13,12,13
+18800,2019_20,19,2020-01-25,FC Barcelona,Coosur Real Betis,home,77,59,0,62,13,12,13,62,12,7,13
+18801,2019_20,19,2020-01-25,La Laguna Tenerife,Recoletas Salud San Pablo Burgos,away,70,54,0,63,4,4,9,61,15,10,10
+18801,2019_20,19,2020-01-25,Recoletas Salud San Pablo Burgos,La Laguna Tenerife,home,54,70,0,61,15,10,10,63,4,4,9
+18802,2019_20,19,2020-01-26,Valencia Basket,Monbus Obradoiro,away,83,86,0,60,24,15,13,57,13,7,10
+18802,2019_20,19,2020-01-26,Monbus Obradoiro,Valencia Basket,home,86,83,0,57,13,7,10,60,24,15,13
+18803,2019_20,19,2020-01-26,MoraBanc Andorra,Baskonia,away,77,73,0,62,22,5,13,74,21,14,10
+18803,2019_20,19,2020-01-26,Baskonia,MoraBanc Andorra,home,73,77,0,74,21,14,10,62,22,5,13
+18804,2019_20,19,2020-01-26,Surne Bilbao Basket,Gran Canaria,away,54,92,0,60,21,10,9,66,13,9,8
+18804,2019_20,19,2020-01-26,Gran Canaria,Surne Bilbao Basket,home,92,54,0,66,13,9,8,60,21,10,9
+18805,2019_20,19,2020-01-25,Montakit Fuenlabrada,UCAM Murcia,away,71,94,0,61,25,10,12,65,24,10,10
+18805,2019_20,19,2020-01-25,UCAM Murcia,Montakit Fuenlabrada,home,94,71,0,65,24,10,10,61,25,10,12
+18806,2019_20,19,2020-01-26,Unicaja,Movistar Estudiantes,away,68,78,0,58,33,14,18,67,21,16,15
+18806,2019_20,19,2020-01-26,Movistar Estudiantes,Unicaja,home,78,68,0,67,21,16,15,58,33,14,18
+18807,2019_20,19,2020-01-25,Casademont Zaragoza,Joventut,away,93,72,0,61,20,6,11,70,14,17,15
+18807,2019_20,19,2020-01-25,Joventut,Casademont Zaragoza,home,72,93,0,70,14,17,15,61,20,6,11
+18808,2019_20,19,2020-01-26,Real Madrid,BAXI Manresa,away,80,75,0,59,30,14,12,61,22,6,8
+18808,2019_20,19,2020-01-26,BAXI Manresa,Real Madrid,home,75,80,0,61,22,6,8,59,30,14,12
+18809,2019_20,20,2020-02-02,FC Barcelona,La Laguna Tenerife,away,87,83,0,66,17,15,14,61,17,8,13
+18809,2019_20,20,2020-02-02,La Laguna Tenerife,FC Barcelona,home,83,87,0,61,17,8,13,66,17,15,14
+18810,2019_20,20,2020-02-02,Joventut,Real Madrid,away,86,83,0,75,9,11,8,59,18,7,16
+18810,2019_20,20,2020-02-02,Real Madrid,Joventut,home,83,86,0,59,18,7,16,75,9,11,8
+18811,2019_20,20,2020-02-02,Surne Bilbao Basket,Valencia Basket,away,81,78,0,67,9,7,8,61,16,7,11
+18811,2019_20,20,2020-02-02,Valencia Basket,Surne Bilbao Basket,home,78,81,0,61,16,7,11,67,9,7,8
+18812,2019_20,20,2020-02-01,Baskonia,Unicaja,away,72,82,0,63,18,11,14,62,23,11,13
+18812,2019_20,20,2020-02-01,Unicaja,Baskonia,home,82,72,0,62,23,11,13,63,18,11,14
+18813,2019_20,20,2020-02-02,Movistar Estudiantes,MoraBanc Andorra,away,65,69,0,68,7,9,16,64,20,5,11
+18813,2019_20,20,2020-02-02,MoraBanc Andorra,Movistar Estudiantes,home,69,65,0,64,20,5,11,68,7,9,16
+18815,2019_20,20,2020-02-01,BAXI Manresa,Monbus Obradoiro,away,83,97,0,61,27,10,9,63,12,6,12
+18815,2019_20,20,2020-02-01,Monbus Obradoiro,BAXI Manresa,home,97,83,0,63,12,6,12,61,27,10,9
+18816,2019_20,20,2020-02-01,UCAM Murcia,Casademont Zaragoza,away,70,80,0,70,29,16,13,72,22,10,11
+18816,2019_20,20,2020-02-01,Casademont Zaragoza,UCAM Murcia,home,80,70,0,72,22,10,11,70,29,16,13
+18817,2019_20,20,2020-02-02,Recoletas Salud San Pablo Burgos,Coosur Real Betis,away,66,79,0,62,18,9,13,64,4,6,16
+18817,2019_20,20,2020-02-02,Coosur Real Betis,Recoletas Salud San Pablo Burgos,home,79,66,0,64,4,6,16,62,18,9,13
+18818,2019_20,21,2020-02-09,Monbus Obradoiro,Baskonia,away,69,83,0,62,8,11,16,66,16,14,13
+18818,2019_20,21,2020-02-09,Baskonia,Monbus Obradoiro,home,83,69,0,66,16,14,13,62,8,11,16
+18819,2019_20,21,2020-02-09,FC Barcelona,Gran Canaria,away,81,65,0,58,23,6,7,55,6,4,16
+18819,2019_20,21,2020-02-09,Gran Canaria,FC Barcelona,home,65,81,0,55,6,4,16,58,23,6,7
+18820,2019_20,21,2020-02-09,Coosur Real Betis,Real Madrid,away,69,93,0,61,20,8,14,63,15,5,12
+18820,2019_20,21,2020-02-09,Real Madrid,Coosur Real Betis,home,93,69,0,63,15,5,12,61,20,8,14
+18822,2019_20,21,2020-02-09,Valencia Basket,Movistar Estudiantes,away,77,73,0,50,31,7,12,66,10,8,12
+18822,2019_20,21,2020-02-09,Movistar Estudiantes,Valencia Basket,home,73,77,0,66,10,8,12,50,31,7,12
+18823,2019_20,21,2020-02-08,MoraBanc Andorra,Recoletas Salud San Pablo Burgos,away,88,94,0,70,33,17,11,70,24,12,11
+18823,2019_20,21,2020-02-08,Recoletas Salud San Pablo Burgos,MoraBanc Andorra,home,94,88,0,70,24,12,11,70,33,17,11
+18824,2019_20,21,2020-02-09,Montakit Fuenlabrada,Joventut,away,81,79,0,67,15,10,14,64,25,9,7
+18824,2019_20,21,2020-02-09,Joventut,Montakit Fuenlabrada,home,79,81,0,64,25,9,7,67,15,10,14
+18825,2019_20,21,2020-02-08,Casademont Zaragoza,BAXI Manresa,away,67,85,0,58,17,5,14,71,16,13,7
+18825,2019_20,21,2020-02-08,BAXI Manresa,Casademont Zaragoza,home,85,67,0,71,16,13,7,58,17,5,14
+18826,2019_20,21,2020-02-08,Unicaja,Surne Bilbao Basket,away,95,98,0,74,14,13,10,63,27,10,14
+18826,2019_20,21,2020-02-08,Surne Bilbao Basket,Unicaja,home,98,95,0,63,27,10,14,74,14,13,10
+18827,2019_20,22,2020-03-01,BAXI Manresa,FC Barcelona,away,74,86,0,53,23,6,18,66,15,8,11
+18827,2019_20,22,2020-03-01,FC Barcelona,BAXI Manresa,home,86,74,0,66,15,8,11,53,23,6,18
+18828,2019_20,22,2020-02-29,Baskonia,Montakit Fuenlabrada,away,98,92,2,76,38,12,12,66,36,9,19
+18828,2019_20,22,2020-02-29,Montakit Fuenlabrada,Baskonia,home,92,98,2,66,36,9,19,76,38,12,12
+18829,2019_20,22,2020-03-01,Real Madrid,Unicaja,away,92,88,0,69,18,12,3,64,22,11,8
+18829,2019_20,22,2020-03-01,Unicaja,Real Madrid,home,88,92,0,64,22,11,8,69,18,12,3
+18830,2019_20,22,2020-03-01,Recoletas Salud San Pablo Burgos,Valencia Basket,away,66,95,0,56,17,7,14,66,21,10,10
+18830,2019_20,22,2020-03-01,Valencia Basket,Recoletas Salud San Pablo Burgos,home,95,66,0,66,21,10,10,56,17,7,14
+18831,2019_20,22,2020-02-29,Gran Canaria,MoraBanc Andorra,away,70,60,0,64,10,9,10,52,21,7,18
+18831,2019_20,22,2020-02-29,MoraBanc Andorra,Gran Canaria,home,60,70,0,52,21,7,18,64,10,9,10
+18832,2019_20,22,2020-02-29,Joventut,La Laguna Tenerife,away,90,96,0,57,24,4,11,70,16,13,10
+18832,2019_20,22,2020-02-29,La Laguna Tenerife,Joventut,home,96,90,0,70,16,13,10,57,24,4,11
+18833,2019_20,22,2020-03-01,UCAM Murcia,Monbus Obradoiro,away,83,72,0,64,18,7,8,59,20,14,17
+18833,2019_20,22,2020-03-01,Monbus Obradoiro,UCAM Murcia,home,72,83,0,59,20,14,17,64,18,7,8
+18834,2019_20,22,2020-02-29,Movistar Estudiantes,Casademont Zaragoza,away,87,97,0,73,18,9,8,66,24,10,12
+18834,2019_20,22,2020-02-29,Casademont Zaragoza,Movistar Estudiantes,home,97,87,0,66,24,10,12,73,18,9,8
+18835,2019_20,22,2020-03-01,Surne Bilbao Basket,Coosur Real Betis,away,79,81,0,71,17,8,9,63,22,7,7
+18835,2019_20,22,2020-03-01,Coosur Real Betis,Surne Bilbao Basket,home,81,79,0,63,22,7,7,71,17,8,9
+18836,2019_20,23,2020-03-08,FC Barcelona,Movistar Estudiantes,away,74,67,0,50,38,8,16,67,13,9,13
+18836,2019_20,23,2020-03-08,Movistar Estudiantes,FC Barcelona,home,67,74,0,67,13,9,13,50,38,8,16
+18837,2019_20,23,2020-03-08,Casademont Zaragoza,Real Madrid,away,70,92,0,58,16,5,16,71,12,9,9
+18837,2019_20,23,2020-03-08,Real Madrid,Casademont Zaragoza,home,92,70,0,71,12,9,9,58,16,5,16
+18838,2019_20,23,2020-03-08,La Laguna Tenerife,Baskonia,away,58,75,0,57,6,5,17,61,26,13,13
+18838,2019_20,23,2020-03-08,Baskonia,La Laguna Tenerife,home,75,58,0,61,26,13,13,57,6,5,17
+18839,2019_20,23,2020-03-08,Valencia Basket,Gran Canaria,away,77,87,0,60,20,8,16,63,19,8,13
+18839,2019_20,23,2020-03-08,Gran Canaria,Valencia Basket,home,87,77,0,63,19,8,13,60,20,8,16
+18840,2019_20,23,2020-03-07,MoraBanc Andorra,UCAM Murcia,away,87,72,0,62,23,11,21,53,22,4,18
+18840,2019_20,23,2020-03-07,UCAM Murcia,MoraBanc Andorra,home,72,87,0,53,22,4,18,62,23,11,21
+18841,2019_20,23,2020-03-07,Montakit Fuenlabrada,Recoletas Salud San Pablo Burgos,away,85,89,0,64,18,14,17,66,19,10,9
+18841,2019_20,23,2020-03-07,Recoletas Salud San Pablo Burgos,Montakit Fuenlabrada,home,89,85,0,66,19,10,9,64,18,14,17
+18842,2019_20,23,2020-03-07,Unicaja,Joventut,away,97,82,0,65,18,6,13,63,15,5,10
+18842,2019_20,23,2020-03-07,Joventut,Unicaja,home,82,97,0,63,15,5,10,65,18,6,13
+18843,2019_20,23,2020-03-07,Coosur Real Betis,BAXI Manresa,away,84,74,0,62,19,6,12,67,10,12,15
+18843,2019_20,23,2020-03-07,BAXI Manresa,Coosur Real Betis,home,74,84,0,67,10,12,15,62,19,6,12
+18844,2019_20,23,2020-03-08,Monbus Obradoiro,Surne Bilbao Basket,away,72,99,0,60,19,8,10,72,11,7,8
+18844,2019_20,23,2020-03-08,Surne Bilbao Basket,Monbus Obradoiro,home,99,72,0,72,11,7,8,60,19,8,10
+19106,2019_20,25,2020-06-19,Joventut,Surne Bilbao Basket,away,86,79,1,73,24,14,18,77,17,12,13
+19106,2019_20,25,2020-06-19,Surne Bilbao Basket,Joventut,home,79,86,1,77,17,12,13,73,24,14,18
+19107,2019_20,25,2020-06-19,La Laguna Tenerife,Baskonia,away,72,79,0,60,18,14,12,60,14,6,14
+19107,2019_20,25,2020-06-19,Baskonia,La Laguna Tenerife,home,79,72,0,60,14,6,14,60,18,14,12
+19108,2019_20,25,2020-06-19,FC Barcelona,Unicaja,away,84,73,0,60,28,9,7,61,13,10,15
+19108,2019_20,25,2020-06-19,Unicaja,FC Barcelona,home,73,84,0,61,13,10,15,60,28,9,7
+19109,2019_20,25,2020-06-20,Gran Canaria,MoraBanc Andorra,away,104,88,0,56,35,2,10,56,18,4,17
+19109,2019_20,25,2020-06-20,MoraBanc Andorra,Gran Canaria,home,88,104,0,56,18,4,17,56,35,2,10
+19110,2019_20,25,2020-06-20,Casademont Zaragoza,Valencia Basket,away,71,89,0,60,14,3,11,68,11,12,14
+19110,2019_20,25,2020-06-20,Valencia Basket,Casademont Zaragoza,home,89,71,0,68,11,12,14,60,14,3,11
+19111,2019_20,25,2020-06-20,Real Madrid,Recoletas Salud San Pablo Burgos,away,83,87,0,65,16,7,14,66,15,8,12
+19111,2019_20,25,2020-06-20,Recoletas Salud San Pablo Burgos,Real Madrid,home,87,83,0,66,15,8,12,65,16,7,14
+19112,2019_20,26,2020-06-21,Unicaja,Joventut,away,98,89,0,68,22,9,7,65,20,8,11
+19112,2019_20,26,2020-06-21,Joventut,Unicaja,home,89,98,0,65,20,8,11,68,22,9,7
+19113,2019_20,26,2020-06-21,Baskonia,FC Barcelona,away,75,81,0,65,12,9,18,62,18,5,15
+19113,2019_20,26,2020-06-21,FC Barcelona,Baskonia,home,81,75,0,62,18,5,15,65,12,9,18
+19114,2019_20,26,2020-06-21,Surne Bilbao Basket,La Laguna Tenerife,away,78,70,0,60,15,12,14,59,8,4,15
+19114,2019_20,26,2020-06-21,La Laguna Tenerife,Surne Bilbao Basket,home,70,78,0,59,8,4,15,60,15,12,14
+19115,2019_20,26,2020-06-22,Recoletas Salud San Pablo Burgos,Gran Canaria,away,87,91,1,63,28,7,19,75,26,10,10
+19115,2019_20,26,2020-06-22,Gran Canaria,Recoletas Salud San Pablo Burgos,home,91,87,1,75,26,10,10,63,28,7,19
+19116,2019_20,26,2020-06-22,Valencia Basket,Real Madrid,away,90,95,0,66,16,10,11,68,13,10,8
+19116,2019_20,26,2020-06-22,Real Madrid,Valencia Basket,home,95,90,0,68,13,10,8,66,16,10,11
+19117,2019_20,26,2020-06-22,MoraBanc Andorra,Casademont Zaragoza,away,113,93,0,71,20,9,11,66,22,8,16
+19117,2019_20,26,2020-06-22,Casademont Zaragoza,MoraBanc Andorra,home,93,113,0,66,22,8,16,71,20,9,11
+19118,2019_20,27,2020-06-23,Joventut,La Laguna Tenerife,away,80,82,0,60,31,9,15,62,23,9,17
+19118,2019_20,27,2020-06-23,La Laguna Tenerife,Joventut,home,82,80,0,62,23,9,17,60,31,9,15
+19119,2019_20,27,2020-06-23,FC Barcelona,Surne Bilbao Basket,away,85,73,0,65,20,4,11,64,11,9,18
+19119,2019_20,27,2020-06-23,Surne Bilbao Basket,FC Barcelona,home,73,85,0,64,11,9,18,65,20,4,11
+19120,2019_20,27,2020-06-23,Unicaja,Baskonia,away,86,87,1,72,15,9,16,76,19,11,10
+19120,2019_20,27,2020-06-23,Baskonia,Unicaja,home,87,86,1,76,19,11,10,72,15,9,16
+19121,2019_20,27,2020-06-24,Gran Canaria,Casademont Zaragoza,away,76,85,0,64,14,12,15,70,22,14,8
+19121,2019_20,27,2020-06-24,Casademont Zaragoza,Gran Canaria,home,85,76,0,70,22,14,8,64,14,12,15
+19122,2019_20,27,2020-06-24,Real Madrid,MoraBanc Andorra,away,75,91,0,62,18,5,12,61,25,7,11
+19122,2019_20,27,2020-06-24,MoraBanc Andorra,Real Madrid,home,91,75,0,61,25,7,11,62,18,5,12
+19123,2019_20,27,2020-06-24,Recoletas Salud San Pablo Burgos,Valencia Basket,away,90,94,0,65,11,2,9,75,21,13,6
+19123,2019_20,27,2020-06-24,Valencia Basket,Recoletas Salud San Pablo Burgos,home,94,90,0,75,21,13,6,65,11,2,9
+19124,2019_20,28,2020-06-25,Baskonia,Joventut,away,74,76,0,59,13,5,13,69,13,15,13
+19124,2019_20,28,2020-06-25,Joventut,Baskonia,home,76,74,0,69,13,15,13,59,13,5,13
+19125,2019_20,28,2020-06-25,Surne Bilbao Basket,Unicaja,away,65,78,0,58,21,7,15,69,10,10,10
+19125,2019_20,28,2020-06-25,Unicaja,Surne Bilbao Basket,home,78,65,0,69,10,10,10,58,21,7,15
+19126,2019_20,28,2020-06-25,La Laguna Tenerife,FC Barcelona,away,87,86,0,63,17,9,14,62,8,8,16
+19126,2019_20,28,2020-06-25,FC Barcelona,La Laguna Tenerife,home,86,87,0,62,8,8,16,63,17,9,14
+19127,2019_20,28,2020-06-26,Valencia Basket,Gran Canaria,away,97,81,0,68,5,7,6,64,9,3,5
+19127,2019_20,28,2020-06-26,Gran Canaria,Valencia Basket,home,81,97,0,64,9,3,5,68,5,7,6
+19128,2019_20,28,2020-06-26,MoraBanc Andorra,Recoletas Salud San Pablo Burgos,away,86,88,0,66,12,5,20,69,28,10,16
+19128,2019_20,28,2020-06-26,Recoletas Salud San Pablo Burgos,MoraBanc Andorra,home,88,86,0,69,28,10,16,66,12,5,20
+19129,2019_20,28,2020-06-26,Casademont Zaragoza,Real Madrid,away,88,97,0,65,17,5,8,65,20,7,11
+19129,2019_20,28,2020-06-26,Real Madrid,Casademont Zaragoza,home,97,88,0,65,20,7,11,65,17,5,8
