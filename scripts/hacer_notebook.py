@@ -6,39 +6,40 @@ nb = nbf.v4.new_notebook()
 md, code = nbf.v4.new_markdown_cell, nbf.v4.new_code_cell
 nb.cells = [
     md(
-        "# Método: expectativa pitagórica en la ACB 25/26\n\nReproduce las cifras del artículo "
-        "llamando al paquete `pitagorica`. Reglas en `docs/preregistro.md`."
+        "# Método: expectativa pitagórica en la ACB (8 temporadas)\n\nReproduce las cifras del artículo "
+        "llamando al paquete `pitagorica`. Reglas en `docs/preregistro_v2.md`. Aquí se usan menos "
+        "remuestreos (2000) que en `make analisis` (10.000), así que los intervalos varían algo."
     ),
     code(
         "import numpy as np, pandas as pd\n"
-        "from pitagorica import datos, pitagoras, simulacion, estadistica as est, K_NBA, SEMILLA\n"
+        "from pitagorica import datos, multitemporada as mt, K_NBA, SEMILLA\n"
         "rng = np.random.default_rng(SEMILLA)\n"
-        "df = datos.cargar()\n"
-        "t, t1, t2 = datos.tabla_equipos(df), datos.tabla_equipos(df, 1), datos.tabla_equipos(df, 2)\n"
-        "t.head()"
+        "df_all = datos.cargar_todas()\n"
+        "df = df_all[df_all['season'].isin(datos.temporadas_usables(df_all))]\n"
+        "ts = datos.tabla_temporadas(df)\n"
+        "print(len(ts), 'equipos-temporada de', ts['club'].nunique(), 'clubes')\n"
+        "ts.head()"
     ),
-    md("## Calibrar k"),
+    md("## Calibrar k fuera de muestra"),
     code(
-        "k = pitagoras.ajustar_k_tabla(t)\n"
-        "print('k ACB =', round(k, 2), '| error medio:', round(pitagoras.error_medio(t, k), 2),\n"
-        "      '| con k=14:', round(pitagoras.error_medio(t, K_NBA), 2))\n"
-        "print(pitagoras.validacion_mitades(t1, t2))\n"
-        "print(pitagoras.validacion_loo(t))"
+        "val = mt.validacion_k(ts)\n"
+        "print('k conjunto =', round(mt.k_conjunto(ts), 2))\n"
+        "print('error medio k_sin_temporada:', round(val['error_k_sin_temporada'].mean(), 2),\n"
+        "      '| con k=14:', round(val['error_k14'].mean(), 2))\n"
+        "val.round(2)"
     ),
-    md("## Desvíos y banda del azar (simulación log5)"),
+    md("## Desvíos y pares t → t+1"),
     code(
-        "pyth = pd.Series(pitagoras.pitagorico(t['PF'], t['PC'], k), index=t.index)\n"
-        "wins_sim, diag = simulacion.simular(datos.partidos(df), pyth, 2000, rng)\n"
-        "tabla = pd.DataFrame({'V': t['V'], 'esperadas': t['G'] * pyth}).join(simulacion.banda(wins_sim))\n"
-        "tabla['desvio'] = tabla['V'] - tabla['esperadas']\n"
-        "tabla.sort_values('desvio', ascending=False).round(2)"
+        "td = mt.con_desvios(ts)\n"
+        "p = mt.pares(td)\n"
+        "print(len(p), 'pares')\n"
+        "td[td['season'] == '2025_26'].sort_values('desvio34', ascending=False)"
+        "[['club', 'V', 'esperadas34', 'desvio34']].round(2)"
     ),
-    md("## ¿Se repite? (2000 simulaciones aquí; el artículo usa 10.000: `make analisis`)"),
+    md("## ¿Se repite? Test principal pre-registrado"),
     code(
-        "d1, d2 = est.desvio(t1, k), est.desvio(t2, k)\n"
-        "a = est.contraste_mitades(d1, d2, 2000, rng)\n"
-        "b = est.contraste_varianza(tabla['desvio'], tabla['esperadas'], wins_sim)\n"
-        "print(a); print(b); print(est.decision(a, b))"
+        "res = mt.persistencia(p, 2000, rng)\n"
+        "print({k: res[k] for k in ('r', 'pendiente', 'n_pares', 'conclusion')})"
     ),
 ]
 nbf.write(nb, "notebooks/metodo.ipynb")
