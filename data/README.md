@@ -17,7 +17,7 @@
 
 ## Procedencia
 
-Derivado de los boxscores públicos de acb.com, agregados a totales de equipo con `scripts/extraer_partidos.py`. Los marcadores y estadísticas de partido son datos públicos; la procedencia exacta del parquet de origen es un repositorio privado de Basketmática que no es necesario para reproducir nada de este proyecto.
+Recopilados por Basketmática mediante scraping de acb.com (boxscores de liga regular) y agregados a totales de equipo y partido. `scripts/extraer_partidos.py` muestra la agregación a partir de boxscores por jugador. La ACB es la fuente de los datos originales.
 
 ## Particularidades por temporada
 
@@ -35,6 +35,6 @@ El nombre del equipo cambia con el patrocinador. Para emparejar temporadas se us
 
 Cada partido tiene exactamente dos filas coherentes (marcadores y rivales cruzados), sin valores nulos y sin empates. Prórrogas: columna `overtimes`.
 
-## Licencia
+## Licencia y uso
 
-Datos bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (atribución: Basketmática). El código del repositorio es MIT (ver `LICENSE`).
+Los marcadores y estadísticas de partido proceden de acb.com. **No se concede licencia sobre los datos de origen**: se publican solo totales de equipo y partido, con fines de análisis y reproducibilidad, y sin garantía alguna. Si vas a reutilizarlos, comprueba los términos de uso de acb.com. El código del repositorio es MIT (ver `LICENSE`).

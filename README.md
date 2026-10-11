@@ -29,7 +29,7 @@ make test
 
 ```
 data/            CSV equipo-partido por temporada (9 ficheros) y diccionario
-docs/            pre-registros v1 y v2
+docs/            pre-registros v1 y v2 y apéndice metodológico
 src/pitagorica/  datos, pitagoras (k), simulacion (log5), estadistica (v1),
                  multitemporada (k fuera de muestra y test entre temporadas), graficos
 scripts/         analisis.py (v2), analisis_v1.py, extraer_partidos.py, hacer_notebook.py
@@ -40,4 +40,4 @@ articulo/        artículo web en Markdown
 
 ## Licencia
 
-Código MIT (`LICENSE`). Datos CC BY 4.0 (atribución: Basketmática), ver `data/README.md`.
+Código MIT (`LICENSE`). Los datos proceden de acb.com y no se licencian aquí: ver `data/README.md`.
