@@ -3,7 +3,6 @@
     uv run python scripts/analisis.py [--rapido]
 
 --rapido reduce remuestreos y simulaciones (solo para depurar; no usar para publicar).
-El análisis v1 (solo la 25/26) sigue disponible en scripts/analisis_v1.py → outputs/v1/.
 """
 
 from __future__ import annotations

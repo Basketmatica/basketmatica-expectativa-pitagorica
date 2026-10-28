@@ -1,14 +1,14 @@
 [project]
 name = "pitagorica"
 version = "0.1.0"
-description = "Expectativa pitagórica en la ACB 2025/26: ¿suerte o habilidad?"
+description = "Expectativa pitagórica en la ACB (2017/18 a 2025/26): ¿suerte o habilidad?"
 readme = "README.md"
 requires-python = ">=3.12"
 license = { text = "MIT" }
 dependencies = ["numpy>=1.26", "pandas>=2.2", "scipy>=1.12", "matplotlib>=3.8"]
 
 [dependency-groups]
-dev = ["pytest>=8", "ruff>=0.5", "jupyter-core", "nbconvert", "nbformat", "ipykernel"]
+dev = ["pytest>=8", "ruff>=0.5", "ipykernel"]
 
 [build-system]
 requires = ["hatchling"]
@@ -26,6 +26,3 @@ target-version = "py312"
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "B", "UP"]
-
-[tool.ruff.lint.per-file-ignores]
-"scripts/hacer_notebook.py" = ["E501"]

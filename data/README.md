@@ -17,7 +17,7 @@
 
 ## Procedencia
 
-Recopilados por Basketmática mediante scraping de acb.com (boxscores de liga regular) y agregados a totales de equipo y partido. `scripts/extraer_partidos.py` muestra la agregación a partir de boxscores por jugador. La ACB es la fuente de los datos originales.
+Recopilados por Basketmática mediante scraping de acb.com (boxscores de liga regular) y agregados a totales de equipo y partido. La ACB es la fuente de los datos originales.
 
 ## Particularidades por temporada
 
